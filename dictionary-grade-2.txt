@@ -1,0 +1,2124 @@
+English Word	Is Important	Pronunciation	POS Symbol	Part of Speech	Japanese Translation	Origin	Reference Page
+a	TRUE	[ə]	K	Adjective	1つの, 1人の	Grade 1	1
+a piece of ~	FALSE	—	—	—	1つ[個/枚]の〜	101	101
+a lot	FALSE	—	—	—	たくさん, 大いに	46	46
+a lot of ~	FALSE	—	—	—	たくさんの〜	46	46
+a long time ago	FALSE	—	—	—	ずっと前に	86	86
+a piece of ~	FALSE	—	—	—	1つ[個/枚]の〜	101	101
+a strange ~	FALSE	—	—	—	変わった〜	86	86
+~ times a day	FALSE	—	—	—	1日に〜回	101	101
+able	FALSE	[éibl]	K	Adjective	〜できる, 能力のある	81	81
+be able to ~	FALSE	—	—	—	〜することができる	81	81
+about	FALSE	[əbáut]	D	Preposition	〜について, H 〜について	81	81
+about ~	FALSE	—	—	—	およそ〜, 約〜	1	1
+above	FALSE	[əbʌ́v]	D	Preposition	〜の上に[へ]	1	1
+absolutely	FALSE	[æ̀bsəlúːtli]	G	Adverb	まったく(そのとおり)	111	111
+accident	FALSE	[ǽksidənt]	A	Noun	事故	95	95
+according	FALSE	[əkɔ́ːrdiŋ]	K	Adjective	一致して	1	1
+according to ~	FALSE	—	—	—	〜によれば	1	1
+achievement test	FALSE	[ətʃíːvmənt test]	A	Noun	学力テスト	130	130
+acoustic guitar	FALSE	[əkúːstik gitάːr]	A	Noun	アコースティックギター	131	131
+across	FALSE	[əkrɔ́ːs]	D	Preposition	〜を横切って	70	70
+action	FALSE	[ǽkʃən]	A	Noun	行動	Elementary	
+take action	FALSE	—	—	—	行動を起こす	Elementary	
+active	FALSE	[ǽktiv]	K	Adjective	活動的な	1	1
+actually	FALSE	[ǽktʃuəli]	G	Adverb	実際に	1	1
+add	FALSE	[æd]	B	Verb	〜を加える	52	52
+admire	FALSE	[ædmáiər]	B	Verb	〜に感心する	42	42
+adorable	FALSE	[ədɔ́ːrəbl]	K	Adjective	とてもかわいい	120	120
+Africa	FALSE	[ǽfrikə]	A	Noun	アフリカ	101	101
+African Lion Safari	FALSE	[ǽfrikən láiən səfάːri]	A	Noun	アフリカンリオンサファリ	19	19
+after	TRUE	[ǽftər]	D	Preposition	〜(時･順序)のあとに[で]	29	29
+after a while	FALSE	—	—	—	しばらくして	71	71
+afternoon	TRUE	[æ̀ftərnúːn]	A	Noun	午後	Elementary	
+again	TRUE	[əgéin]	G	Adverb	再び, もう一度	11	11
+agree	FALSE	[əgríː]	B	Verb	賛成する	1	1
+agree with ~	FALSE	—	—	—	〜に賛成する	1	1
+agricultural	FALSE	[æ̀grikʌ́ltʃərəl]	K	Adjective	農業の	102	102
+agricultural chemical	FALSE	[æ̀grikʌ́ltʃərəl kémikəl]	A	Noun	農薬	102	102
+agriculture	FALSE	[ǽgrikʌ̀ltʃər]	A	Noun	農業	120	120
+ah	FALSE	[ɑː]	C	Interjection	ああ	1	1
+ah(ha)	FALSE	[ɑː(hɑ́ː)]	C	Interjection	ああ(喜び・悲しみなどを表す)	81	81
+air	TRUE	[ɛər]	A	Noun	空気	1	1
+air circulator	FALSE	[ɛər sə́ːrkjuleitər]	A	Noun	エアサーキュレーター (空気循環器)	83	83
+air conditioner	FALSE	[ɛər kəndíʃənər]	A	Noun	エアコン	83	83
+airplane	FALSE	[ɛ́ərplèin]	A	Noun	飛行機	1	1
+airport	TRUE	[ɛ́ərpɔ̀ːrt]	A	Noun	空港	92	92
+Alice	FALSE	[ǽlis]	A	Noun	アリス (女子の名)	73	73
+all	TRUE	[ɔːl]	K	Adjective	すべての	1	1
+all over ~	FALSE	—	—	—	〜中で, 〜の至る所に	1	1
+all over the ~	FALSE	—	—	—	〜の至る所で	101	101
+alligator	FALSE	[ǽligèitər]	A	Noun	アリゲーター (ワニの1種)	1	1
+almost	TRUE	[ɔ́ːlmoust]	G	Adverb	ほとんど	1	1
+also	TRUE	[ɔ́ːlsou]	G	Adverb	〜もまた, さらに	1	1
+always	TRUE	[ɔ́ːlweiz]	G	Adverb	いつも	1	1
+am	TRUE	[æm]	B	Verb	〜である, 〜にいる [be動詞 is と同じ意味]	1	1
+a.m. / am / AM	FALSE	[èiém]	G	Adverb	午前	1	1
+am	TRUE	[æm, əm]	M	Auxiliary verb	〜である (主語が I のときの be 動詞現在形)	1	1
+amazing	TRUE	[əméiziŋ]	K	Adjective	すばらしい, 見事な	1	1
+Amazon	FALSE	[ǽməzɑ̀n]	A	Noun	アマゾン川	1	1
+ambassador	FALSE	[æmbǽsədər]	A	Noun	大使	94	94
+ambitious	FALSE	[æmbíʃəs]	K	Adjective	大望のある	1	1
+American	FALSE	[əmérikən]	K	Adjective	アメリカ(人)の	35	35
+American football	FALSE	[əmérikən fútbɔ̀ːl]	A	Noun	アメリカンフットボール	131	131
+amount	FALSE	[əmáunt]	A	Noun	量	42	42
+amusement park	FALSE	[əmjúːzmənt pὰːrk]	A	Noun	遊園地	15	15
+an	TRUE	[æn]	K	Adjective	1つの, 1人の	1	1
+and	TRUE	[ænd, ənd]	H	Conjunction	〜と〜, そして	1	1
+animal	TRUE	[ǽnəməl]	A	Noun	動物	1	1
+Ann	FALSE	[æn]	A	Noun	アン (女子の名)	1	1
+annoyed	FALSE	[ənɔ́id]	K	Adjective	いらいらして	130	130
+annoying	FALSE	[ənɔ́iiŋ]	K	Adjective	いらいらさせる	1	1
+annual	FALSE	[ǽnjuəl]	K	Adjective	年に1回の	79	79
+another	FALSE	[ənʌ́ðər]	K	Adjective	もう1つの, 別の	92	92
+one after another	FALSE	—	—	—	次々に	92	92
+answer	TRUE	[ǽnsər]	B	Verb	答える	48	48
+ant	FALSE	[ænt]	A	Noun	アリ	1	1
+any	TRUE	[éni]	K	Adjective	(疑問文で) 何か, いくつか	130	130
+any	TRUE	[éni]	K	Adjective	(否定文で) 何も(〜ない), 1つ[人]も(〜ない)	1	1
+any	TRUE	[éni]	K	Adjective	(肯定文で) どんな〜も	1	1
+any	TRUE	[éni]	E	Pronoun	(〜の中の)どれか, だれか	1	1
+any of ~	FALSE	—	—	—	〜のうちのどれか[だれか]	56	56
+anyone	FALSE	[éniwʌ̀n]	E	Pronoun	(疑問文で) だれか	1	1
+anything	FALSE	[éniθìŋ]	E	Pronoun	(疑問文で) 何か	1	1
+anyway	FALSE	[éniwèi]	G	Adverb	とにかく	1	1
+apartment	FALSE	[əpάːrtmənt]	A	Noun	アパート	1	1
+apologize	FALSE	[əpάlədʒàiz]	B	Verb	謝る	124	124
+appear	FALSE	[əpíər]	B	Verb	現れる	117	117
+apple	TRUE	[ǽpl]	A	Noun	リンゴ	127	127
+approach	FALSE	[əpróutʃ]	B	Verb	近づく	1	1
+apricot	FALSE	[éiprikὰt]	A	Noun	アンズ	126	126
+April	TRUE	[éiprəl]	A	Noun	4月	1	1
+apron	FALSE	[éiprən]	A	Noun	エプロン	66	66
+aquarium	FALSE	[əkwɛ́əriəm]	A	Noun	水族館	1	1
+are	TRUE	[ɑːr]	B	Verb	〜である, 〜にいる (主語が you, they または複数の名詞のときの be 動詞現在形)	1	1
+are	TRUE	[ɑːr]	M	Auxiliary verb	〜である (主語が複数形のときの be 動詞現在形)	1	1
+aren't	FALSE	[ɑːrnt]	—	—	(are not の短縮形)	1	1
+around	TRUE	[əráund]	D	Preposition	〜のあちこちに[で]	1	1
+around	TRUE	[əráund]	G	Adverb	あちこちを[に, で]	1	1
+arrive	TRUE	[əráiv]	B	Verb	着く, 到着する	21	21
+art	TRUE	[ɑːrt]	A	Noun	美術, 芸術	1	1
+art museum	FALSE	[ɑːrt mjuːzíːəm]	A	Noun	美術館	132	132
+artist	FALSE	[άːrtist]	A	Noun	芸術家, アーティスト	46	46
+as	FALSE	[æz, əz]	H	Conjunction	〜として	1	1
+ashamed	FALSE	[əʃéimd]	K	Adjective	恥じて	42	42
+ask	TRUE	[æsk]	B	Verb	尋ねる, 頼む	76	76
+ask ~ for ...	FALSE	—	—	—	〜に…を求める, 頼む	76	76
+asleep	FALSE	[əslíːp]	K	Adjective	眠って	48	48
+fall asleep	FALSE	—	—	—	眠り込む	71	71
+astronaut	FALSE	[ǽstrənɔ̀ːt]	A	Noun	宇宙飛行士	125	125
+at	TRUE	[æt]	D	Preposition	(場所を表して) 〜で, 〜に	130	130
+at	TRUE	[æt]	D	Preposition	(時刻を表して) 〜に	1	1
+at ~	FALSE	—	—	—	(状態などを表して) 〜に	1	1
+at first	FALSE	—	—	—	最初は	1	1
+at last	FALSE	—	—	—	ついに	92	92
+at war	FALSE	—	—	—	戦争中で	126	126
+ate	FALSE	[eit]	B	Verb	(eat の過去形)	1	1
+athlete	FALSE	[ǽθliːt]	A	Noun	運動選手, アスリート	66	66
+atomic	FALSE	[ətάmik]	K	Adjective	原子(力)の	112	112
+attack	FALSE	[ətǽk]	B	Verb	襲う, 攻撃する	1	1
+attention	FALSE	[əténʃən]	A	Noun	注目	1	1
+Pay attention.	FALSE	—	—	—	注目しなさい (アナウンスで) お知らせします	1	1
+August	TRUE	[ɔ́ːgəst]	A	Noun	8月	117	117
+aunt	FALSE	[ænt]	A	Noun	おば	1	1
+aurora	FALSE	[ərɔ́ːrə]	A	Noun	オーロラ	1	1
+Australia	TRUE	[ɔːstréiljə]	A	Noun	オーストラリア	1	1
+autumn	FALSE	[ɔ́ːtəm]	A	Noun	秋	1	1
+avocado	FALSE	[æ̀vəkάːdou]	A	Noun	アボカド	126	126
+awake	FALSE	[əwéik]	G	Adverb	目がさめて	102	102
+away	TRUE	[əwéi]	G	Adverb	去って, 離れて	1	1
+awesome	FALSE	[ɔ́ːsəm]	K	Adjective	すごい, すばらしい	1	1
+baby	TRUE	[béibi]	A	Noun	赤ちゃん	1	1
+back	TRUE	[bæk]	A	Noun	背中	1	1
+back	TRUE	[bæk]	G	Adverb	(元の場所に) もどって	1	1
+back	TRUE	[bæk]	G	Adverb	後ろへ[に]	46	46
+bad	TRUE	[bæd]	K	Adjective	悪い	1	1
+badge	FALSE	[bædʒ]	A	Noun	バッジ	115	115
+badminton	TRUE	[bǽdmintən]	A	Noun	バドミントン	1	1
+bag	TRUE	[bæg]	A	Noun	かばん, 袋	1	1
+bakery	FALSE	[béikəri]	A	Noun	パン屋	132	132
+balance	FALSE	[bǽləns]	A	Noun	バランス, つり合い	1	1
+ball	TRUE	[bɔːl]	A	Noun	ボール	1	1
+ball-point pen [ball-pen]	FALSE	[bɔ́ːlpɔ̀int pèn]	A	Noun	ボールペン	130	130
+banana	TRUE	[bənǽnə]	A	Noun	バナナ	1	1
+bang	FALSE	[bæŋ]	B	Verb	ドカンという音を立てる	132	132
+barbershop	FALSE	[bάːrbərʃὰp]	A	Noun	理髪店	1	1
+baseball	TRUE	[béisbɔ̀ːl]	A	Noun	野球	1	1
+basketball	TRUE	[bǽskitbɔ̀ːl]	A	Noun	バスケットボール	1	1
+a basketball game	FALSE	—	—	—	バスケットボールの試合	36	36
+bat	FALSE	[bæt]	A	Noun	コウモリ	1	1
+bath	TRUE	[bæθ]	A	Noun	ふろ, 入浴	1	1
+take a bath	FALSE	—	—	—	ふろに入る	1	1
+bathroom	TRUE	[bǽθrùːm]	A	Noun	浴室, トイレ	1	1
+be	TRUE	[biː, bi]	B	Verb	〜になる, 〜である	1	1
+be able to ~	FALSE	—	—	—	〜することができる	81	81
+be interested in ~	FALSE	—	—	—	〜に興味がある	21	21
+be ready to ~	FALSE	—	—	—	〜の準備ができている	69	69
+beach	TRUE	[biːtʃ]	A	Noun	浜, 砂浜, 海辺, 海岸	1	1
+bear	FALSE	[bɛər]	A	Noun	クマ	43	43
+beat	FALSE	[biːt]	B	Verb	打ち負かす	1	1
+beautiful	TRUE	[bjúːtəfl]	K	Adjective	美しい, すばらしい	1	1
+became	FALSE	[bikéim]	B	Verb	(become の過去形)	57	57
+become	TRUE	[bikʌ́m]	B	Verb	〜になる	74	74
+Becky	FALSE	[béki]	A	Noun	ベッキー (女子の名)	1	1
+because	TRUE	[bikɔ́ːz]	H	Conjunction	(理由･原因) 〜なので	120	120
+bed	TRUE	[bed]	A	Noun	ベッド, 寝床	1	1
+go to bed	FALSE	—	—	—	寝る, 就寝する	59	59
+bedroom	TRUE	[bédrùːm]	A	Noun	寝室	81	81
+bee	FALSE	[biː]	A	Noun	ハチ, ミツバチ	86	86
+beef	FALSE	[biːf]	A	Noun	牛肉, ビーフ	53	53
+before	TRUE	[bifɔ́ːr]	D	Preposition	〜の前に	1	1
+before	TRUE	[bifɔ́ːr]	H	Conjunction	〜する前に	1	1
+beige	FALSE	[beiʒ]	K	Adjective	ベージュ色の	130	130
+believe	TRUE	[bilíːv]	B	Verb	信じる, 思う	24	24
+believe in ~	FALSE	—	—	—	〜(の可能性・存在)を信じる	25	25
+bell	TRUE	[bel]	A	Noun	ベル, 鐘(の音)	1	1
+beside	FALSE	[bisáid]	D	Preposition	〜のそばに[で]	71	71
+best	TRUE	[best]	K	Adjective	いちばんよい	1	1
+best	TRUE	[best]	G	Adverb	(〜)の中でいちばん, 最も	13	13
+best	TRUE	[best]	G	Adverb	もっともよく (well, very much の最上級)	98	98
+do one's best	FALSE	—	—	—	最善を尽くす	13	13
+better	FALSE	[bétər]	K	Adjective	(〜より) もっとよい	13	13
+better	FALSE	[bétər]	G	Adverb	もっとじょうずに (well, very much の比較級)	64	64
+between	FALSE	[bitwíːn]	D	Preposition	〜の間に[で]	94	94
+beyond	FALSE	[biάnd]	D	Preposition	〜を越えて	92	92
+bicycle	TRUE	[báisikl]	A	Noun	自転車	1	1
+big	TRUE	[big]	K	Adjective	大きい	1	1
+bike	TRUE	[baik]	A	Noun	自転車 (おもな米), オートバイ	52	52
+bill	FALSE	[bil]	A	Noun	請求書	1	1
+birthday	TRUE	[bə́ːrθdèi]	A	Noun	誕生日	1	1
+bit	FALSE	[bit]	A	Noun	少量, 少し	12	12
+a bit	FALSE	—	—	—	少し	12	12
+bitter	FALSE	[bítər]	K	Adjective	苦い	1	1
+black	TRUE	[blæk]	K	Adjective	黒い	1	1
+blame	FALSE	[bleim]	B	Verb	〜を責める	69	69
+blossom	FALSE	[blάsəm]	A	Noun	(おもに果樹の) 花	99	99
+Blue Mountains	FALSE	[blúː máuntnz]	A	Noun	ブルーマウンテンズ (オーストラリア南東部にある高原)	1	1
+boarding	FALSE	[bɔ́ːrdiŋ]	A	Noun	搭乗, 搭乗券	117	117
+boat	TRUE	[bout]	A	Noun	ボート, 小舟	67	67
+Bob	FALSE	[bɑb]	A	Noun	ボブ (男子の名)	80	80
+body	TRUE	[bάdi]	A	Noun	体, 体つき	1	1
+boiled	FALSE	[bɔild]	K	Adjective	ゆでた, 煮た	131	131
+bomb	FALSE	[bɑm]	A	Noun	爆弾	112	112
+bone	FALSE	[boun]	A	Noun	骨	43	43
+book	TRUE	[buk]	A	Noun	本	1	1
+bookstore	TRUE	[búkstɔ̀ːr]	A	Noun	本屋	1	1
+border	FALSE	[bɔ́ːrdər]	A	Noun	国境, 境界(線)	92	92
+bored	FALSE	[bɔːrd]	K	Adjective	退屈した	130	130
+boring	FALSE	[bɔ́ːriŋ]	K	Adjective	退屈な	132	132
+born	FALSE	[bɔːrn]	B	Verb	(bear の過去分詞)	1	1
+be born	FALSE	—	—	—	(〜に) 生まれる	120	120
+both	FALSE	[bouθ]	K	Adjective	両方の	1	1
+both A and B	FALSE	—	—	—	AもBも両方とも	67	67
+bottom	FALSE	[bάtəm]	A	Noun	底, 最下部	105	105
+bought	FALSE	[bɔːt]	B	Verb	(buy の過去形・過去分詞)	46	46
+bowl	FALSE	[boul]	A	Noun	どんぶり, わん	32	32
+bowling	FALSE	[bóuliŋ]	A	Noun	ボウリング	129	129
+go bowling	FALSE	—	—	—	ボウリングに行く	129	129
+box	TRUE	[bɑks]	A	Noun	箱	1	1
+boy	TRUE	[bɔi]	A	Noun	少年	1	1
+brain	FALSE	[brein]	A	Noun	脳	102	102
+brand	FALSE	[brænd]	A	Noun	ブランド, 銘柄	1	1
+brass band	FALSE	[brǽs bæ̀nd]	A	Noun	ブラスバンド	131	131
+Brazil	FALSE	[brəzíl]	A	Noun	ブラジル	1	1
+bread	TRUE	[bred]	A	Noun	パン	1	1
+break	TRUE	[breik]	B	Verb	〜をこわす, 割る	1	1
+break	TRUE	[breik]	A	Noun	休憩	111	111
+breakfast	TRUE	[brékfəst]	A	Noun	朝食	1	1
+breathe	FALSE	[briːð]	B	Verb	呼吸する	102	102
+breathing	FALSE	[bríːðiŋ]	A	Noun	呼吸	1	1
+bridge	TRUE	[bridʒ]	A	Noun	橋	56	56
+bring	TRUE	[briŋ]	B	Verb	連れてくる, 持ってくる	50	50
+broke	FALSE	[brouk]	B	Verb	(break の過去形)	1	1
+broken	FALSE	[bróukən]	B	Verb	(break の過去分詞)	111	111
+Brooklyn	FALSE	[brúklin]	A	Noun	ブルックリン (ニューヨーク市の区の1つ)	1	1
+brother	TRUE	[brʌ́ðər]	A	Noun	兄, 弟	1	1
+brown	TRUE	[braun]	K	Adjective	茶色(の)	109	109
+brush	FALSE	[brʌʃ]	B	Verb	歯をみがく	1	1
+build	TRUE	[bild]	B	Verb	建てる, 作る	57	57
+building	TRUE	[bíldiŋ]	A	Noun	建物, ビルディング	88	88
+built	FALSE	[bilt]	B	Verb	(build の過去形・過去分詞)	1	1
+burger	FALSE	[bə́ːrgər]	A	Noun	ハンバーガー	30	30
+bury	FALSE	[béri]	B	Verb	埋葬する, 埋める	93	93
+bus	TRUE	[bʌs]	A	Noun	バス	1	1
+busy	TRUE	[bízi]	K	Adjective	忙しい	1	1
+but	TRUE	[bʌt, bət]	H	Conjunction	しかし	1	1
+butcher shop	FALSE	[bútʃər ʃɑ̀p]	A	Noun	肉屋	132	132
+butter	FALSE	[bʌ́tər]	A	Noun	バター	109	109
+button	FALSE	[bʌ́tn]	A	Noun	(衣類の) ボタン	1	1
+buy	TRUE	[bai]	B	Verb	買う	1	1
+by	TRUE	[bai]	D	Preposition	(手段を表して) 〜で	1	1
+by	TRUE	[bai]	D	Preposition	〜のそばに[の], 〜のかたわらに	1	1
+by	TRUE	[bai]	D	Preposition	(期限・期日) 〜までに	53	53
+by mistake	FALSE	—	—	—	誤って	94	94
+by oneself	FALSE	—	—	—	ひとりで, 独力で	89	89
+by the way	FALSE	—	—	—	ところで	36	36
+bye	TRUE	[bai]	C	Interjection	さようなら, じゃあね	11	11
+cabbage	FALSE	[kǽbidʒ]	A	Noun	キャベツ	43	43
+Caesar salad	FALSE	[síːzər sǽləd]	A	Noun	シーザーサラダ	61	61
+cafe	FALSE	[kæféi]	A	Noun	カフェ, 喫茶店	76	76
+cake	TRUE	[keik]	A	Noun	ケーキ	1	1
+call	TRUE	[kɔːl]	B	Verb	電話をかける	1	1
+call	TRUE	[kɔːl]	B	Verb	呼び出す	125	125
+calm	FALSE	[kɑːm]	K	Adjective	穏やかな, 落ち着いた, 穏やかな	127	127
+came	FALSE	[keim]	B	Verb	(come の過去形)	1	1
+camera	TRUE	[kǽmərə]	A	Noun	カメラ	73	73
+camp	TRUE	[kæmp]	A	Noun	キャンプ, 野営	9	9
+camp	TRUE	[kæmp]	B	Verb	キャンプをする	64	64
+can	TRUE	[kæn, kən]	M	Auxiliary verb	〜することができる	1	1
+Can I help you?	FALSE	—	—	—	いらっしゃいませ (店員が客に対して)	1	1
+Can I ~?	FALSE	—	—	—	〜してもよいですか	1	1
+Can you ~?	FALSE	—	—	—	〜してくれませんか, 〜しませんか	1	1
+can't	FALSE	[kænt]	—	—	(cannot の短縮形)	1	1
+Canada	TRUE	[kǽnədə]	A	Noun	カナダ	1	1
+candle	FALSE	[kǽndl]	A	Noun	ろうそく	32	32
+career	FALSE	[kəríər]	A	Noun	経歴	132	132
+care	FALSE	[kɛər]	A	Noun	注意, 用心	1	1
+take care	FALSE	—	—	—	気をつける, 注意する	12	12
+careful	FALSE	[kέərfl]	K	Adjective	注意深い	12	12
+carefully	FALSE	[kέərfəli]	G	Adverb	注意深く	46	46
+careless	FALSE	[kέərlis]	K	Adjective	不注意な	1	1
+careless mistake	FALSE	—	—	—	不注意な間違い	1	1
+Carol	FALSE	[kǽrəl]	A	Noun	キャロル (女子の名)	1	1
+carp	FALSE	[kɑːrp]	A	Noun	コイ	bad	bad
+carry	FALSE	[kǽri]	B	Verb	運ぶ	1	1
+case	FALSE	[keis]	A	Noun	箱	1	1
+cash	FALSE	[kæʃ]	A	Noun	現金	1	1
+cash register	FALSE	[kæʃ rédʒistər]	A	Noun	(店の) レジ	118	118
+castle	TRUE	[kǽsl]	A	Noun	城	1	1
+casual	FALSE	[kǽʒuəl]	K	Adjective	ふだん着の, カジュアルな	118	118
+cat	TRUE	[kæt]	A	Noun	ネコ	1	1
+catch	TRUE	[kætʃ]	B	Verb	つかまえる	33	33
+caught	FALSE	[kɔːt]	B	Verb	(catch の過去形・過去分詞)	126	126
+cause	FALSE	[kɔːz]	B	Verb	引き起こす	1	1
+CD	TRUE	[sìːdíː]	A	Noun	CD (コンパクトディスク)	32	32
+CBC	FALSE	[síːbìːsíː]	A	Noun	CBC (カナダ放送協会)	88	88
+ceiling	FALSE	[síːliŋ]	A	Noun	天井	131	131
+cello	FALSE	[tʃélou]	A	Noun	チェロ	29	29
+cent	FALSE	[sent]	A	Noun	セント (アメリカ, カナダ, オーストラリア, ニュージーランドなどの貨幣単位, 1 ドルの 100 分の 1)	1	1
+centimeter	FALSE	[séntəmìːtər]	A	Noun	センチメートル	77	77
+championship	FALSE	[tʃǽmpiənʃìp]	A	Noun	選手権(大会), 優勝	23	23
+change	TRUE	[tʃeindʒ]	B	Verb	変える	117	117
+character	FALSE	[kǽriktər]	A	Noun	(小説・劇などの) 登場人物	1	1
+character	FALSE	[kǽriktər]	A	Noun	キャラクターグッズなどの	1	1
+charity	FALSE	[tʃǽrəti]	A	Noun	チャリティー	1	1
+chat	FALSE	[tʃæt]	B	Verb	おしゃべりをする	118	118
+cheap	FALSE	[tʃiːp]	K	Adjective	安い	31	31
+check	TRUE	[tʃek]	B	Verb	調べる, 確かめる	30	30
+check out ~	FALSE	—	—	—	(ホテルの) チェックアウトをする	131	131
+cheek	FALSE	[tʃiːk]	A	Noun	ほほ	101	101
+cheerful	FALSE	[tʃíərfl]	K	Adjective	元気のよい	1	1
+cheerfully	FALSE	[tʃíərfəli]	G	Adverb	元気よく	1	1
+cheerleader	FALSE	[tʃíərlìːdər]	A	Noun	チアリーダー	20	20
+cheese	TRUE	[tʃiːz]	A	Noun	チーズ	33	33
+cheeseburger	FALSE	[tʃíːzbə̀ːrgər]	A	Noun	チーズバーガー	1	1
+chef	FALSE	[ʃef]	A	Noun	シェフ, 料理長	1	1
+cherry	FALSE	[tʃéri]	A	Noun	サクランボ	99	99
+cherry blossom	FALSE	[tʃéri blάsəm]	A	Noun	サクラの花	99	99
+chewy	FALSE	[tʃúːi]	K	Adjective	かみごたえのある	87	87
+chicken	TRUE	[tʃíkin]	A	Noun	ニワトリ, 鶏肉	1	1
+child	TRUE	[tʃaild]	A	Noun	子ども	18	18
+children	TRUE	[tʃíldrən]	A	Noun	(child の複数形)	93	93
+chilly	FALSE	[tʃíli]	K	Adjective	肌寒い	1	1
+Chinese	FALSE	[tʃainíːz]	A	Noun	中国語	12	12
+choose	TRUE	[tʃuːz]	B	Verb	選ぶ	1	1
+chopsticks	FALSE	[tʃάpstìks]	A	Noun	(複数形で) 箸	1	1
+cider	FALSE	[sáidər]	A	Noun	リンゴジュース	1	1
+city	TRUE	[síti]	A	Noun	市, 都市	1	1
+city hall	FALSE	[síti hɔ́ːl]	A	Noun	市役所	1	1
+clarinet	FALSE	[klæ̀rənét]	A	Noun	クラリネット	131	131
+class	TRUE	[klæs]	A	Noun	クラス	1	1
+classmate	TRUE	[klǽsmèit]	A	Noun	クラスメート, 同級生	1	1
+classroom	TRUE	[klǽsrùːm]	A	Noun	教室	1	1
+classroom activities	FALSE	[klǽsrùːm æktívətiz]	A	Noun	学級活動	1	1
+clay	FALSE	[klei]	A	Noun	粘土	111	111
+clean	TRUE	[kliːn]	B	Verb	掃除する	1	1
+clean	TRUE	[kliːn]	K	Adjective	きれいな, 清潔な	1	1
+clear	FALSE	[klíər]	K	Adjective	すき通った, 雲のない	55	55
+clerk	FALSE	[kləːrk]	A	Noun	店員	125	125
+clever	FALSE	[klévər]	K	Adjective	賢い	1	1
+climb	TRUE	[klaim]	B	Verb	登る	1	1
+clock	TRUE	[klɑk]	A	Noun	(壁掛けなどの) 時計	1	1
+close	TRUE	[klouz]	B	Verb	閉じる	1	1
+closet	FALSE	[klάzit]	A	Noun	押し入れ, クローゼット	131	131
+closing ceremony	FALSE	[klóuziŋ sérəmòuni]	A	Noun	終業式, 閉会式	80	80
+cloth	FALSE	[klɔːθ]	A	Noun	布, 服地	132	132
+clothes	TRUE	[klouz]	A	Noun	衣服, 着物	1	1
+cloud	TRUE	[klaud]	A	Noun	雲	1	1
+cloudy	TRUE	[kláudi]	K	Adjective	くもりの	1	1
+club	TRUE	[klʌb]	A	Noun	クラブ, 部	1	1
+club activities	FALSE	[klʌ́b æktívətiz]	A	Noun	クラブ活動	1	1
+coach	FALSE	[koutʃ]	A	Noun	コーチ	24	24
+coast	FALSE	[koust]	A	Noun	海岸	98	98
+coat	FALSE	[kout]	A	Noun	コート, 上着	1	1
+coffee	TRUE	[kɔ́ːfi]	A	Noun	コーヒー	29	29
+coffee shop	FALSE	[kɔ́ːfi ʃɑ̀p]	A	Noun	喫茶店	132	132
+cold	TRUE	[kould]	K	Adjective	寒い, 冷たい	1	1
+cold	TRUE	[kould]	A	Noun	かぜ	67	67
+color	TRUE	[kʌ́lər]	A	Noun	色	1	1
+color	TRUE	[kʌ́lər]	B	Verb	〜に色を塗る	73	73
+come	TRUE	[kʌm]	B	Verb	来る	1	1
+come back	FALSE	—	—	—	もどる	1	1
+comfortable	FALSE	[kʌ́mfərtəbl]	K	Adjective	快適な	88	88
+comic	FALSE	[kάmik]	A	Noun	マンガの	1	1
+comic book	FALSE	—	—	—	マンガの本	1	1
+common	FALSE	[kάmən]	K	Adjective	ふつうの, ありふれた	1	1
+communication	FALSE	[kəmjùːnəkéiʃən]	A	Noun	コミュニケーション, 気持ちを伝え合うこと	1	1
+community	FALSE	[kəmjúːnəti]	A	Noun	地域社会	1	1
+company	TRUE	[kʌ́mpəni]	A	Noun	会社	1	1
+completely	FALSE	[kəmplíːtli]	G	Adverb	完全に	46	46
+computer	TRUE	[kəmpjúːtər]	A	Noun	コンピューター	1	1
+concert	TRUE	[kάnsərt]	A	Noun	コンサート	1	1
+confused	FALSE	[kənfjúːzd]	K	Adjective	混乱した	130	130
+confusing	FALSE	[kənfjúːziŋ]	K	Adjective	混乱させるような	132	132
+congratulation	FALSE	[kəngræ̀tʃuléiʃən]	A	Noun	おめでとう	1	1
+contain	FALSE	[kəntéin]	B	Verb	含む	127	127
+contest	FALSE	[kάntest]	A	Noun	コンテスト, 競技(会)	27	27
+continue	FALSE	[kəntínjuː]	B	Verb	続く, 続ける	1	1
+convenience store	FALSE	[kənvíːnjəns stɔ́ːr]	A	Noun	コンビニ (コンビニエンスストア)	83	83
+convenient	FALSE	[kənvíːnjənt]	K	Adjective	便利な	1	1
+cook	TRUE	[kuk]	B	Verb	料理する	1	1
+cook	TRUE	[kuk]	A	Noun	料理人, コック	132	132
+cookie	TRUE	[kúki]	A	Noun	クッキー	1	1
+cooking	FALSE	[kúkiŋ]	A	Noun	料理(すること)	1	1
+cool	TRUE	[kuːl]	K	Adjective	かっこいい, すごい	1	1
+coral	FALSE	[kɔ́ːrəl]	A	Noun	サンゴ	1	1
+coral reef	FALSE	[kɔ́ːrəl ríːf]	A	Noun	サンゴ礁	1	1
+corn	FALSE	[kɔːrn]	A	Noun	トウモロコシ	1	1
+corn dog	FALSE	[kɔ́ːrn dɔ̀ːg]	A	Noun	コーンドッグ (アメリカンドッグに似たスナックソーセージ)	35	35
+corner	TRUE	[kɔ́ːrnər]	A	Noun	角, かど	1	1
+cost	FALSE	[kɔːst]	B	Verb	費用がかかる	113	113
+could	FALSE	[kud, kəd]	M	Auxiliary verb	(can の過去形)	47	47
+couldn't	FALSE	[kúdnt]	—	—	(could not の短縮形)	47	47
+country	TRUE	[kʌ́ntri]	A	Noun	国	1	1
+country	TRUE	[kʌ́ntri]	A	Noun	いなか	1	1
+course	FALSE	[kɔərs]	A	Noun	進路	1	1
+of course	FALSE	—	—	—	もちろん	1	1
+court	FALSE	[kɔərt]	A	Noun	(テニスなどの) コート, 中庭	1	1
+cousin	TRUE	[kʌ́zn]	A	Noun	いとこ	52	52
+cow	FALSE	[kau]	A	Noun	雌牛	1	1
+crab	FALSE	[kræb]	A	Noun	カニ	1	1
+creamy	FALSE	[kríːmi]	K	Adjective	クリーム状の, なめらかな	43	43
+create	FALSE	[kriéit]	B	Verb	作り出す, 生み出す	1	1
+creative	FALSE	[kriéitiv]	K	Adjective	創造的な	1	1
+creature	FALSE	[kríːtʃər]	A	Noun	生き物	81	81
+crew	FALSE	[kruː]	A	Noun	乗組員	126	126
+crispy	FALSE	[kríspi]	K	Adjective	かりかり[さくさく]した	1	1
+crocodile	FALSE	[krάkədàil]	A	Noun	クロコダイル	1	1
+cry	TRUE	[krai]	B	Verb	泣く	13	13
+culture	TRUE	[kʌ́ltʃər]	A	Noun	文化	31	31
+cup	TRUE	[kʌp]	A	Noun	カップ, 茶わん	1	1
+curry and rice	FALSE	[kə́ːri ænd ráis]	A	Noun	カレーライス	1	1
+curtain	FALSE	[kə́ːrtn]	A	Noun	カーテン	83	83
+custard pudding	FALSE	[kʌ́stərd púdiŋ]	A	Noun	カスタードプリン	1	1
+customer	FALSE	[kʌ́stəmər]	A	Noun	(店の) 客	42	42
+cut	TRUE	[kʌt]	B	Verb	切る	1	1
+cut ~ off	FALSE	—	—	—	〜を切り離す	80	80
+cut ~ down	FALSE	—	—	—	〜を切り倒す	57	57
+cute	TRUE	[kjuːt]	K	Adjective	かわいい	1	1
+cycle	FALSE	[sáikl]	B	Verb	自転車に乗る, サイクリングをする	21	21
+go cycling	FALSE	—	—	—	サイクリングに行く	21	21
+dad	TRUE	[dæd]	A	Noun	お父さん (＝daddy)	1	1
+damage	FALSE	[dǽmidʒ]	B	Verb	〜に損害を与える	126	126
+dance	TRUE	[dæns]	B	Verb	踊る	1	1
+dance	TRUE	[dæns]	A	Noun	ダンス, 踊り	57	57
+dangerous	FALSE	[déindʒərəs]	K	Adjective	危険な	120	120
+Daniel	FALSE	[dǽnjəl]	A	Noun	ダニエル (男子の名)	1	1
+date	FALSE	[deit]	A	Noun	日付, デート	1	1
+day	TRUE	[dei]	A	Noun	日, 1日	1	1
+~ day(s) a week	FALSE	—	—	—	週に〜日	57	57
+every day	FALSE	—	—	—	毎日	1	1
+in those days	FALSE	—	—	—	その当時は	120	120
+One day, ~	FALSE	—	—	—	ある日〜	1	1
+daytime	FALSE	[déitàim]	A	Noun	昼間 (↔︎ nighttime)	93	93
+dead	FALSE	[ded]	K	Adjective	死んでいる	93	93
+The dead	FALSE	—	—	—	死者	93	93
+dear	TRUE	[diər]	K	Adjective	親愛なる〜 (手紙の書き出しに用いる)	1	1
+Dear ~,	FALSE	—	—	—	親愛なる〜へ	1	1
+December	TRUE	[disémbər]	A	Noun	12月	1	1
+decide	TRUE	[disáid]	B	Verb	決める, 決心する	70	70
+deep	FALSE	[diːp]	K	Adjective	深い	1	1
+deep-fried	FALSE	[díːpfráid]	K	Adjective	油で揚げた	N	N
+deeply	FALSE	[díːpli]	G	Adverb	深く	47	47
+degree	FALSE	[digríː]	A	Noun	(温度などの) 度	29	29
+delicious	TRUE	[dilíʃəs]	K	Adjective	とてもおいしい	1	1
+department store	FALSE	[dipάːrtmənt stɔ́ːr]	A	Noun	デパート	132	132
+depend	FALSE	[dipénd]	B	Verb	〜による	1	1
+design	FALSE	[dizáin]	A	Noun	デザイン, 図柄	130	130
+design	FALSE	[dizáin]	B	Verb	デザインする, 設計する	1	1
+desk	TRUE	[desk]	A	Noun	机	1	1
+develop	FALSE	[divéləp]	B	Verb	開発する	80	80
+did	FALSE	[did]	B	Verb	(do の過去形)	1	1
+didn't	FALSE	[dídnt]	—	—	(did not の短縮形)	1	1
+die	FALSE	[dai]	B	Verb	死ぬ	93	93
+different	TRUE	[dífərənt]	K	Adjective	違った	46	46
+difficult	TRUE	[dífikʌ̀lt]	K	Adjective	難しい	1	1
+dinner	TRUE	[dínər]	A	Noun	夕食	1	1
+dirty	FALSE	[də́ːrti]	K	Adjective	汚い	131	131
+disappointed	FALSE	[dìsəpɔ́intid]	K	Adjective	がっかりした	130	130
+dish	TRUE	[diʃ]	A	Noun	皿	1	1
+do the dishes	FALSE	—	—	—	皿を洗う	132	132
+display	FALSE	[displéi]	B	Verb	〜を展示[陳列]する, ディスプレーする	88	88
+do	TRUE	[duː, də]	B	Verb	〜する	1	1
+do	TRUE	[duː, də]	M	Auxiliary verb	(疑問文・否定文で使う)	1	1
+do	TRUE	[duː, də]	M	Auxiliary verb	(動詞の代わり)	13	13
+do the dishes	FALSE	—	—	—	皿を洗う	132	132
+doctor	TRUE	[dάktər]	A	Noun	医者, 博士	1	1
+documentary	FALSE	[dὰkjəménṭəri]	A	Noun	ドキュメンタリー(映画･テレビなどの記録作品)	129	129
+does	FALSE	[dʌz, dəz]	M	Auxiliary verb	(主語が三人称単数のときの do の現在形)	1	1
+doesn't	FALSE	[dʌ́znt]	—	—	(does not の短縮形)	1	1
+dog	TRUE	[dɔːg]	A	Noun	イヌ	1	1
+doll	FALSE	[dɑl]	A	Noun	人形	46	46
+dollar	FALSE	[dάlər]	A	Noun	ドル (アメリカ, カナダ, オーストラリア, ニュージーランドなどの貨幣単位)	1	1
+dolphin	FALSE	[dάlfin]	A	Noun	イルカ	39	39
+donate	FALSE	[dóuneit]	B	Verb	寄付する	1	1
+don't	FALSE	[dount]	—	—	(do not の短縮形)	1	1
+don't have to ~	FALSE	—	—	—	〜する必要はない	52	52
+donut	FALSE	[dóunət]	A	Noun	ドーナツ	1	1
+door	TRUE	[dɔːr]	A	Noun	ドア, 戸	1	1
+down	TRUE	[daun]	G	Adverb	下に[へ]	1	1
+dragon fruit	FALSE	[drǽgən frúːt]	A	Noun	ドラゴンフルーツ (くだもの)	109	109
+drama	FALSE	[drάːmə]	A	Noun	演劇, ドラマ	1	1
+draw	TRUE	[drɔː]	B	Verb	(線で絵) を描く	1	1
+drawn	FALSE	[drɔːn]	B	Verb	(draw の過去分詞)	116	116
+dream	TRUE	[driːm]	A	Noun	夢	1	1
+dream	TRUE	[driːm]	B	Verb	夢を見る, 理想	1	1
+drew	FALSE	[druː]	B	Verb	(draw の過去形)	1	1
+dribble	FALSE	[dríbl]	B	Verb	ドリブルする	116	116
+drink	TRUE	[driŋk]	B	Verb	飲む	1	1
+drone	FALSE	[droun]	A	Noun	ドローン (小型の無人機)	89	89
+drugstore	FALSE	[drʌ́gstɔ̀ːr]	A	Noun	ドラッグストア, 薬局	132	132
+drum	FALSE	[drʌm]	A	Noun	太鼓	47	47
+dry	FALSE	[drai]	K	Adjective	乾いた	1	1
+during	FALSE	[djúəriŋ]	D	Preposition	〜の間(ずっと)	37	37
+Dutch	FALSE	[dʌtʃ]	G	Adverb	オランダの (オランダ人の)	1	1
+each	FALSE	[iːtʃ]	K	Adjective	それぞれの	37	37
+each other	FALSE	—	—	—	おたがい	94	94
+ear	TRUE	[iər]	A	Noun	耳	1	1
+early	TRUE	[ə́ːrli]	G	Adverb	(時間が) 早く	1	1
+early	TRUE	[ə́ːrli]	K	Adjective	(時間が) 早い	131	131
+earn	FALSE	[əːrn]	B	Verb	得る, 稼ぐ	64	64
+earthquake	FALSE	[ə́ːrθkwèik]	A	Noun	地震	1	1
+east	TRUE	[iːst]	A	Noun	東	94	94
+eastern	FALSE	[íːstərn]	K	Adjective	東部の	21	21
+easy	TRUE	[íːzi]	K	Adjective	簡単な	39	39
+easily	FALSE	[íːzəli]	G	Adverb	簡単に	1	1
+eat	TRUE	[iːt]	B	Verb	食べる	1	1
+eaten	FALSE	[íːtn]	B	Verb	(eat の過去分詞)	42	42
+eco-friendly	FALSE	[íːkoufrèndli]	K	Adjective	環境に配慮した, 環境にやさしい	1	1
+effect	FALSE	[ifékt]	A	Noun	効果, 影響	25	25
+effort	FALSE	[éfərt]	A	Noun	努力	83	83
+egg	TRUE	[eg]	A	Noun	卵	1	1
+eight	TRUE	[eit]	K	Adjective	8の	1	1
+eighteen	FALSE	[èitíːn]	K	Adjective	18の	1	1
+eighteenth	FALSE	[èitíːnθ]	K	Adjective	18番目の	1	1
+eighth	FALSE	[eitθ]	K	Adjective	8番目の	1	1
+eighty	FALSE	[éiti]	K	Adjective	80の	1	1
+either	FALSE	[íːðər]	G	Adverb	(〜も) また (〜ない)	12	12
+electric guitar	FALSE	[iléktrik gitάːr]	A	Noun	エレキギター	131	131
+elevator	FALSE	[éləvèitər]	A	Noun	エレベーター	1	1
+elementary school	FALSE	[èləméntəri skúːl]	A	Noun	小学校	1	1
+eleven	TRUE	[ilévn]	K	Adjective	11の	1	1
+eleventh	FALSE	[ilévnθ]	K	Adjective	11番目の	1	1
+else	FALSE	[els]	G	Adverb	ほかに[の]	1	1
+email	TRUE	[íːmeil]	A	Noun	Eメール, 電子メール	1	1
+embarrassed	FALSE	[imbǽrəst]	K	Adjective	恥ずかしい	130	130
+embassy	FALSE	[émbəsi]	A	Noun	大使館	1	1
+emergency	FALSE	[imə́ːrdʒənsi]	A	Noun	非常[緊急]事態	125	125
+Emily	FALSE	[éməli]	A	Noun	エミリー (女子の名)	1	1
+emotional	FALSE	[imóuʃənl]	K	Adjective	感情的な, 感動させる	1	1
+empty	FALSE	[émpti]	K	Adjective	からの	52	52
+end	TRUE	[end]	B	Verb	終わる	1	1
+end	TRUE	[end]	A	Noun	終わり, はし	1	1
+enemy	FALSE	[énəmi]	A	Noun	敵	131	131
+energy	FALSE	[énərdʒi]	A	Noun	エネルギー	83	83
+engineer	FALSE	[èndʒiníər]	A	Noun	エンジニア, 技師	1	1
+English	TRUE	[íŋgliʃ]	A	Noun	英語	1	1
+English	TRUE	[íŋgliʃ]	K	Adjective	英語の	1	1
+enjoy	TRUE	[indʒɔ́i]	B	Verb	楽しむ	1	1
+enough	FALSE	[inʌ́f]	K	Adjective	十分な	93	93
+enough	FALSE	[inʌ́f]	G	Adverb	十分に	1	1
+enter	FALSE	[éntər]	B	Verb	入る	130	130
+entrance	FALSE	[éntrəns]	A	Noun	入口, 玄関	1	1
+entrance ceremony	FALSE	[éntrəns sérəmòuni]	A	Noun	入学式	130	130
+environment	FALSE	[inváiərənmənt]	A	Noun	環境	120	120
+eraser	TRUE	[iréısər]	A	Noun	消しゴム	21	21
+Eric	FALSE	[érik]	A	Noun	エリック (男子の名)	1	1
+especially	FALSE	[ispéʃəli]	G	Adverb	特に	55	55
+even	FALSE	[íːvn]	G	Adverb	〜でさえ, 〜までも	1	1
+evening	TRUE	[íːvniŋ]	A	Noun	夕方, 晩	1	1
+event	FALSE	[ivént]	A	Noun	行事, できごと	88	88
+every	TRUE	[évri]	K	Adjective	どの〜もみな, 〜ごとに	1	1
+every day	FALSE	—	—	—	毎日	1	1
+everyone	FALSE	[évriwʌ̀n]	E	Pronoun	だれでも, みなさん	70	70
+everything	FALSE	[évriθìŋ]	E	Pronoun	すべてのこと[もの]	1	1
+exactly	FALSE	[igzǽktli]	G	Adverb	正確に	1	1
+examination	FALSE	[igzæ̀mənéiʃən]	A	Noun	試験	1	1
+example	TRUE	[igzǽmpl]	A	Noun	例	1	1
+for example	FALSE	—	—	—	たとえば	1	1
+excellent	FALSE	[éksələnt]	K	Adjective	すばらしい, 非常に優れた	1	1
+excited	FALSE	[iksáitid]	K	Adjective	わくわくした, 興奮した	1	1
+exciting	TRUE	[iksáitiŋ]	K	Adjective	人をわくわくさせる, 興奮させる	1	1
+Excuse me.	FALSE	—	—	—	すみません (注意を引く)	1	1
+Excuse me, but ~.	FALSE	—	—	—	失礼ですが〜	1	1
+exercise	TRUE	[éksərsàiz]	A	Noun	運動	1	1
+exercise	TRUE	[éksərsàiz]	B	Verb	運動する	64	64
+expensive	FALSE	[ikspénsiv]	K	Adjective	高価な	1	1
+experience	FALSE	[ikspíəriəns]	A	Noun	経験	1	1
+explode	FALSE	[iksplóud]	B	Verb	爆発する	125	125
+explosion	FALSE	[iksplóuʒən]	A	Noun	爆発	125	125
+extremely	FALSE	[ikstríːmli]	G	Adverb	きわめて	126	126
+eye	TRUE	[ai]	A	Noun	目	1	1
+face	TRUE	[feis]	A	Noun	顔	1	1
+fact	FALSE	[fækt]	A	Noun	事実	25	25
+in fact	FALSE	—	—	—	実は, 実際は	25	25
+failure	FALSE	[féiljər]	A	Noun	失敗	127	127
+faithful	FALSE	[féiθfl]	K	Adjective	忠実な	1	1
+fall	TRUE	[fɔːl]	A	Noun	秋	71	71
+fall	TRUE	[fɔːl]	B	Verb	落ちる	1	1
+fall asleep	FALSE	—	—	—	眠り込む	71	71
+family	TRUE	[fǽməli]	A	Noun	家族	1	1
+famous	TRUE	[féiməs]	K	Adjective	有名な	1	1
+be famous for ~	FALSE	—	—	—	〜で有名である	1	1
+fan	TRUE	[fæn]	A	Noun	ファン	1	1
+fan	TRUE	[fæn]	A	Noun	うちわ, 扇風機	1	1
+fantastic	FALSE	[fæntǽstik]	K	Adjective	すばらしい	1	1
+far	FALSE	[fɑːr]	G	Adverb	遠くに	1	1
+farewell	FALSE	[fέərwèl]	C	Interjection	さようなら	1	1
+farm	TRUE	[fɑːrm]	A	Noun	農場, 農園	73	73
+farmer	FALSE	[fάːrmər]	A	Noun	農場主, 農園主	42	42
+fast	TRUE	[fæst]	K	Adjective	(速度が) 速い	1	1
+fast	TRUE	[fæst]	G	Adverb	速く	1	1
+father	TRUE	[fάːðər]	A	Noun	父, お父さん	1	1
+favorite	TRUE	[féivərit]	K	Adjective	いちばん好きな, お気に入りの	1	1
+February	TRUE	[fébruèri]	A	Noun	2月	1	1
+feel	TRUE	[fiːl]	B	Verb	感じる	32	32
+Felipe	FALSE	[fəlípə]	A	Noun	フェリペ (男子の名)	71	71
+fell	FALSE	[fel]	B	Verb	(fall の過去形)	1	1
+felt	FALSE	[felt]	B	Verb	(feel の過去形・過去分詞)	27	27
+festival	FALSE	[féstəvl]	A	Noun	祭り, 祭日	1	1
+field trip	FALSE	[fíːld trìp]	A	Noun	校外学習, 遠足	50	50
+fifteen	FALSE	[fìftíːn]	K	Adjective	15の	1	1
+fifteenth	FALSE	[fìftíːnθ]	K	Adjective	15番目の	1	1
+fifth	FALSE	[fifθ]	K	Adjective	5番目の	1	1
+fifty	FALSE	[fífti]	K	Adjective	50の	1	1
+fight	FALSE	[fait]	B	Verb	戦う	108	108
+finally	FALSE	[fáinəli]	G	Adverb	ついに	85	85
+find	TRUE	[faind]	B	Verb	見つける	1	1
+find out	FALSE	—	—	—	わかる, 気づく	1	1
+fine	TRUE	[fain]	K	Adjective	元気な	1	1
+Finland	FALSE	[fínlənd]	A	Noun	フィンランド	1	1
+Finnish	FALSE	[fíniʃ]	K	Adjective	フィンランド(人)の	1	1
+finish	TRUE	[fíniʃ]	B	Verb	終える	1	1
+fire	TRUE	[fáiər]	A	Noun	火	64	64
+fire station	FALSE	[fáiər stèiʃən]	A	Noun	消防署	126	126
+firefighter	FALSE	[fáiərfàitər]	A	Noun	消防士	1	1
+firework	FALSE	[fáiərwə̀ːrk]	A	Noun	花火	99	99
+firmly	FALSE	[fə́ːrmli]	G	Adverb	固く	1	1
+first	TRUE	[fəːrst]	K	Adjective	最初の, 1番目の	1	1
+first	TRUE	[fəːrst]	G	Adverb	最初に, 初めて	30	30
+at first	FALSE	—	—	—	最初は	56	56
+First of all,	FALSE	—	—	—	まず第一に, 何よりもまず	1	1
+fish	TRUE	[fiʃ]	A	Noun	魚	1	1
+fish	TRUE	[fiʃ]	B	Verb	魚をつる, つりをする	33	33
+go fishing	FALSE	—	—	—	つりに行く	33	33
+fishing boat	FALSE	[fíʃiŋ bòut]	A	Noun	漁船	132	132
+five	TRUE	[faiv]	K	Adjective	5の	1	1
+flag	TRUE	[flæg]	A	Noun	旗	20	20
+flamingo	FALSE	[fləmíŋgou]	A	Noun	フラミンゴ	1	1
+flash	FALSE	[flæʃ]	A	Noun	(カメラの) フラッシュ	93	93
+flat tire	FALSE	[flǽt táiər]	A	Noun	パンクしたタイヤ	74	74
+flight	FALSE	[flait]	A	Noun	(飛行機の) 便, 飛行	117	117
+flight attendant	FALSE	[fláit ətèndənt]	A	Noun	フライトアテンダント	117	117
+flip	FALSE	[flip]	B	Verb	ぱらぱらめくる	1	1
+floor	TRUE	[flɔːr]	A	Noun	床, (建物の) 階	42	42
+flower	TRUE	[fláuər]	A	Noun	花	1	1
+flower shop	FALSE	[fláuər ʃɑ̀p]	A	Noun	花屋	132	132
+flu	FALSE	[fluː]	A	Noun	インフルエンザ	1	1
+fly	TRUE	[flai]	B	Verb	飛ぶ	1	1
+flying fish	FALSE	[fláiiŋ fìʃ]	A	Noun	トビウオ	103	103
+foggy	FALSE	[fɔ́gi]	K	Adjective	霧のかかった	1	1
+follow	TRUE	[fάlou]	B	Verb	ついていく	113	113
+food	TRUE	[fuːd]	A	Noun	食べ物	1	1
+foot	TRUE	[fut]	A	Noun	足, (長さの単位) フート	1	1
+footprint	FALSE	[fútprìnt]	A	Noun	足跡	51	51
+for	TRUE	[fɔːr]	D	Preposition	〜のために	1	1
+for	TRUE	[fɔːr]	D	Preposition	(利益･目的･原因･理由を表して) 〜のために	1	1
+for	TRUE	[fɔːr]	D	Preposition	〜に向かって	1	1
+for	TRUE	[fɔːr]	D	Preposition	〜のわりに	13	13
+for	TRUE	[fɔːr]	H	Conjunction	(理由) 〜というのは	29	29
+for	TRUE	[fɔːr]	H	Conjunction	(期間) 〜の間	93	93
+for a while	FALSE	—	—	—	しばらくの間	47	47
+for free	FALSE	—	—	—	無料で	1	1
+for here or to go?	FALSE	—	—	—	こちらでめしあがりますか, お持ち帰りになりますか	1	1
+for the first time	FALSE	—	—	—	初めて	33	33
+first	TRUE	[fəːrst]	G	Adverb	最初に, 初めて	1	1
+forecast	FALSE	[fɔ́ːrkæ̀st]	A	Noun	予報	29	29
+foreign	FALSE	[fɔ́ːrin]	K	Adjective	外国の	1	1
+forest	TRUE	[fɔ́ːrist]	A	Noun	森	56	56
+forget	FALSE	[fərgét]	B	Verb	忘れる	12	12
+forty	FALSE	[fɔ́ːrti]	K	Adjective	40の	1	1
+look forward to ~	FALSE	—	—	—	〜を楽しみに待つ	36	36
+foster	FALSE	[fɔ́ːstər]	B	Verb	育てる	25	25
+found	FALSE	[faund]	B	Verb	(find の過去形・過去分詞)	1	1
+four	TRUE	[fɔːr]	K	Adjective	4の	1	1
+fourteen	FALSE	[fɔ̀ərtíːn]	K	Adjective	14の	1	1
+fourteenth	FALSE	[fɔ̀ərtíːnθ]	K	Adjective	14番目の	1	1
+fourth	FALSE	[fɔərθ]	K	Adjective	4番目の	1	1
+fox	FALSE	[fɑks]	A	Noun	キツネ	73	73
+France	TRUE	[fræns]	A	Noun	フランス	1	1
+free	TRUE	[friː]	K	Adjective	自由な	20	20
+free	TRUE	[friː]	G	Adverb	自由に, ひまな	1	1
+free	TRUE	[friː]	D	Preposition	〜がない	64	64
+for free	FALSE	—	—	—	無料で	64	64
+freezing	FALSE	[fríːziŋ]	K	Adjective	凍るように寒い	126	126
+French	TRUE	[frentʃ]	A	Noun	フランス語	1	1
+French fries	FALSE	[fréntʃ fràiz]	A	Noun	フライドポテト	1	1
+Friday	TRUE	[fráidei]	A	Noun	金曜日	1	1
+fridge	FALSE	[fridʒ]	A	Noun	冷蔵庫	83	83
+fried	FALSE	[fraid]	K	Adjective	油で揚げた, フライにした	103	103
+fried noodle	FALSE	[fráid núːdl]	A	Noun	焼きそば	1	1
+friend	TRUE	[frend]	A	Noun	友だち	1	1
+friendly	FALSE	[fréndli]	K	Adjective	親切な, 人なつこい	1	1
+friendship	FALSE	[fréndʃip]	A	Noun	友情	130	130
+frog	FALSE	[frɔːg]	A	Noun	カエル	1	1
+from	TRUE	[frʌm]	D	Preposition	〜から	1	1
+front	FALSE	[frʌnt]	A	Noun	前部, 正面	1	1
+be front of ~	FALSE	—	—	—	〜の前で[に]	1	1
+in front of ~	FALSE	—	—	—	〜の前で[に]	1	1
+fruit	TRUE	[fruːt]	A	Noun	果物	1	1
+fry	FALSE	[frai]	B	Verb	油で揚げる, フライにする	103	103
+full	TRUE	[ful]	K	Adjective	いっぱいの	1	1
+be full of ~	FALSE	—	—	—	〜でいっぱいである	131	131
+fun	TRUE	[fʌn]	A	Noun	楽しみ, 喜び	1	1
+fair	FALSE	[fɛər]	A	Noun	見本市	101	101
+future	TRUE	[fjúːtʃər]	A	Noun	未来, 将来	71	71
+game	TRUE	[geim]	A	Noun	試合, ゲーム	1	1
+gap	FALSE	[gæp]	A	Noun	割れ目, すき間	129	129
+garbage	FALSE	[gάːrbidʒ]	A	Noun	生ゴミ	1	1
+garden	TRUE	[gάːrdn]	A	Noun	庭, 庭園	53	53
+gardening	FALSE	[gάːrdniŋ]	A	Noun	園芸	1	1
+gas	TRUE	[gæs]	A	Noun	ガソリン	1	1
+gas station	FALSE	[gǽs stèiʃən]	A	Noun	ガソリンスタンド	132	132
+gate	TRUE	[geit]	A	Noun	門	1	1
+gave	FALSE	[geiv]	B	Verb	(give の過去形)	117	117
+gentle	FALSE	[dʒéntl]	K	Adjective	おだやかな	71	71
+Germany	FALSE	[dʒə́ːrməni]	A	Noun	ドイツ	1	1
+get	TRUE	[get]	B	Verb	得る, 手に入れる	1	1
+get	TRUE	[get]	B	Verb	(ある状態に) なる	1	1
+get	TRUE	[get]	B	Verb	着く, 到着する	28	28
+get - place	FALSE	—	—	—	〜に着く	33	33
+get on ~	FALSE	—	—	—	〜に乗る	55	55
+get up	FALSE	—	—	—	起きる	1	1
+get well	FALSE	—	—	—	元気になる	112	112
+Ghana	FALSE	[gάːnə]	A	Noun	ガーナ	1	1
+giant	FALSE	[dʒáiənt]	A	Noun	巨人	24	24
+gift	TRUE	[gift]	A	Noun	贈り物	46	46
+ginger ale	FALSE	[dʒíndʒər éil]	A	Noun	ジンジャーエール	1	1
+girl	TRUE	[gəːrl]	A	Noun	少女, 女の子	1	1
+Girl Scouts	FALSE	[gə́ːrl skáuts]	A	Noun	ガールスカウト (米国の少女団)	20	20
+give	TRUE	[giv]	B	Verb	与える, あげる	1	1
+give it a try	FALSE	—	—	—	やってみる	67	67
+give up ~	FALSE	—	—	—	〜をあきらめる	128	128
+glad	TRUE	[glæd]	K	Adjective	うれしい	1	1
+glass	FALSE	[glæs]	A	Noun	ガラス	130	130
+glasses	TRUE	[glǽsiz]	A	Noun	(複数形で) 眼鏡	1	1
+global	FALSE	[glóubəl]	K	Adjective	地球(規模)の	129	129
+glove	FALSE	[glʌv]	A	Noun	(スポーツ選手が使う) グローブ	1	1
+go	TRUE	[gou]	B	Verb	行く	1	1
+go bowling	FALSE	—	—	—	ボウリングに行く	129	129
+go cycling	FALSE	—	—	—	サイクリングに行く	21	21
+go hiking	FALSE	—	—	—	ハイキングに行く	55	55
+go on ~	FALSE	—	—	—	〜し続ける	1	1
+go shopping	FALSE	—	—	—	買い物に行く	1	1
+go to bed	FALSE	—	—	—	寝る, 就寝する	130	130
+goal	FALSE	[goul]	A	Noun	ゴール, 目標	131	131
+gold	FALSE	[gould]	A	Noun	金, 金色(の)	25	25
+goldfish	FALSE	[góuldfìʃ]	A	Noun	金魚	1	1
+good	TRUE	[gud]	K	Adjective	よい	1	1
+Good job.	FALSE	—	—	—	よくやった	69	69
+goodbye	TRUE	[gùdbái]	C	Interjection	さようなら	32	32
+goodwill	FALSE	[gúdwíl]	A	Noun	親善, 好意	93	93
+goodwill guide	FALSE	[gúdwíl gàid]	A	Noun	善意通訳ガイド	93	93
+gorilla	FALSE	[gərílə]	A	Noun	ゴリラ	1	1
+gossip	FALSE	[gάsəp]	A	Noun	うわさ話	48	48
+got	FALSE	[gɑt]	B	Verb	(get の過去形・過去分詞)	1	1
+graduation ceremony	FALSE	[græ̀dʒuéiʃən sérəmòuni]	A	Noun	卒業式	130	130
+gram	FALSE	[græm]	A	Noun	グラム	42	42
+granddaughter	FALSE	[grǽndɔ̀ːtər]	A	Noun	孫娘	1	1
+grandfather	TRUE	[grǽndfὰːðər]	A	Noun	祖父, おじいさん	1	1
+grandma	FALSE	[grǽnmɑː]	A	Noun	おばあちゃん	1	1
+grandmother	TRUE	[grǽndmʌ̀ðər]	A	Noun	祖母, おばあさん	1	1
+grandpa	FALSE	[grǽnpɑː]	A	Noun	おじいちゃん	1	1
+grandparent	FALSE	[grǽndpέərənt]	A	Noun	祖父[祖母]	1	1
+grape	FALSE	[greip]	A	Noun	ブドウ	1	1
+grapefruit	FALSE	[gréipfrùːt]	A	Noun	グレープフルーツ	1	1
+grass	FALSE	[græs]	A	Noun	草	105	105
+gray	FALSE	[grei]	K	Adjective	灰色(の)	18	18
+great	TRUE	[greit]	K	Adjective	すばらしい	1	1
+great	TRUE	[greit]	K	Adjective	偉大な	129	129
+Great Barrier Reef	FALSE	[gréit bǽriər ríːf]	A	Noun	グレートバリアリーフ (オーストラリア北東岸にある世界最大のサンゴ礁地帯)	81	81
+green	TRUE	[griːn]	K	Adjective	緑色(の)	1	1
+grocery	FALSE	[gróusəri]	A	Noun	食料品	1	1
+grocery store	FALSE	[gróusəri stɔ́ːr]	A	Noun	食料品店	132	132
+grove	FALSE	[grouv]	A	Noun	木立, 小さな森	80	80
+grow	FALSE	[grou]	B	Verb	成長する, 育てる	25	25
+grow up	FALSE	—	—	—	育つ	1	1
+guest	FALSE	[gest]	A	Noun	客, ゲスト	1	1
+guide	TRUE	[gaid]	A	Noun	案内人, ガイド	1	1
+guide	TRUE	[gaid]	B	Verb	案内する	85	85
+guitar	TRUE	[gitάːr]	A	Noun	ギター	55	55
+guitarist	FALSE	[gitάːrist]	A	Noun	ギター奏者	1	1
+gym	TRUE	[dʒim]	A	Noun	体育館	1	1
+gymnastics	FALSE	[dʒimnǽstiks]	A	Noun	体操, 体操競技	53	53
+ha-ha	FALSE	[hɑːhɑ́ː]	C	Interjection	ははは, あはは	1	1
+had	FALSE	[hæd, həd]	B	Verb	(have (持っている) の過去形・過去分詞)	1	1
+hair	TRUE	[hɛər]	A	Noun	髪	102	102
+half	FALSE	[hæf]	A	Noun	半分	1	1
+half	FALSE	[hæf]	K	Adjective	半分の	1	1
+Halloween	FALSE	[hæ̀louíːn]	A	Noun	ハロウィーン (All Saints' Day [万聖節] の前夜祭, 10月31日)	99	99
+ham	TRUE	[hæm]	A	Noun	ハム	1	1
+hamburger	FALSE	[hǽmbə̀ːrgər]	A	Noun	ハンバーガー	105	105
+hamster	FALSE	[hǽmstər]	A	Noun	ハムスター	1	1
+hand	TRUE	[hænd]	A	Noun	手	1	1
+handball	FALSE	[hǽndbɔ̀ːl]	A	Noun	ハンドボール	131	131
+handcraft	FALSE	[hǽndkræ̀ft]	A	Noun	手芸品, 手工芸品	88	88
+handsome	FALSE	[hǽnsəm]	K	Adjective	ハンサムな	1	1
+happen	FALSE	[hǽpən]	B	Verb	起こる	39	39
+happy	TRUE	[hǽpi]	K	Adjective	幸福な, うれしい	1	1
+Happy New Year!	FALSE	—	—	—	新年おめでとう	1	1
+hard	TRUE	[hɑːrd]	G	Adverb	熱心に, 一生懸命に	1	1
+hard	TRUE	[hɑːrd]	K	Adjective	難しい	1	1
+hard	TRUE	[hɑːrd]	K	Adjective	つらい	66	66
+harmonica	FALSE	[hɑːrmɑ́nikə]	A	Noun	ハーモニカ	131	131
+harmony	FALSE	[hάːrməni]	A	Noun	調和, ハーモニー	1	1
+has	FALSE	[hæz]	B	Verb	(have, has) を三人称単数で使う場合	1	1
+hat	TRUE	[hæt]	A	Noun	(ふちのある) 帽子	1	1
+hate	FALSE	[heit]	B	Verb	〜を憎む, 〜がいやである	1	1
+have	TRUE	[hæv, həv]	B	Verb	持っている, 飼っている	1	1
+have	TRUE	[hæv, həv]	B	Verb	食べる, 飲む	1	1
+have	TRUE	[hæv, həv]	B	Verb	(病気など) にかかっている	1	1
+have	TRUE	[hæv, həv]	M	Auxiliary verb	〜したことがある	52	52
+have to ~	FALSE	—	—	—	〜しなければならない	52	52
+don't have to ~	FALSE	—	—	—	〜する必要はない	52	52
+have	TRUE	[hæv]	B	Verb	〜がある	1	1
+hawk	FALSE	[hɔːk]	A	Noun	タカ	47	47
+he	TRUE	[hiː]	E	Pronoun	彼は, 彼が	1	1
+he'll	FALSE	[hiːl]	—	—	(he will の短縮形)	8	8
+head	TRUE	[hed]	A	Noun	頭	1	1
+headache	FALSE	[hédeik]	A	Noun	頭痛	30	30
+health	FALSE	[helθ]	A	Noun	健康	1	1
+healthy	FALSE	[hélθi]	K	Adjective	健康な	20	20
+hear	TRUE	[hiər]	B	Verb	聞こえる, 聞く	48	48
+hear from ~	FALSE	—	—	—	〜から便り[電話]をもらう	73	73
+heart	TRUE	[hɑːrt]	A	Noun	心, 心臓	1	1
+heavy	FALSE	[hévi]	K	Adjective	重い	53	53
+hello	TRUE	[helóu]	C	Interjection	やあ, こんにちは	1	1
+help	TRUE	[help]	B	Verb	手伝う, 助ける	1	1
+help	TRUE	[help]	A	Noun	手伝い	1	1
+helpful	FALSE	[hélpfl]	K	Adjective	役に立つ	50	50
+help ~ with ...	FALSE	—	—	—	〜(人)の…を手伝う	132	132
+hen	FALSE	[hen]	A	Noun	雌鳥	1	1
+her	TRUE	[həːr]	E	Pronoun	彼女を[に]	1	1
+her	TRUE	[həːr]	K	Adjective	彼女の	1	1
+here	TRUE	[hiər]	G	Adverb	ここに[で, へ]	1	1
+Here is ~. / Here's ~.	FALSE	—	—	—	ここに〜があります	32	32
+Here you are.	FALSE	—	—	—	はい, どうぞ。こちらです。	1	1
+hero	FALSE	[híərou]	A	Noun	英雄	32	32
+hers	FALSE	[həːrz]	E	Pronoun	彼女のもの	120	120
+hi	TRUE	[hai]	C	Interjection	やあ, こんにちは	1	1
+high	TRUE	[hai]	K	Adjective	高い	1	1
+high school	FALSE	[hái skùːl]	A	Noun	高校	29	29
+high-tech	FALSE	[hái ték]	K	Adjective	ハイテクの, 高度な先端技術の	1	1
+highlighter	FALSE	[háilàitər]	A	Noun	蛍光ペン	130	130
+highway	FALSE	[háiwèi]	A	Noun	幹線道路	75	75
+hike	FALSE	[haik]	B	Verb	ハイキングする	55	55
+go hiking	FALSE	—	—	—	ハイキングに行く	55	55
+hill	TRUE	[hil]	A	Noun	丘	1	1
+him	FALSE	[him]	E	Pronoun	彼を[に]	1	1
+himself	FALSE	[himsélf]	E	Pronoun	彼自身	1	1
+Hiroshima	FALSE	[híːrəʃìmə]	A	Noun	広島	1	1
+Hiroshima Peace Memorial (Genbaku Dome)	FALSE	[híːrəʃìmə píːs memɔ́ːriəl (génbɑːkù dóum)]	A	Noun	原爆ドーム	111	111
+his	TRUE	[hiz]	K	Adjective	彼の	1	1
+his	TRUE	[hiz]	E	Pronoun	彼のもの	1	1
+history	TRUE	[hístəri]	A	Noun	歴史	21	21
+hit	TRUE	[hit]	B	Verb	打つ	1	1
+hit	TRUE	[hit]	A	Noun	(災害・不運などが襲うこと)	94	94
+hobby	TRUE	[hάbi]	A	Noun	趣味	1	1
+hold	TRUE	[hould]	B	Verb	持つ, つかむ	1	1
+hold on	FALSE	—	—	—	(電話を) 切らずに待つ	1	1
+hold	TRUE	[hould]	B	Verb	開催する	1	1
+holiday	TRUE	[hάlədèi]	A	Noun	休日, 休暇	50	50
+home	TRUE	[houm]	A	Noun	家, 家庭	1	1
+home	TRUE	[houm]	G	Adverb	家へ[に]	1	1
+home economics	FALSE	[hóum ìːkənάmiks]	A	Noun	家庭科	1	1
+homework	TRUE	[hóumwə̀ːrk]	A	Noun	宿題	20	20
+honest	FALSE	[άnist]	K	Adjective	正直な	1	1
+honey	FALSE	[hʌ́ni]	A	Noun	ハチミツ	120	120
+hood	FALSE	[hud]	A	Noun	(上着の) フード	52	52
+hope	TRUE	[houp]	B	Verb	望む, 希望する	12	12
+horn	FALSE	[hɔərn]	A	Noun	角, ホルン	1	1
+horrible	FALSE	[hɔ́ːrəbl]	K	Adjective	恐ろしい	1	1
+horse	TRUE	[hɔərs]	A	Noun	ウマ	1	1
+hospital	TRUE	[hάspitl]	A	Noun	病院	1	1
+hot	TRUE	[hɑt]	K	Adjective	熱い, 暑い	1	1
+hotel	TRUE	[houtél]	A	Noun	ホテル	132	132
+hour	TRUE	[áuər]	A	Noun	1時間, 時間	1	1
+house	TRUE	[haus]	A	Noun	家, 住宅	1	1
+Houston	FALSE	[hjúːstən]	A	Noun	ヒューストン (米国の都市, NASA の所在地)	125	125
+how	TRUE	[hau]	G	Adverb	どのように	1	1
+how	TRUE	[hau]	G	Adverb	(方法・手段をたずねて) どうやって, どんなふうに	1	1
+how	TRUE	[hau]	G	Adverb	(状態) どんな調子で	1	1
+how	TRUE	[hau]	G	Adverb	(程度) どれくらい	1	1
+How's it going?	FALSE	—	—	—	調子はどうですか。	1	1
+however	FALSE	[hauévər]	G	Adverb	しかしながら	93	93
+humid	FALSE	[hjúːmid]	K	Adjective	蒸し暑い	1	1
+hundred	FALSE	[hʌ́ndrəd]	K	Adjective	100の	1	1
+hungry	TRUE	[hʌ́ŋgri]	K	Adjective	空腹の	1	1
+hurt	FALSE	[həːrt]	B	Verb	〜を傷つける	1	1
+I	TRUE	[ai]	E	Pronoun	私は[が]	1	1
+ice	TRUE	[ais]	A	Noun	氷	1	1
+ice cream	TRUE	[áis krìːm]	A	Noun	アイスクリーム	1	1
+I'd	FALSE	[aid]	—	—	(I would の短縮形)	80	80
+idea	TRUE	[aidíːə]	A	Noun	考え, アイデア	1	1
+have no idea	FALSE	—	—	—	わからない	102	102
+if	TRUE	[if]	H	Conjunction	もし〜ならば	1	1
+I'll	FALSE	[ail]	—	—	(I will の短縮形)	20	20
+I'm	FALSE	[aim]	—	—	(I am の短縮形)	1	1
+imagine	FALSE	[imǽdʒin]	B	Verb	想像する	71	71
+important	TRUE	[impɔ́ːrtnt]	K	Adjective	重要な	1	1
+in	TRUE	[in]	D	Preposition	(場所・位置) 〜の中に[で]	1	1
+in	TRUE	[in]	D	Preposition	(時) 〜に	1	1
+in	TRUE	[in]	D	Preposition	(服装・色など) での, を	1	1
+in	TRUE	[in]	D	Preposition	(状態) 〜で	1	1
+in fact	FALSE	—	—	—	実は, 実際は	25	25
+in order to ~	FALSE	—	—	—	〜するために	1	1
+in particular	FALSE	—	—	—	特に	70	70
+in those days	FALSE	—	—	—	その当時は	120	120
+inconvenience	FALSE	[ìnkənvíːnjəns]	A	Noun	不便	117	117
+increase	FALSE	[inkríːs]	B	Verb	増える	1	1
+incredible	FALSE	[inkrédəbl]	K	Adjective	信じられない	46	46
+India	TRUE	[índiə]	A	Noun	インド	1	1
+industrial arts	FALSE	[indʌ́striəl άːrts]	A	Noun	技術家庭科	1	1
+information	TRUE	[ìnfərméiʃən]	A	Noun	情報	101	101
+ingredient	FALSE	[ingríːdiənt]	A	Noun	(料理の) 材料	42	42
+ink	FALSE	[iŋk]	A	Noun	インク	1	1
+inner	FALSE	[ínər]	K	Adjective	内部の	46	46
+inside	FALSE	[ìnsáid]	D	Preposition	〜の中に[へ]	47	47
+inspiration	FALSE	[ìnspəréiʃən]	A	Noun	インスピレーション, ひらめき	80	80
+interest	FALSE	[íntərist]	A	Noun	興味	1	1
+be interested in ~	FALSE	—	—	—	〜に興味を持っている	21	21
+interesting	TRUE	[íntərəstiŋ]	K	Adjective	興味深い, おもしろい	1	1
+internet	TRUE	[íntərnèt]	A	Noun	インターネット	1	1
+into	TRUE	[íntuː, ìntə]	D	Preposition	〜の中へ	1	1
+invent	FALSE	[invént]	B	Verb	発明する	73	73
+invention	FALSE	[invénʃən]	A	Noun	発明(品)	80	80
+Iraq	FALSE	[irάːk]	A	Noun	イラク	92	92
+is	TRUE	[iz]	B	Verb	〜である, 〜にいる [be動詞]	1	1
+is	TRUE	[iz]	M	Auxiliary verb	〜である (主語が三人称単数のときの be 動詞現在形)	1	1
+island	TRUE	[áilənd]	A	Noun	島	130	130
+isn't	FALSE	[íznt]	—	—	(is not の短縮形)	1	1
+it	TRUE	[it]	E	Pronoun	それは[が]	1	1
+it	TRUE	[it]	E	Pronoun	(天候, 時刻, 距離などを表す)	1	1
+it'll	FALSE	[ítl]	—	—	(it will の短縮形)	9	9
+its	TRUE	[its]	K	Adjective	その	1	1
+Jackson	FALSE	[dʒǽksn]	A	Noun	ジャクソン (姓)	1	1
+jam	TRUE	[dʒæm]	A	Noun	ジャム	1	1
+January	TRUE	[dʒǽnjuèri]	A	Noun	1月	1	1
+Japan	TRUE	[dʒəpǽn]	A	Noun	日本	15	15
+Japanese	TRUE	[dʒæ̀pəníːz]	K	Adjective	日本の, 日本人の	1	1
+Japanese	TRUE	[dʒæ̀pəníːz]	A	Noun	日本人, 日本語	1	1
+Japanese apricot	FALSE	[dʒæ̀pəníːz éiprikὰt]	A	Noun	ウメ	1	1
+J. C. Smith	FALSE	[dʒéi síː smíθ]	A	Noun	J. C. スミス (架空の人名)	29	29
+jealous	FALSE	[dʒéləs]	K	Adjective	うらやましい	1	1
+jellyfish	FALSE	[dʒélifìʃ]	A	Noun	クラゲ	1	1
+Jennifer	FALSE	[dʒénəfər]	A	Noun	ジェニファー (女子の名)	1	1
+jet lag	FALSE	[dʒét læ̀g]	A	Noun	時差ぼけ	1	1
+job	TRUE	[dʒɑb]	A	Noun	仕事	32	32
+Good job.	FALSE	—	—	—	よくやったね。	32	32
+jogging	FALSE	[dʒάgiŋ]	A	Noun	ジョギング	129	129
+go jogging	FALSE	—	—	—	ジョギングに行く	129	129
+John	TRUE	[dʒɑn]	A	Noun	ジョン (男子の名)	1	1
+join	TRUE	[dʒɔin]	B	Verb	参加する, 加わる	1	1
+joke	FALSE	[dʒouk]	A	Noun	冗談	125	125
+Jose	FALSE	[houzéi]	A	Noun	ホセ (男子の名)	1	1
+journey	FALSE	[dʒə́ːrni]	A	Noun	(陸路の長い) 旅行, (比喩的に) 日本人が作る・作曲・演奏する〜	1	1
+juice	TRUE	[dʒuːs]	A	Noun	ジュース	1	1
+Judy	FALSE	[dʒúːdi]	A	Noun	ジュディ (女子の名)	1	1
+July	TRUE	[dʒulái]	A	Noun	7月	1	1
+jump	TRUE	[dʒʌmp]	B	Verb	跳ぶ	1	1
+June	TRUE	[dʒuːn]	A	Noun	6月	1	1
+junior	FALSE	[dʒúːnjər]	K	Adjective	年下の	1	1
+junior high school	FALSE	[dʒúːnjər hái skùːl]	A	Noun	中学校	1	1
+just	TRUE	[dʒʌst]	G	Adverb	ちょうど, たった今	50	50
+Just a moment.	FALSE	—	—	—	ちょっと待ってください	125	125
+kangaroo	FALSE	[kæ̀ŋgərúː]	A	Noun	カンガルー	1	1
+Kate	FALSE	[keit]	A	Noun	ケイト (女子の名)	1	1
+keep	TRUE	[kiːp]	B	Verb	保つ, 持ち続ける	12	12
+keep in touch	FALSE	—	—	—	連絡を保つ	113	113
+Ken	TRUE	[ken]	A	Noun	ケン (男子の名)	1	1
+Kent	FALSE	[kent]	A	Noun	ケント (男子の名)	1	1
+Kenya	FALSE	[kénjə]	A	Noun	ケニア	1	1
+kept	FALSE	[kept]	B	Verb	(keep の過去形・過去分詞)	1	1
+key	FALSE	[kiː]	A	Noun	カギ	131	131
+keyboard	FALSE	[kíːbɔ̀ːrd]	A	Noun	キーボード	20	20
+kick	FALSE	[kik]	B	Verb	ける	1	1
+kid	FALSE	[kid]	A	Noun	子ども	1	1
+Just kidding.	FALSE	—	—	—	冗談だよ。	1	1
+You're kidding.	FALSE	—	—	—	まさか。冗談でしょう。	11	11
+kilometer	FALSE	[kilάmətər]	A	Noun	キロメートル	1	1
+kind	TRUE	[kaind]	K	Adjective	親切な	1	1
+kind	TRUE	[kaind]	A	Noun	種類	46	46
+many kinds of ~	FALSE	—	—	—	たくさんの種類の〜	1	1
+kindly	FALSE	[káindli]	G	Adverb	親切に	69	69
+king	FALSE	[kiŋ]	A	Noun	王	1	1
+kitchen	TRUE	[kítʃin]	A	Noun	台所	109	109
+kiwi	FALSE	[kíːwi]	A	Noun	キウイ	1	1
+kiwi fruit	FALSE	[kíːwi frùːt]	A	Noun	キウイフルーツ	1	1
+knew	FALSE	[njuː]	B	Verb	(know の過去形)	47	47
+know	TRUE	[nou]	B	Verb	知っている, わかる	1	1
+You know, ~.	FALSE	—	—	—	ご存じでしょうが, 〜	1	1
+known	FALSE	[noun]	B	Verb	(know の過去分詞)	1	1
+koala	FALSE	[kouάːlə]	A	Noun	コアラ	108	108
+Kumi	TRUE	[kúmi]	A	Noun	久美 (女子の名)	1	1
+lady	FALSE	[léidi]	A	Noun	婦人, 女の人	1	1
+lake	TRUE	[leik]	A	Noun	湖	1	1
+land	FALSE	[lænd]	A	Noun	陸地	1	1
+land	FALSE	[lænd]	B	Verb	上陸する	1	1
+language	TRUE	[lǽŋgwidʒ]	A	Noun	言語, ことば	1	1
+large	TRUE	[lɑːrdʒ]	K	Adjective	大きい, 広い	1	1
+last	TRUE	[læst]	G	Adverb	(この) 前の	73	73
+last	TRUE	[læst]	K	Adjective	最後の	1	1
+last	TRUE	[læst]	B	Verb	続く	93	93
+at last	FALSE	—	—	—	ついに	126	126
+last	TRUE	[læst]	G	Adverb	最後に	1	1
+late	TRUE	[leit]	G	Adverb	遅く, 遅れて	107	107
+late	TRUE	[leit]	K	Adjective	遅い, 遅刻した	1	1
+later	FALSE	[léitər]	G	Adverb	あとで, 後に	129	129
+laugh	TRUE	[læf]	B	Verb	(声を出して) 笑う	1	1
+laundry	FALSE	[lɔ́ːndri]	A	Noun	洗濯物	132	132
+lazy	FALSE	[léizi]	K	Adjective	怠惰な	25	25
+lead	FALSE	[liːd]	B	Verb	導く	79	79
+learn	TRUE	[ləːrn]	B	Verb	学ぶ, 習う	1	1
+learned	FALSE	[ləːrnd]	K	Adjective	学識のある	51	51
+leave	TRUE	[liːv]	B	Verb	去る, 出発する, 置いていく, 残していく	1	1
+leave	TRUE	[liːv]	A	Noun	休暇	1	1
+led	FALSE	[led]	B	Verb	(lead の過去形・過去分詞)	79	79
+left	FALSE	[left]	B	Verb	(leave の過去形・過去分詞)	47	47
+left	FALSE	[left]	K	Adjective	左の	1	1
+leg	FALSE	[leg]	A	Noun	(人の) 脚, (家具の) 脚	18	18
+lemon	FALSE	[lémən]	A	Noun	レモン	1	1
+lemonade	FALSE	[lèmənéid]	A	Noun	レモネード	1	1
+lend	FALSE	[lend]	B	Verb	貸す	66	66
+less	FALSE	[les]	G	Adverb	(〜より) 少なく	36	36
+lesson	TRUE	[lésn]	A	Noun	授業, レッスン	1	1
+let	FALSE	[let]	B	Verb	〜させる	1	1
+Let's ~.	FALSE	—	—	—	〜しましょう	1	1
+letter	TRUE	[létər]	A	Noun	文字	1	1
+letter	TRUE	[létər]	A	Noun	手紙	83	83
+library	TRUE	[láibrèri]	A	Noun	図書館	1	1
+lid	FALSE	[lid]	A	Noun	ふた	79	79
+lie	FALSE	[lai]	A	Noun	うそ	1	1
+life	TRUE	[laif]	A	Noun	生命, 人生	33	33
+lift	FALSE	[lift]	B	Verb	持ち上げる	64	64
+light	TRUE	[lait]	A	Noun	光, 明かり	1	1
+light	TRUE	[lait]	K	Adjective	(音が) はっきりした	43	43
+light	TRUE	[lait]	K	Adjective	明るい	80	80
+like	TRUE	[laik]	B	Verb	〜が好きである, 〜を好む	1	1
+like	TRUE	[laik]	D	Preposition	〜のように[な], 〜に似ている	1	1
+Lin	FALSE	[lin]	A	Noun	リン (女子の名)	1	1
+line	TRUE	[lain]	A	Noun	線, 列	1	1
+lion	FALSE	[láiən]	A	Noun	ライオン	1	1
+Lion Queen	FALSE	[láiən kwíːn]	A	Noun	ライオンクイーン (架空の映画のタイトル)	109	109
+Lisa White	FALSE	[líːsə hwáit]	A	Noun	リサ=ホワイト (架空の人名, リサは女子の名)	1	1
+list	FALSE	[list]	A	Noun	リスト, 一覧表	1	1
+listen	TRUE	[lísn]	B	Verb	聞く, 耳を傾ける	1	1
+listener	FALSE	[lísnər]	A	Noun	聞き手	1	1
+little	TRUE	[lítl]	K	Adjective	小さい	1	1
+a little	FALSE	—	—	—	少し	1	1
+live	TRUE	[liv]	B	Verb	住んでいる	1	1
+live	TRUE	[liv]	B	Verb	生きている	81	81
+living	FALSE	[líviŋ]	K	Adjective	生きている	1	1
+local	FALSE	[lóukl]	K	Adjective	地方の, 現地の	12	12
+London	TRUE	[lʌ́ndən]	A	Noun	ロンドン (英国の首都)	57	57
+lonely	FALSE	[lóunli]	K	Adjective	さびしい	77	77
+long	TRUE	[lɔːŋ]	K	Adjective	長い	1	1
+long time	FALSE	—	—	—	長い間	46	46
+look	TRUE	[luk]	B	Verb	見る, 目を向ける	1	1
+look at ~	FALSE	—	—	—	〜を見る	1	1
+look for ~	FALSE	—	—	—	〜を探す	1	1
+look forward to ~	FALSE	—	—	—	〜を楽しみに待つ	36	36
+look like ~	FALSE	—	—	—	〜のように見える	1	1
+lose	FALSE	[luːz]	B	Verb	失う, 負ける	111	111
+lost	FALSE	[lɔːst]	B	Verb	(lose の過去形・過去分詞)	125	125
+lost	FALSE	[lɔːst]	K	Adjective	道に迷った	1	1
+lot	FALSE	[lɑt]	A	Noun	多くのこと[もの], 多数, 大量	1	1
+a lot	FALSE	—	—	—	たくさん, 大いに	1	1
+a lot of ~	FALSE	—	—	—	たくさんの〜	1	1
+lots of ~	FALSE	—	—	—	たくさんの〜	79	79
+loud	FALSE	[laud]	K	Adjective	(声が) 大きい, そうぞうしい	59	59
+love	TRUE	[lʌv]	B	Verb	愛する, 大好きである	1	1
+lovely	FALSE	[lʌ́vli]	K	Adjective	美しい, すてきな	1	1
+low	TRUE	[lou]	K	Adjective	低い	29	29
+luck	TRUE	[lʌk]	A	Noun	幸運	1	1
+lucky	TRUE	[lʌ́ki]	K	Adjective	幸運な	1	1
+Lucy	FALSE	[lúːsi]	A	Noun	ルーシー (女子の名)	1	1
+Luffy	FALSE	[lʌ́fi]	A	Noun	ルフィ (男子の名)	1	1
+lunch	TRUE	[lʌntʃ]	A	Noun	昼食	1	1
+machine	FALSE	[məʃíːn]	A	Noun	機械, 器具	64	64
+made	FALSE	[meid]	B	Verb	(make の過去形・過去分詞)	1	1
+magic	FALSE	[mǽdʒik]	A	Noun	魔法	85	85
+magic	FALSE	[mǽdʒik]	K	Adjective	魔法の	88	88
+mail	TRUE	[meil]	A	Noun	郵便	1	1
+make	TRUE	[meik]	B	Verb	作る	1	1
+make ~ A	FALSE	—	—	—	〜をA(の状態)にする	113	113
+make it	FALSE	—	—	—	間に合う, うまくいく	59	59
+make use of ~	FALSE	—	—	—	〜を利用する	71	71
+mammal	FALSE	[mǽməl]	A	Noun	ほ乳類	1	1
+man	TRUE	[mæn]	A	Noun	男性, 男の人	102	102
+mandarin orange	FALSE	[mǽndərin ɔ́ːrindʒ]	A	Noun	ミカン	1	1
+mango	FALSE	[mǽŋgou]	A	Noun	マンゴー	1	1
+manner	FALSE	[mǽnər]	A	Noun	行儀, 作法	1	1
+many	TRUE	[méni]	K	Adjective	多くの, たくさんの	25	25
+map	TRUE	[mæp]	A	Noun	地図	1	1
+marathon	FALSE	[mǽrəθὰn]	A	Noun	マラソン	1	1
+March	TRUE	[mɑːrtʃ]	A	Noun	3月	1	1
+marine biologist	FALSE	[məríːn baiάlədʒist]	A	Noun	海洋生物学者	120	120
+Mark	FALSE	[mɑːrk]	A	Noun	マーク (男子の名)	1	1
+marker pen	FALSE	[mάːrkər pèn]	A	Noun	マーカーペン	130	130
+market	TRUE	[mάːrkit]	A	Noun	市場	1	1
+mascot	FALSE	[mǽskɑt]	A	Noun	マスコット	115	115
+material	FALSE	[mətíəriəl]	A	Noun	材料, 原料	1	1
+math	TRUE	[mæθ]	A	Noun	数学 (＝mathematics)	88	88
+matter	FALSE	[mǽtər]	A	Noun	事柄, 問題	1	1
+What's the matter?	FALSE	—	—	—	どうしたのですか	1	1
+May	TRUE	[mei]	A	Noun	5月	1	1
+may	FALSE	[mei]	M	Auxiliary verb	〜してもよい	50	50
+may	FALSE	[mei]	M	Auxiliary verb	〜かもしれない	128	128
+May I ~?	FALSE	—	—	—	〜してもよろしいですか	1	1
+maybe	TRUE	[méibi]	G	Adverb	たぶん, おそらく	15	15
+mayonnaise	FALSE	[mèiənéiz]	A	Noun	マヨネーズ	1	1
+me	TRUE	[miː]	E	Pronoun	私を[に]	1	1
+me	TRUE	[miː]	E	Pronoun	(文の終わりに) 私も	86	86
+meal	FALSE	[miːl]	A	Noun	食事	1	1
+mean	FALSE	[miːn]	B	Verb	意味する, 意図する	1	1
+meaning	FALSE	[míːniŋ]	A	Noun	意味	1	1
+mechanical pencil	FALSE	[mikǽnikl pénsl]	A	Noun	シャープペンシル	130	130
+medical	FALSE	[médikl]	K	Adjective	医学の, 医療の	1	1
+medium	FALSE	[míːdiəm]	G	Adverb	中間の	1	1
+meet	TRUE	[miːt]	B	Verb	会う	61	61
+meet	TRUE	[miːt]	B	Verb	(要求など) に応じる, 達成する	93	93
+Nice to meet you.	FALSE	—	—	—	はじめまして (初対面のあいさつ)	1	1
+Meg	FALSE	[meg]	A	Noun	メグ (女子の名)	18	18
+melon	FALSE	[mélən]	A	Noun	メロン	1	1
+member	TRUE	[mémbər]	A	Noun	メンバー, 一員	1	1
+memorial	FALSE	[məmɔ́ːriəl]	K	Adjective	記念の	1	1
+memory	FALSE	[méməri]	A	Noun	記憶, 思い出	126	126
+menu	TRUE	[ménjuː]	A	Noun	メニュー, 献立(表)	1	1
+message	TRUE	[mésidʒ]	A	Noun	伝言, 通信文	46	46
+met	FALSE	[met]	B	Verb	(meet の過去形・過去分詞)	63	63
+meter	FALSE	[míːtər]	A	Noun	メートル	66	66
+Mexico	TRUE	[méksikòu]	A	Noun	メキシコ	1	1
+mice	FALSE	[mais]	A	Noun	(mouse の複数形)	105	105
+midfielder	FALSE	[mídfìːldər]	A	Noun	ミッドフィールダー (サッカーで)	1	1
+midnight	FALSE	[mídnàit]	A	Noun	真夜中, 夜半	1	1
+midterm	FALSE	[mídtə̀ːrm]	K	Adjective	中間の	1	1
+midterm examination	FALSE	[mídtə̀ːrm igzæ̀mənéiʃən]	A	Noun	中間試験	1	1
+Mike	TRUE	[maik]	A	Noun	マイク (男子の名)	1	1
+mild	FALSE	[maild]	K	Adjective	温暖な	117	117
+milk	TRUE	[milk]	A	Noun	牛乳, ミルク	1	1
+million	FALSE	[míljən]	K	Adjective	100万の	113	113
+mind	FALSE	[maind]	A	Noun	心, 精神	48	48
+mine	FALSE	[main]	E	Pronoun	私のもの	1	1
+mineral water	FALSE	[mínərəl wɔ́ːtər]	A	Noun	ミネラルウォーター	117	117
+minus	FALSE	[máinəs]	G	Adverb	マイナスの	29	29
+minute	TRUE	[mínit]	A	Noun	分, 少しの間	1	1
+Mira Fish Market	FALSE	[míːrə fíʃ mάːrkit]	A	Noun	ミラ・フィッシュマーケット (架空の魚市場の名)	43	43
+mirror	FALSE	[mírər]	A	Noun	鏡	1	1
+miso	FALSE	[míːsou]	A	Noun	みそ(味噌)	15	15
+mispronounced	FALSE	[mìsprənáunst]	K	Adjective	発音を誤った	1	1
+Miss	TRUE	[mis]	A	Noun	〜さん, 〜先生	30	30
+mistake	FALSE	[mistéik]	A	Noun	間違い	69	69
+by mistake	FALSE	—	—	—	誤って, 間違って	69	69
+mmm	FALSE	[mː]	C	Interjection	うーん (考えたり迷ったりしているときに発する声)	1	1
+model	FALSE	[mάdl]	A	Noun	模型, 手本	108	108
+mom	TRUE	[mɑm]	A	Noun	ママ, お母さん (＝mommy)	1	1
+moment	FALSE	[móumənt]	A	Noun	瞬間	50	50
+Just a moment.	FALSE	—	—	—	ちょっと待ってください。	50	50
+Monday	TRUE	[mʌ́ndei]	A	Noun	月曜日	1	1
+money	TRUE	[mʌ́ni]	A	Noun	お金	18	18
+monster	FALSE	[mάnstər]	A	Noun	怪獣, モンスター	1	1
+month	TRUE	[mʌnθ]	A	Noun	月, ひと月	1	1
+Montreal	FALSE	[mὰntriɔ́ːl]	A	Noun	モントリオール (カナダの都市)	29	29
+monument	FALSE	[mάnjəmənt]	A	Noun	記念碑	112	112
+moon	TRUE	[muːn]	A	Noun	月	1	1
+moral	FALSE	[mɔ́ːrəl]	K	Adjective	道徳(上)の	125	125
+more	TRUE	[mɔər]	K	Adjective	もっと多くの	1	1
+more	TRUE	[mɔər]	G	Adverb	(副詞・形容詞の前に置いて比較級を作る) もっと〜	76	76
+more	TRUE	[mɔər]	G	Adverb	より多く	1	1
+morning	TRUE	[mɔ́ːrniŋ]	A	Noun	朝, 午前	1	1
+most	FALSE	[moust]	K	Adjective	たいていの	113	113
+most	FALSE	[moust]	G	Adverb	(副詞・形容詞の前に置いて最上級を作る) もっとも〜	1	1
+most	FALSE	[moust]	E	Pronoun	大部分	126	126
+make the most of ~	FALSE	—	—	—	〜を最大限に活用する	113	113
+mother	TRUE	[mʌ́ðər]	A	Noun	母, お母さん	1	1
+Mother's Day	FALSE	[mʌ́ðərz dèi]	A	Noun	母の日	71	71
+mouse	FALSE	[maus]	A	Noun	ハツカネズミ	47	47
+move	TRUE	[muːv]	B	Verb	動く, 移動する	1	1
+move	TRUE	[muːv]	B	Verb	引っ越す	80	80
+movie	TRUE	[múːvi]	A	Noun	映画	1	1
+movie star	FALSE	[múːvi stὰːr]	A	Noun	映画スター	1	1
+Mr.	TRUE	[místər]	A	Noun	〜さん, 〜先生 (男性に対する敬称)	1	1
+Ms.	TRUE	[miz]	A	Noun	〜さん, 〜先生 (女性に対する敬称)	1	1
+Mt.	FALSE	[maunt]	A	Noun	〜山 (山の名に用いて)	1	1
+much	TRUE	[mʌtʃ]	K	Adjective	多くの	1	1
+much	TRUE	[mʌtʃ]	G	Adverb	たいへん, とても	13	13
+How much ...?	FALSE	—	—	—	〜はいくらですか	1	1
+very much	FALSE	—	—	—	とても	1	1
+museum	TRUE	[mjuːzíːəm]	A	Noun	博物館, 美術館	1	1
+music	TRUE	[mjúːzik]	A	Noun	音楽	99	99
+must	FALSE	[mʌst, məst]	M	Auxiliary verb	〜しなければならない	1	1
+mustn't	FALSE	[mʌ́snt]	—	—	(must not の短縮形)	52	52
+my	TRUE	[mai]	K	Adjective	私の	1	1
+myself	FALSE	[maisélf]	E	Pronoun	私自身	1	1
+name	TRUE	[neim]	A	Noun	名前	1	1
+name	TRUE	[neim]	B	Verb	名づける	71	71
+Nara	TRUE	[nάːrə]	A	Noun	奈良	129	129
+narrow	FALSE	[nǽrou]	K	Adjective	狭い	81	81
+NASA	FALSE	[nǽsə]	A	Noun	米国航空宇宙局 (National Aeronautics and Space Administration)	125	125
+national	FALSE	[nǽʃənl]	K	Adjective	国の	24	24
+nature	FALSE	[néitʃər]	A	Noun	自然	1	1
+naughty	FALSE	[nɔ́ːti]	K	Adjective	いたずらな	1	1
+navy blue	FALSE	[néivi blúː]	K	Adjective	濃紺(の)	130	130
+near	TRUE	[niər]	D	Preposition	〜の近くに	1	1
+near	TRUE	[niər]	G	Adverb	近くに	93	93
+necessary	FALSE	[nésəsèri]	K	Adjective	必要な	1	1
+neck	TRUE	[nek]	A	Noun	首	1	1
+need	TRUE	[niːd]	B	Verb	必要とする	37	37
+neither	FALSE	[níːðər]	G	Adverb	どちらも〜ない	111	111
+nervous	FALSE	[nə́ːrvəs]	K	Adjective	緊張した	1	1
+Netherlands	FALSE	[néðərləndz]	A	Noun	オランダ (正式の国名)	70	70
+never	TRUE	[névər]	G	Adverb	決して〜ない, 今までに一度も〜ない	1	1
+new	TRUE	[njuː]	K	Adjective	新しい	1	1
+New York	TRUE	[njúː jɔ́ːrk]	A	Noun	ニューヨーク (米国北東部の州名･都市名)	1	1
+New Zealand	TRUE	[njúː zíːlənd]	A	Noun	ニュージーランド	48	48
+news	TRUE	[njuːz]	A	Noun	知らせ, ニュース	1	1
+newspaper	TRUE	[njúːspèipər]	A	Noun	新聞	1	1
+next	TRUE	[nekst]	K	Adjective	次の, 今度の	1	1
+next	TRUE	[nekst]	G	Adverb	次に, となりに	1	1
+next to ~	FALSE	—	—	—	〜の隣に	1	1
+Niagara Falls	FALSE	[naiǽgərə fɔ́ːlz]	A	Noun	ナイアガラの滝	29	29
+nice	TRUE	[nais]	K	Adjective	よい, すてきな	1	1
+night	TRUE	[nait]	A	Noun	夜	1	1
+last night	FALSE	—	—	—	昨夜	1	1
+nighttime	FALSE	[náittàim]	A	Noun	夜間	105	105
+nine	TRUE	[nain]	K	Adjective	9の	1	1
+nineteen	FALSE	[nàintíːn]	K	Adjective	19の	1	1
+nineteenth	FALSE	[nàintíːnθ]	K	Adjective	19番目の	1	1
+ninth	FALSE	[nainθ]	K	Adjective	9番目の	1	1
+ninety	FALSE	[náinti]	K	Adjective	90の	1	1
+no	TRUE	[nou]	K	Adjective	少しの〜もない	1	1
+no	TRUE	[nou]	G	Adverb	いいえ	1	1
+No, thank you.	FALSE	—	—	—	いいえ, けっこうです (誘いや申し出をていねいに断る)	1	1
+no one	FALSE	—	—	—	だれも〜ない	1	1
+nobody	FALSE	[nóubὰdi]	E	Pronoun	だれも〜ない	1	1
+noise	FALSE	[nɔiz]	A	Noun	物音, 騒音	59	59
+noisy	FALSE	[nɔ́izi]	K	Adjective	うるさい	131	131
+non-	FALSE	[nɑn]	—	—	〜でないことを表す	1	1
+noodle	FALSE	[núːdl]	A	Noun	(複数形で) めん類	42	42
+noon	FALSE	[nuːn]	A	Noun	正午	1	1
+north	TRUE	[nɔərθ]	A	Noun	北	80	80
+not	TRUE	[nɑt]	G	Adverb	〜でない	1	1
+not always	FALSE	—	—	—	いつも〜とは限らない	103	103
+notebook	TRUE	[nóutbùk]	A	Noun	ノート	1	1
+nothing	FALSE	[nʌ́θiŋ]	E	Pronoun	何も〜ない	1	1
+November	TRUE	[nouvémbər]	A	Noun	11月	1	1
+now	TRUE	[nau]	G	Adverb	今は, 現在は	1	1
+now	TRUE	[nau]	G	Adverb	さて	1	1
+nowadays	FALSE	[náuədèiz]	G	Adverb	近ごろ	1	1
+New South Wales	FALSE	[njúː sauθ wéilz]	A	Noun	ニューサウスウェールズ州 (オーストラリア南東部の州)	1	1
+number	TRUE	[nʌ́mbər]	A	Noun	数, 数字	1	1
+nurse	TRUE	[nəːrs]	A	Noun	看護師	50	50
+nursery school	FALSE	[nə́ːrsəri skúːl]	A	Noun	保育園	71	71
+o'clock	FALSE	[əklάk]	G	Adverb	〜時	1	1
+ocean	TRUE	[óuʃən]	A	Noun	大洋, 海	1	1
+October	TRUE	[ɑktóubər]	A	Noun	10月	1	1
+octopus	FALSE	[άktəpəs]	A	Noun	タコ	1	1
+of	TRUE	[ʌv, əv]	D	Preposition	〜の	1	1
+of	TRUE	[ʌv, əv]	D	Preposition	(部分・中身を表して) 〜の	1	1
+off	TRUE	[ɔːf]	G	Adverb	離れて, 去って	77	77
+off	TRUE	[ɔːf]	D	Preposition	〜から離れて	1	1
+offer	FALSE	[ɔ́ːfər]	B	Verb	提供する, 申し出る	109	109
+office	TRUE	[ɔ́ːfis]	A	Noun	事務所, 会社	1	1
+officer	FALSE	[ɔ́ːfisər]	A	Noun	警官, 役人	83	83
+often	TRUE	[ɔ́ːfn]	G	Adverb	しばしば	1	1
+oh	TRUE	[ou]	C	Interjection	おお, ああ	1	1
+OK / O.K. / okay	TRUE	[òukéi]	C	Interjection	よろしい, いいですよ	1	1
+OK / O.K. / okay	TRUE	[òukéi]	K	Adjective	元気で, 無事で	1	1
+old	TRUE	[ould]	K	Adjective	年をとった, 古い	1	1
+Oliver	FALSE	[άlivər]	A	Noun	オリバー (男子の名)	70	70
+omelet	FALSE	[άmlit]	A	Noun	オムレツ	83	83
+on	TRUE	[ɑn]	D	Preposition	〜(の上) に	1	1
+on	TRUE	[ɑn]	D	Preposition	(手段・伝達・関係を表して) 〜で	1	1
+on	TRUE	[ɑn]	D	Preposition	(特定の日・曜日) に	1	1
+on	TRUE	[ɑn]	D	Preposition	(所属を表して) 〜の一員で	1	1
+on	TRUE	[ɑn]	G	Adverb	(活動) し続けて	1	1
+on	TRUE	[ɑn]	G	Adverb	(目的のために)	93	93
+on my way (back) to ~	FALSE	—	—	—	〜へ帰る途中で	88	88
+on time	FALSE	—	—	—	時間どおりに	59	59
+once	FALSE	[wʌns]	G	Adverb	1度, かつて	1	1
+once	FALSE	[wʌns]	H	Conjunction	いったん〜すると	103	103
+one	TRUE	[wʌn]	K	Adjective	1つの	1	1
+one	TRUE	[wʌn]	E	Pronoun	(前に出てきた可算名詞のくり返しを避けるために使う) もの	1	1
+one	TRUE	[wʌn]	E	Pronoun	(不特定の人)	1	1
+one another	FALSE	—	—	—	おたがい	92	92
+one day	FALSE	—	—	—	ある日	80	80
+one of ~	FALSE	—	—	—	〜のうちの1つ[1人]	1	1
+one piece	FALSE	[wʌ́n píːs]	A	Noun	ワンピース (マンガ・アニメのタイトル)	25	25
+onion	FALSE	[ʌ́njən]	A	Noun	タマネギ	61	61
+only	TRUE	[óunli]	G	Adverb	だけ, ほんの〜にすぎない	1	1
+oops	FALSE	[uːps]	C	Interjection	おっと, しまった	1	1
+open	TRUE	[óupən]	B	Verb	開ける, 開く	1	1
+open	TRUE	[óupən]	K	Adjective	開いている	1	1
+opening ceremony	FALSE	[óupniŋ sérəmòuni]	A	Noun	開会式	130	130
+opera house	FALSE	[άpərə hàus]	A	Noun	オペラハウス (オペラ劇場)	1	1
+opinion	FALSE	[əpínjən]	A	Noun	意見	127	127
+option	FALSE	[άpʃən]	A	Noun	選択(肢)	1	1
+or	TRUE	[ɔːr]	H	Conjunction	〜かまたは…, あるいは	1	1
+orange	TRUE	[ɔ́ːrindʒ]	A	Noun	オレンジ	1	1
+order	FALSE	[ɔ́ːrdər]	B	Verb	注文する	61	61
+order	FALSE	[ɔ́ːrdər]	A	Noun	注文	101	101
+in order to ~	FALSE	—	—	—	〜するために	1	1
+organ	FALSE	[ɔ́ːrgən]	A	Noun	オルガン	1	1
+organic	FALSE	[ɔːrgǽnik]	K	Adjective	有機(栽培)の	1	1
+other	FALSE	[ʌ́ðər]	K	Adjective	ほかの	42	42
+other	FALSE	[ʌ́ðər]	E	Pronoun	ほかのもの[人]	37	37
+each other	FALSE	—	—	—	おたがいに[を]	102	102
+our	TRUE	[áuər]	K	Adjective	私たちの	1	1
+ours	FALSE	[áuərz]	E	Pronoun	私たちのもの	1	1
+out	TRUE	[aut]	G	Adverb	外へ[で]	1	1
+out of ~	FALSE	—	—	—	〜の中から外へ	47	47
+outside	TRUE	[àutsáid]	A	Noun	外側	130	130
+outside	TRUE	[àutsáid]	G	Adverb	外で, 戸外で	1	1
+outside	TRUE	[àutsáid]	D	Preposition	〜の外で[へ]	1	1
+over	TRUE	[óuvər]	D	Preposition	〜の上方に	1	1
+over	TRUE	[óuvər]	D	Preposition	〜(の向こう側) に	94	94
+over	TRUE	[óuvər]	G	Adverb	向こうへ	1	1
+over	TRUE	[óuvər]	D	Preposition	〜を越えて	1	1
+overseas	FALSE	[óuvərsìːz]	G	Adverb	海外へ[で]	101	101
+own	TRUE	[oun]	K	Adjective	自分自身の	13	13
+oyster	FALSE	[ɔ́istər]	A	Noun	カキ (貝)	59	59
+oxygen	FALSE	[άksidʒən]	A	Noun	酸素	125	125
+pack	FALSE	[pæk]	B	Verb	(かばんなどに) 荷物を詰める	69	69
+pack	FALSE	[pæk]	A	Noun	1箱, 1パック	103	103
+paint	TRUE	[peint]	B	Verb	(絵の具で) 描く	1	1
+palm	FALSE	[pɑːm]	A	Noun	手のひら	101	101
+pancake	FALSE	[pǽnkèik]	A	Noun	パンケーキ	1	1
+panda	TRUE	[pǽndə]	A	Noun	パンダ	1	1
+paper	TRUE	[péipər]	A	Noun	紙	67	67
+paperback	FALSE	[péipərbæ̀k]	A	Noun	紙表紙の本, ペーパーバック	81	81
+parachute	FALSE	[pǽrəʃùːt]	B	Verb	パラシュートで降下する	127	127
+pardon	FALSE	[pάːrdn]	C	Interjection	(聞き返して) 何とおっしゃいましたか	1	1
+parent	TRUE	[pέərənt]	A	Noun	親	76	76
+park	TRUE	[pɑːrk]	A	Noun	公園	1	1
+park	TRUE	[pɑːrk]	B	Verb	駐車する	1	1
+particular	FALSE	[pərtíkjələr]	K	Adjective	特定の	70	70
+in particular	FALSE	—	—	—	特に	70	70
+party	TRUE	[pάːrti]	A	Noun	パーティー	1	1
+pass	FALSE	[pæs]	B	Verb	通り過ぎる	112	112
+pass	FALSE	[pæs]	B	Verb	(時が) 過ぎる, 経つ	112	112
+pass away	FALSE	—	—	—	亡くなる	127	127
+passenger	FALSE	[pǽsindʒər]	A	Noun	乗客	117	117
+passionate	FALSE	[pǽʃənit]	K	Adjective	情熱的な	23	23
+past	FALSE	[pæst]	D	Preposition	〜を過ぎて	1	1
+pastry chef	FALSE	[péistri ʃèf]	A	Noun	パティシエ	1	1
+paw	FALSE	[pɔː]	A	Noun	(犬・ネコなどの) 足	80	80
+pay	FALSE	[pei]	B	Verb	支払う	1	1
+P.E.	FALSE	[píːíː]	A	Noun	体育 (＝physical education)	1	1
+peace	TRUE	[piːs]	A	Noun	平和	1	1
+peach	FALSE	[piːtʃ]	A	Noun	モモ	24	24
+pear	FALSE	[pɛər]	A	Noun	ナシ	1	1
+pen	TRUE	[pen]	A	Noun	ペン	1	1
+pencil	TRUE	[pénsl]	A	Noun	鉛筆	1	1
+penguin	FALSE	[péŋgwin]	A	Noun	ペンギン	98	98
+people	TRUE	[píːpl]	A	Noun	人々	1	1
+perform	FALSE	[pərfɔ́ːrm]	B	Verb	行う, 演じる	1	1
+performance	FALSE	[pərfɔ́ːrməns]	A	Noun	演技, パフォーマンス	1	1
+period studies	FALSE	[píəriəd stʌ́diz]	A	Noun	総合的な学習の時間 (科目)	1	1
+persimmon	FALSE	[pərsímən]	A	Noun	カキ (果物)	1	1
+person	TRUE	[pə́ːrsn]	A	Noun	人	23	23
+pet	TRUE	[pet]	A	Noun	ペット	80	80
+photo	TRUE	[fóutou]	A	Noun	写真	1	1
+photographer	FALSE	[fətάgrəfər]	A	Noun	写真家	1	1
+piano	TRUE	[piǽnou]	A	Noun	ピアノ	1	1
+pick	TRUE	[pik]	B	Verb	選ぶ	69	69
+pick ~ up	FALSE	—	—	—	〜を拾い上げる, 〜を車で迎えに行く	1	1
+picnic	TRUE	[píknik]	A	Noun	ピクニック	15	15
+picture	TRUE	[píktʃər]	A	Noun	写真, 絵	1	1
+take a picture	FALSE	—	—	—	写真を撮る	1	1
+pie	FALSE	[pai]	A	Noun	パイ	73	73
+piece	FALSE	[piːs]	A	Noun	1つ, 1個, 1枚 (piece of ~ の形で使うことが多い)	1	1
+pig	FALSE	[pig]	A	Noun	ブタ	86	86
+pillar	FALSE	[pílər]	A	Noun	柱	131	131
+pillow	FALSE	[pílou]	A	Noun	枕	1	1
+pilot	FALSE	[páiliət]	A	Noun	パイロット	66	66
+pink	TRUE	[piŋk]	K	Adjective	ピンク色(の)	130	130
+pioneer	FALSE	[pàiəníər]	A	Noun	開拓者, 先駆者	120	120
+pizza	FALSE	[píːtsə]	A	Noun	ピザ, ピッツァ	1	1
+place	TRUE	[pleis]	A	Noun	場所	1	1
+place	TRUE	[pleis]	B	Verb	置く, 設置する	69	69
+plain	FALSE	[plein]	K	Adjective	無地の, 飾りのない	1	1
+plan	TRUE	[plæn]	A	Noun	計画, 予定	66	66
+plan	TRUE	[plæn]	B	Verb	計画する, 〜するつもりである	23	23
+plane	FALSE	[plein]	A	Noun	飛行機	11	11
+planet	FALSE	[plǽnit]	A	Noun	惑星	125	125
+plant	TRUE	[plænt]	A	Noun	植物	1	1
+plant	TRUE	[plænt]	B	Verb	植える	120	120
+plastic	FALSE	[plǽstik]	A	Noun	プラスチック, ビニール	86	86
+plastic bag	FALSE	[plǽstik bǽg]	A	Noun	ビニール袋	86	86
+plate	FALSE	[pleit]	A	Noun	(浅い) 皿	1	1
+play	TRUE	[plei]	B	Verb	遊ぶ	1	1
+play	TRUE	[plei]	B	Verb	(スポーツなどを) する, 演技をする, 演奏する	1	1
+player	TRUE	[pléiər]	A	Noun	選手, 演奏者	1	1
+plaza	FALSE	[plάːzə]	A	Noun	広場	1	1
+please	TRUE	[pliːz]	G	Adverb	どうぞ, お願いします	1	1
+pleased	FALSE	[pliːzd]	K	Adjective	うれしい	130	130
+p.m. / pm / PM	FALSE	[píːém]	G	Adverb	午後	1	1
+pocket	FALSE	[pάkit]	A	Noun	ポケット	105	105
+point	FALSE	[pɔint]	A	Noun	点数, 得点	1	1
+point	FALSE	[pɔint]	B	Verb	指さす	30	30
+police	TRUE	[pəlíːs]	A	Noun	警察	1	1
+police station	FALSE	[pəlíːs stèiʃən]	A	Noun	警察署	1	1
+polite	FALSE	[pəláit]	K	Adjective	ていねいな	1	1
+pollen	FALSE	[pάlən]	A	Noun	花粉	81	81
+pond	FALSE	[pɑnd]	A	Noun	池	1	1
+poor	FALSE	[puər]	K	Adjective	貧しい, 不幸な	1	1
+popular	TRUE	[pάpjələr]	K	Adjective	人気のある	1	1
+pork	FALSE	[pɔərk]	A	Noun	豚肉	1	1
+port	FALSE	[pɔərt]	A	Noun	港	1	1
+positive	FALSE	[pάzətiv]	K	Adjective	積極的な	6	6
+post office	TRUE	[póust ɔ́ːfis]	A	Noun	郵便局	1	1
+postcard	TRUE	[póustkὰːrd]	A	Noun	郵便はがき	132	132
+poster	TRUE	[póustər]	A	Noun	ポスター	74	74
+potato	TRUE	[pətéitou]	A	Noun	ジャガイモ	61	61
+potential	FALSE	[pəténʃəl]	A	Noun	潜在能力	81	81
+pound	FALSE	[paund]	A	Noun	ポンド (重さの単位)	126	126
+power	TRUE	[páuər]	A	Noun	力, 動力	1	1
+practice	TRUE	[prǽktis]	A	Noun	練習	1	1
+practice	TRUE	[prǽktis]	B	Verb	練習する	88	88
+pray	FALSE	[prei]	B	Verb	祈る	1	1
+prepare	FALSE	[pripέər]	B	Verb	準備する	1	1
+presentation	FALSE	[prèzntéiʃən]	A	Noun	プレゼンテーション, 発表	33	33
+president	FALSE	[prézidənt]	A	Noun	大統領	52	52
+pretty	TRUE	[príti]	K	Adjective	かわいらしい	1	1
+problem	TRUE	[prάbləm]	A	Noun	問題	1	1
+No problem.	FALSE	—	—	—	どういたしまして	1	1
+professional	FALSE	[prəféʃənl]	A	Noun	プロ, プロの〜	24	24
+program	TRUE	[próugræm]	A	Noun	番組, プログラム	1	1
+programmer	FALSE	[próugræ̀mər]	A	Noun	プログラマー	21	21
+project	TRUE	[prάdʒekt]	A	Noun	計画, 事業	1	1
+promote	FALSE	[prəmóut]	B	Verb	促進する	56	56
+protection	FALSE	[prətékʃən]	A	Noun	保護	120	120
+proud	FALSE	[praud]	K	Adjective	誇りに思って	1	1
+be proud of ~	FALSE	—	—	—	〜を誇りに思っている	1	1
+pudding	FALSE	[púdiŋ]	A	Noun	プリン	1	1
+pull	TRUE	[pul]	B	Verb	引く	46	46
+pump	FALSE	[pʌmp]	B	Verb	(ポンプで) くみ上げる	130	130
+purple	TRUE	[pə́ːrpl]	K	Adjective	紫色(の)	1	1
+push	TRUE	[puʃ]	B	Verb	押す	47	47
+put	TRUE	[put]	B	Verb	置く, 入れる	1	1
+put on ~	FALSE	—	—	—	〜を身につける, 着る	1	1
+quarter	FALSE	[kwɔ́ːrtər]	A	Noun	4分の1	81	81
+queen	FALSE	[kwiːn]	A	Noun	女王	1	1
+question	TRUE	[kwéstʃən]	A	Noun	質問	1	1
+quickly	FALSE	[kwíkli]	G	Adverb	速く, 急いで	125	125
+quiet	TRUE	[kwáiət]	K	Adjective	静かな	1	1
+quietly	FALSE	[kwáiətli]	G	Adverb	おとなしく, 静かに	1	1
+quilt	FALSE	[kwilt]	A	Noun	キルト (装飾的に刺し子をして模様を浮き出させたふとん), 布団	125	125
+quite	FALSE	[kwait]	G	Adverb	まったく, かなり	102	102
+quiz	TRUE	[kwiz]	A	Noun	クイズ	132	132
+quota	FALSE	[kwóutə]	A	Noun	割り当て, 定員	6	6
+Qutb Minar	FALSE	[kúːtəb mɪnάːr]	A	Noun	クトゥブ・ミナール (インドのデリー南郊外にある尖塔)	1	1
+rabbit	TRUE	[rǽbit]	A	Noun	ウサギ	1	1
+raccoon dog	FALSE	[rækúːn dɔ́ːg]	A	Noun	タヌキ	1	1
+race	FALSE	[reis]	A	Noun	競争, 人種	1	1
+radio	TRUE	[réidiòu]	A	Noun	ラジオ	129	129
+rail	FALSE	[reil]	A	Noun	レール	1	1
+rain	TRUE	[rein]	A	Noun	雨	21	21
+rain	TRUE	[rein]	B	Verb	雨が降る	1	1
+rainbow	TRUE	[réinbòu]	A	Noun	虹	29	29
+rainy	TRUE	[réini]	K	Adjective	雨の	1	1
+ran	FALSE	[ræn]	B	Verb	(run の過去形)	79	79
+rare	FALSE	[rɛər]	K	Adjective	珍しい	1	1
+rat	FALSE	[ræt]	A	Noun	ネズミ (rat は mouse より大きい)	61	61
+re-entry	FALSE	[riːéntri]	A	Noun	再突入, 再び入ること	126	126
+reach	FALSE	[riːtʃ]	B	Verb	着く, 到着する	1	1
+read	TRUE	[riːd]	B	Verb	読む	1	1
+ready	TRUE	[rédi]	K	Adjective	準備ができて	1	1
+be ready to ~	FALSE	—	—	—	〜の準備ができている	61	61
+real	FALSE	[ríːəl]	K	Adjective	本当の, 生の, 本物の	1	1
+realize	FALSE	[ríːəlàiz]	B	Verb	〜をさとる, 〜がよくわかる	125	125
+really	TRUE	[ríːəli]	G	Adverb	本当に	1	1
+reason	FALSE	[ríːzn]	A	Noun	理由	113	113
+receive	FALSE	[risíːv]	B	Verb	受け取る	1	1
+recommend	FALSE	[rèkəménd]	B	Verb	〜をすすめる	30	30
+record	FALSE	[rékərd]	A	Noun	記録	1	1
+recover	FALSE	[rikʌ́vər]	B	Verb	回復する	99	99
+recycle	FALSE	[rìːsáikl]	B	Verb	再生利用する	1	1
+recycling	FALSE	[rìːsáikliŋ]	A	Noun	リサイクルされた	111	111
+red	TRUE	[red]	K	Adjective	赤い	1	1
+Red Street	FALSE	[réd stríːt]	A	Noun	レッド通り (架空の通りの名)	130	130
+reduce	FALSE	[ridjúːs]	B	Verb	減らす	1	1
+relax	FALSE	[rilǽks]	B	Verb	くつろぐ	1	1
+relay	FALSE	[ríːlei]	A	Noun	リレー(競走)	85	85
+reliable	FALSE	[riláiəbl]	K	Adjective	信頼できる	113	113
+relieved	FALSE	[rilíːvd]	K	Adjective	ほっとして	1	1
+remember	TRUE	[rimémbər]	B	Verb	思い出す, 覚えている	27	27
+renew	FALSE	[rinjúː]	B	Verb	新たにする	113	113
+rescue	FALSE	[réskjuː]	B	Verb	救助する	1	1
+research	FALSE	[risə́ːrtʃ]	B	Verb	研究する	129	129
+research	FALSE	[ríːsəːrtʃ]	A	Noun	研究	92	92
+respect	FALSE	[rispékt]	B	Verb	尊敬する	1	1
+restaurant	TRUE	[réstərὰnt]	A	Noun	レストラン	93	93
+result	FALSE	[rizʌ́lt]	A	Noun	結果	1	1
+return	TRUE	[ritə́ːrn]	B	Verb	もどる	95	95
+revolution	FALSE	[rèvəlúːʃən]	A	Noun	革命	1	1
+rhino	FALSE	[ráinou]	A	Noun	サイ	30	30
+rice	TRUE	[rais]	A	Noun	米, ごはん	1	1
+rich	FALSE	[ritʃ]	K	Adjective	豊かな, 金持ちの	109	109
+ride	TRUE	[raid]	B	Verb	乗る	1	1
+ride	TRUE	[raid]	A	Noun	乗ること	1	1
+right	TRUE	[rait]	G	Adverb	正しく	1	1
+right	TRUE	[rait]	K	Adjective	正しい	1	1
+right	TRUE	[rait]	K	Adjective	右の	47	47
+right	TRUE	[rait]	G	Adverb	(間をおいて強調して) ちょうど	1	1
+All right.	FALSE	—	—	—	よろしい, わかった	56	56
+Right?	FALSE	—	—	—	〜だよね, 〜でしょう	125	125
+That's right.	FALSE	—	—	—	そのとおりです	1	1
+ring	TRUE	[riŋ]	A	Noun	指輪	1	1
+rise	FALSE	[raiz]	B	Verb	太陽などが昇る	1	1
+road	TRUE	[roud]	A	Noun	道路	43	43
+robot	FALSE	[róubɑt]	A	Noun	ロボット	1	1
+rock	TRUE	[rɑk]	A	Noun	岩, ロック音楽	1	1
+role	FALSE	[roul]	A	Noun	役割	1	1
+romantic	FALSE	[roumǽntik]	K	Adjective	情熱的な	20	20
+room	TRUE	[ruːm]	A	Noun	部屋, 場所, 余地	1	1
+root	FALSE	[ruːt]	B	Verb	根をおろす	20	20
+rope	FALSE	[roup]	A	Noun	ロープ, なわ	1	1
+round	FALSE	[raund]	G	Adverb	ぐるりと	1	1
+rule	FALSE	[ruːl]	A	Noun	規則	1	1
+ruler	TRUE	[rúːlər]	A	Noun	定規	130	130
+run	TRUE	[rʌn]	B	Verb	走る	1	1
+run	TRUE	[rʌn]	A	Noun	走ること	79	79
+run short	FALSE	—	—	—	不足する	1	1
+runner	FALSE	[rʌ́nər]	A	Noun	走者, ランナー	1	1
+sad	TRUE	[sæd]	K	Adjective	悲しい	1	1
+safe	FALSE	[seif]	K	Adjective	安全な	60	60
+safely	FALSE	[séifli]	G	Adverb	安全に, 無事に	126	126
+safety	FALSE	[séifti]	A	Noun	安全, 無事	1	1
+said	FALSE	[sed]	B	Verb	(say の過去形・過去分詞)	46	46
+salad	TRUE	[sǽləd]	A	Noun	サラダ	1	1
+salami	FALSE	[səlάːmi]	A	Noun	サラミ	60	60
+salesperson	FALSE	[séilzpə̀ːrsn]	A	Noun	販売員	1	1
+salt	TRUE	[sɔːlt]	A	Noun	塩	1	1
+Sam	FALSE	[sæm]	A	Noun	サム (男子の名)	18	18
+same	FALSE	[seim]	K	Adjective	同じ	1	1
+the same	FALSE	—	—	—	同じもの[こと]	24	24
+sandwich	TRUE	[sǽndwitʃ]	A	Noun	サンドイッチ	1	1
+sang	FALSE	[sæŋ]	B	Verb	(sing の過去形)	111	111
+Santa Claus	FALSE	[sǽntə klɔ̀ːz]	A	Noun	サンタクロース	93	93
+Sao Paulo	FALSE	[sáu páulou]	A	Noun	サンパウロ (ブラジルの大都市)	1	1
+sat	FALSE	[sæt]	B	Verb	(sit の過去形・過去分詞)	83	83
+Saturday	TRUE	[sǽtərdèi]	A	Noun	土曜日	130	130
+sauna	FALSE	[sɔ́ːnə]	A	Noun	サウナ (蒸し風呂)	1	1
+sausage	FALSE	[sɔ́ːsidʒ]	A	Noun	ソーセージ	64	64
+save	TRUE	[seiv]	B	Verb	救う	1	1
+save	TRUE	[seiv]	B	Verb	蓄える	1	1
+saw	FALSE	[sɔː]	B	Verb	(see の過去形)	21	21
+say	TRUE	[sei]	B	Verb	言う	1	1
+scared	FALSE	[skɛərd]	K	Adjective	こわがって	130	130
+scarf	FALSE	[skɑːrf]	A	Noun	スカーフ	1	1
+scenery	FALSE	[síːnəri]	A	Noun	景色, 風景	1	1
+school	TRUE	[skuːl]	A	Noun	学校	1	1
+school trip	FALSE	[skúːl trìp]	A	Noun	修学旅行	59	59
+schoolchildren	FALSE	[skúːltʃìldrən]	A	Noun	(複数形で) 生徒数	1	1
+science	TRUE	[sáiəns]	A	Noun	理科, 科学	1	1
+scientific	FALSE	[sàiəntífik]	K	Adjective	科学の	1	1
+scientist	FALSE	[sáiəntist]	A	Noun	科学者	32	32
+scissors	FALSE	[sízərz]	A	Noun	はさみ	130	130
+scoop	FALSE	[skuːp]	B	Verb	すくう	1	1
+score	FALSE	[skɔər]	A	Noun	得点	1	1
+sea	TRUE	[siː]	A	Noun	海	32	32
+sea otter	FALSE	[síː ɔ́ːtər]	A	Noun	ラッコ	101	101
+seafood	FALSE	[síːfùːd]	A	Noun	シーフード (魚介類)	103	103
+seal	FALSE	[siːl]	A	Noun	アザラシ, 印鑑	1	1
+search	FALSE	[səːrtʃ]	B	Verb	探す, 捜索する	126	126
+season	TRUE	[síːzn]	A	Noun	季節	1	1
+seat	TRUE	[siːt]	A	Noun	席	81	81
+second	FALSE	[sékənd]	K	Adjective	2番目の	1	1
+second	FALSE	[sékənd]	A	Noun	秒	30	30
+secret	FALSE	[síːkrit]	A	Noun	秘密	48	48
+see	TRUE	[siː]	B	Verb	見る, 見える	1	1
+see	TRUE	[siː]	B	Verb	会う	1	1
+see	TRUE	[siː]	B	Verb	わかる	16	16
+I see.	FALSE	—	—	—	わかりました。	1	1
+seed	FALSE	[siːd]	A	Noun	種, 種子	105	105
+seen	FALSE	[siːn]	B	Verb	(see の過去分詞)	1	1
+selective	FALSE	[siléktiv]	K	Adjective	選択的な	74	74
+self	FALSE	[self]	A	Noun	自身, 自己	1	1
+sell	TRUE	[sel]	B	Verb	売る	36	36
+send	TRUE	[send]	B	Verb	送る	1	1
+sent	FALSE	[sent]	B	Verb	(send の過去形・過去分詞)	109	109
+September	TRUE	[septémbər]	A	Noun	9月	1	1
+set	FALSE	[set]	B	Verb	(太陽などが) 沈む	92	92
+set	FALSE	[set]	B	Verb	置く, 整える	1	1
+set	FALSE	[set]	A	Noun	ひとそろい	1	1
+seven	TRUE	[sévn]	K	Adjective	7の	1	1
+seventeen	FALSE	[sèvntíːn]	K	Adjective	17の	1	1
+seventeenth	FALSE	[sèvntíːnθ]	K	Adjective	17番目の	1	1
+seventh	FALSE	[sévnθ]	K	Adjective	7番目の	1	1
+seventy	FALSE	[sévnti]	K	Adjective	70の	1	1
+several	FALSE	[sévərəl]	K	Adjective	いくつかの	131	131
+shake	TRUE	[ʃeik]	B	Verb	振る	1	1
+shampoo	FALSE	[ʃæmpúː]	A	Noun	シャンプー	59	59
+share	FALSE	[ʃɛər]	B	Verb	分け合う	61	61
+she	TRUE	[ʃiː]	E	Pronoun	彼女は[が]	1	1
+she'll	FALSE	[ʃiːl]	—	—	(she is の短縮形)	69	69
+shelf	FALSE	[ʃelf]	A	Noun	棚 (複数形 shelves)	101	101
+ship	FALSE	[ʃip]	A	Noun	船	93	93
+shirt	TRUE	[ʃəːrt]	A	Noun	シャツ	1	1
+shoe	TRUE	[ʃuː]	A	Noun	くつ	1	1
+shoot	FALSE	[ʃuːt]	B	Verb	(〜をめがけて) シュートする	132	132
+shoot	FALSE	[ʃuːt]	B	Verb	撮影する	1	1
+shoot down ~	FALSE	—	—	—	〜を撃ち落とす	92	92
+shop	TRUE	[ʃɑp]	A	Noun	店	1	1
+go shopping	FALSE	—	—	—	買い物に行く	1	1
+shopping mall	FALSE	[ʃɑ́piŋ mɔ́ːl]	A	Noun	ショッピングモール	18	18
+short	TRUE	[ʃɔərt]	K	Adjective	短い	1	1
+short	TRUE	[ʃɔərt]	K	Adjective	背が低い	92	92
+short	TRUE	[ʃɔərt]	K	Adjective	不足して	131	131
+run short	FALSE	—	—	—	不足する	131	131
+shot	FALSE	[ʃɑt]	B	Verb	(shoot の過去形・過去分詞)	1	1
+shot	FALSE	[ʃɑt]	A	Noun	写真, スナップ	37	37
+should	FALSE	[ʃud, ʃəd]	M	Auxiliary verb	〜したほうがよい	1	1
+should	FALSE	[ʃud, ʃəd]	M	Auxiliary verb	〜すべきである	1	1
+show	TRUE	[ʃou]	B	Verb	見せる, 示す	1	1
+show	TRUE	[ʃou]	A	Noun	見せ物, ショー	37	37
+show ~ around ...	FALSE	—	—	—	〜に…を案内して回る	1	1
+shower	TRUE	[ʃáuər]	A	Noun	シャワー	1	1
+take a shower	FALSE	—	—	—	シャワーを浴びる	1	1
+shrimp	FALSE	[ʃrimp]	A	Noun	エビ	29	29
+shrine	FALSE	[ʃrain]	A	Noun	神社	1	1
+sick	TRUE	[sik]	K	Adjective	病気の	1	1
+sign	TRUE	[sain]	A	Noun	しるし, 看板	92	92
+sign	TRUE	[sain]	B	Verb	署名する	120	120
+silent	FALSE	[sáilənt]	K	Adjective	沈黙の	130	130
+silver	FALSE	[sɪ́lvər]	A	Noun	銀(色)	1	1
+similar	FALSE	[sɪ́mələr]	K	Adjective	似ている	127	127
+sing	TRUE	[siŋ]	B	Verb	歌う	1	1
+singer	TRUE	[sɪ́ŋər]	A	Noun	歌手	1	1
+sister	TRUE	[sɪ́stər]	A	Noun	姉, 妹	93	93
+sit	TRUE	[sit]	B	Verb	座る, 座っている	1	1
+sit up late at night	FALSE	—	—	—	夜ふかしをする	129	129
+site	FALSE	[sait]	A	Noun	ウェブサイト, 場所	127	127
+situation	FALSE	[sɪ̀tʃuéiʃən]	A	Noun	状況	1	1
+six	TRUE	[siks]	K	Adjective	6の	1	1
+sixteen	FALSE	[sìkstíːn]	K	Adjective	16の	1	1
+sixteenth	FALSE	[sìkstíːnθ]	K	Adjective	16番目の	1	1
+sixth	FALSE	[siksθ]	K	Adjective	6番目の	1	1
+sixty	FALSE	[sɪ́ksti]	K	Adjective	60の	1	1
+skate	TRUE	[skeit]	B	Verb	スケートをする	1	1
+skateboard	FALSE	[skéitbɔ̀ːrd]	A	Noun	スケートボード	131	131
+ski	TRUE	[skiː]	B	Verb	スキーをする	1	1
+skill	FALSE	[skil]	A	Noun	技術	1	1
+skillful	FALSE	[skílfəl]	K	Adjective	じょうずな	1	1
+skin	FALSE	[skin]	A	Noun	肌, 皮膚	1	1
+sky	TRUE	[skai]	A	Noun	空	1	1
+sleep	TRUE	[sliːp]	B	Verb	眠る	1	1
+slept	FALSE	[slept]	B	Verb	(sleep の過去形・過去分詞)	92	92
+slice	FALSE	[slais]	A	Noun	(薄く切った) 1切れ	1	1
+slip	FALSE	[slip]	B	Verb	すべる	1	1
+slipper	FALSE	[slípər]	A	Noun	スリッパ	131	131
+slow	TRUE	[slou]	K	Adjective	(速度が) 遅い	1	1
+slowly	TRUE	[slóuli]	G	Adverb	ゆっくり(と)	73	73
+small	TRUE	[smɔːl]	K	Adjective	小さい	1	1
+smartphone	FALSE	[smάːrtfòun]	A	Noun	スマートフォン	102	102
+smart	TRUE	[smɑːrt]	K	Adjective	頭のよい	1	1
+smell	FALSE	[smel]	B	Verb	〜のにおいがする, においをかぐ	53	53
+smell	FALSE	[smel]	A	Noun	におい, 香り	39	39
+smile	TRUE	[smail]	B	Verb	ほほえむ, にっこり笑う	1	1
+smile	TRUE	[smail]	A	Noun	ほほえみ	1	1
+smoke	FALSE	[smouk]	A	Noun	煙, スモークに	1	1
+snack	TRUE	[snæk]	A	Noun	軽食, スナック菓子	1	1
+sneaker	FALSE	[sníːkər]	A	Noun	スニーカー	130	130
+snow	TRUE	[snou]	A	Noun	雪	1	1
+snow	TRUE	[snou]	B	Verb	雪が降る	1	1
+snowboarding	FALSE	[snóubɔ̀ːrdiŋ]	A	Noun	スノーボード (競技)	131	131
+snowy	FALSE	[snóui]	K	Adjective	雪の降る, 雪の多い	1	1
+so	TRUE	[sou]	G	Adverb	それで, だから	1	1
+so	TRUE	[sou]	G	Adverb	それほど, そんなに	111	111
+so ~ that ...	FALSE	—	—	—	たいへん〜なので…だ	115	115
+so	TRUE	[sou]	G	Adverb	(間をつないで) そう	1	1
+so	TRUE	[sou]	G	Adverb	(前の文を受けて) 〜もまたそうである	12	12
+soap	FALSE	[soup]	A	Noun	せっけん	1	1
+soccer	TRUE	[sάkər]	A	Noun	サッカー	1	1
+social	FALSE	[sóuʃəl]	K	Adjective	社会の	1	1
+social studies	FALSE	[sóuʃəl stʌ́diz]	A	Noun	社会科	1	1
+soft	FALSE	[sɔːft]	K	Adjective	柔らかい, 優しい	33	33
+softball	FALSE	[sɔ́ftbɔ̀ːl]	A	Noun	ソフトボール	1	1
+soil	FALSE	[sɔil]	A	Noun	土, 土壌	102	102
+sold	FALSE	[sould]	B	Verb	(sell の過去形・過去分詞)	1	1
+solution	FALSE	[səlúːʃən]	A	Noun	解決策	126	126
+solve	FALSE	[sɑlv]	B	Verb	解決する	1	1
+some	TRUE	[sʌm]	K	Adjective	いくつかの, いくらかの	1	1
+some	TRUE	[sʌm]	E	Pronoun	いくらか, いくつか	1	1
+Some ~, others ....	FALSE	—	—	—	〜もいれば, …もいる	36	36
+somebody	FALSE	[sʌ́mbὰdi]	E	Pronoun	だれか	1	1
+someday	FALSE	[sʌ́mdèi]	G	Adverb	いつか	37	37
+something	TRUE	[sʌ́mθiŋ]	E	Pronoun	何か	1	1
+sometimes	TRUE	[sʌ́mtàimz]	G	Adverb	ときどき	1	1
+somewhere	FALSE	[sʌ́mhwὲər]	G	Adverb	どこかに[へ]	98	98
+son	TRUE	[sʌn]	A	Noun	息子	1	1
+song	TRUE	[sɔːŋ]	A	Noun	歌	8	8
+soon	TRUE	[suːn]	G	Adverb	すぐに, まもなく	1	1
+I'm sorry.	FALSE	—	—	—	ごめんなさい	1	1
+sorry	TRUE	[sάri]	K	Adjective	気の毒で, ごめんなさい	1	1
+sound	TRUE	[saund]	A	Noun	音	1	1
+sound	TRUE	[saund]	B	Verb	〜に思われる	15	15
+Sounds nice.	FALSE	—	—	—	よさそうですね	15	15
+soup	TRUE	[suːp]	A	Noun	スープ	1	1
+sour	FALSE	[sáuər]	K	Adjective	すっぱい	79	79
+south	TRUE	[sauθ]	A	Noun	南	1	1
+South Sudan	FALSE	[sáuθ suːdǽn]	A	Noun	南スーダン	24	24
+souvenir	FALSE	[sùːvəníər]	A	Noun	おみやげ (記念品)	88	88
+soy sauce	FALSE	[sɔ́i sɔ́ːs]	A	Noun	しょうゆ	1	1
+soy sauce-flavored	FALSE	[sɔ́i sɔ́ːs fléivərd]	K	Adjective	しょうゆ味の	1	1
+space	TRUE	[speis]	A	Noun	空間, 場所	81	81
+space	TRUE	[speis]	A	Noun	宇宙	125	125
+spaceship	FALSE	[spéisʃìp]	A	Noun	宇宙船	43	43
+spaghetti	FALSE	[spəgéti]	A	Noun	スパゲッティ	1	1
+Spain	TRUE	[spein]	A	Noun	スペイン	1	1
+sparkling water	FALSE	[spάːrkliŋ wɔ́ːtər]	A	Noun	発泡水	117	117
+speak	TRUE	[spiːk]	B	Verb	話す	1	1
+special	FALSE	[spéʃəl]	K	Adjective	特別な	11	11
+speech	TRUE	[spiːtʃ]	A	Noun	スピーチ, 演説	1	1
+spicy	FALSE	[spáisi]	K	Adjective	香辛料のきいた	43	43
+spider	FALSE	[spáidər]	A	Noun	クモ	1	1
+spinach	FALSE	[spínitʃ]	A	Noun	ホウレンソウ	1	1
+spoke	FALSE	[spouk]	B	Verb	(speak の過去形)	42	42
+spoken	FALSE	[spóukən]	B	Verb	(speak の過去分詞)	70	70
+sponsor	FALSE	[spάnsər]	B	Verb	スポンサーになる	1	1
+sport	TRUE	[spɔərt]	A	Noun	スポーツ	1	1
+sportsmanship	FALSE	[spɔ́ːrtsmənʃìp]	A	Noun	スポーツマンシップ	25	25
+spring	TRUE	[spriŋ]	A	Noun	春	130	130
+squirrel	FALSE	[skwə́ːrəl]	A	Noun	リス	86	86
+St.	FALSE	[seint]	A	Noun	〜通り (street の略)	1	1
+stage	TRUE	[steidʒ]	A	Noun	舞台, ステージ	1	1
+staff	FALSE	[stæf]	A	Noun	スタッフ, 職員	1	1
+stair	FALSE	[stɛər]	A	Noun	階段	1	1
+stand	TRUE	[stænd]	B	Verb	立つ	1	1
+stand	TRUE	[stænd]	A	Noun	屋台	108	108
+star	TRUE	[stɑːr]	A	Noun	星	1	1
+Star Wars	FALSE	[stάːr wɔ́ːrz]	A	Noun	スターウォーズ (映画のタイトル)	1	1
+start	TRUE	[stɑːrt]	B	Verb	始まる, 出発する	1	1
+start	TRUE	[stɑːrt]	A	Noun	はじめ, 出発	1	1
+station	TRUE	[stéiʃən]	A	Noun	駅	1	1
+stationery	FALSE	[stéiʃənèri]	A	Noun	文房具	109	109
+stationery store	FALSE	[stéiʃənèri stɔ́ːr]	A	Noun	文房具店	132	132
+stay	TRUE	[stei]	B	Verb	滞在する	1	1
+stay	TRUE	[stei]	B	Verb	(場所に) いる, とどまる	1	1
+steak	FALSE	[steik]	A	Noun	ステーキ	1	1
+steal	FALSE	[stiːl]	B	Verb	盗む	79	79
+stick	FALSE	[stik]	B	Verb	突き刺さる	1	1
+stick ~ to ...	FALSE	—	—	—	〜を…に貼りつける	79	79
+still	TRUE	[stil]	G	Adverb	まだ, 今でも	1	1
+stole	FALSE	[stoul]	B	Verb	(steal の過去形)	103	103
+stop	TRUE	[stɑp]	B	Verb	止める, 止まる	68	68
+store	TRUE	[stɔər]	A	Noun	店	1	1
+straight	FALSE	[streit]	G	Adverb	まっすぐに	116	116
+strawberry	TRUE	[strɔ́ːbèri]	A	Noun	イチゴ	109	109
+stream	FALSE	[striːm]	B	Verb	ストリーミング再生する, インターネット上で映像や音を受信しながら同時に再生する	1	1
+street	TRUE	[striːt]	A	Noun	通り, 街路	1	1
+strict	FALSE	[strikt]	K	Adjective	厳しい	1	1
+strike	FALSE	[straik]	B	Verb	襲う	1	1
+strong	TRUE	[strɔːŋ]	K	Adjective	強い, がんじょうな	1	1
+student	TRUE	[stjúːdnt]	A	Noun	生徒, 学生	1	1
+study	TRUE	[stʌ́di]	B	Verb	勉強する	1	1
+study	TRUE	[stʌ́di]	A	Noun	勉強, 研究	76	76
+style	TRUE	[stail]	A	Noun	型, やり方	1	1
+subject	TRUE	[sʌ́bdʒikt]	A	Noun	科目	1	1
+successful	FALSE	[səksésfl]	K	Adjective	成功した	23	23
+successfully	FALSE	[səksésfəli]	G	Adverb	うまく	127	127
+such	FALSE	[sʌtʃ]	K	Adjective	そのような	42	42
+such as ~	FALSE	—	—	—	〜のような	42	42
+sudden	FALSE	[sʌ́dn]	K	Adjective	突然の	1	1
+suddenly	FALSE	[sʌ́dnli]	G	Adverb	突然に	1	1
+sugar	TRUE	[ʃúgər]	A	Noun	砂糖	86	86
+suit	FALSE	[suːt]	B	Verb	〜に似合う	1	1
+sum	FALSE	[sʌm]	A	Noun	合計	1	1
+summer	TRUE	[sʌ́mər]	A	Noun	夏	1	1
+sun	TRUE	[sʌn]	A	Noun	太陽	1	1
+Sunday	TRUE	[sʌ́ndei]	A	Noun	日曜日	105	105
+sunflower	FALSE	[sʌ́nflàuər]	A	Noun	ヒマワリ	1	1
+sung	FALSE	[sʌŋ]	B	Verb	(sing の過去分詞)	108	108
+sunny	TRUE	[sʌ́ni]	K	Adjective	晴れた	1	1
+Sunshine Airlines	FALSE	[sʌ́nʃàin ɛ́ərlàinz]	A	Noun	サンシャイン航空 (架空の航空会社名)	117	117
+Sunshine Shopping Mall	FALSE	[sʌ́nʃàin ʃɑ́piŋ mɔ́ːl]	A	Noun	サンシャインショッピングモール (架空の複合商業施設名)	1	1
+supermarket	TRUE	[súːpərmὰːrkit]	A	Noun	スーパーマーケット	1	1
+support	TRUE	[səpɔ́ːrt]	B	Verb	支援する	1	1
+suppose	FALSE	[səpóuz]	B	Verb	(きっと)〜だと思う	1	1
+sure	TRUE	[ʃuər]	K	Adjective	確信して	1	1
+sure	TRUE	[ʃuər]	G	Adverb	(返事で) もちろんです, いいですとも	1	1
+surf	FALSE	[səːrf]	B	Verb	ネットサーフィンをする	1	1
+surprise	FALSE	[sərpráiz]	A	Noun	驚き	102	102
+surprise	FALSE	[sərpráiz]	B	Verb	驚かす	1	1
+survive	FALSE	[sərváiv]	B	Verb	生き延びる	80	80
+survivor	FALSE	[sərváivər]	A	Noun	生存者	93	93
+sweater	TRUE	[swétər]	A	Noun	セーター	1	1
+sweet	TRUE	[swiːt]	K	Adjective	甘い	1	1
+sweet	TRUE	[swiːt]	G	Adverb	(味覚が) 甘い	1	1
+swim	TRUE	[swim]	B	Verb	泳ぐ	27	27
+swimming	TRUE	[swímiŋ]	A	Noun	水泳	1	1
+swimming pool	FALSE	[swímiŋ pùːl]	A	Noun	水泳プール	1	1
+Sydney	FALSE	[sídni]	A	Noun	シドニー (オーストラリアの都市)	1	1
+table	TRUE	[téibl]	A	Noun	テーブル, 食卓	1	1
+table tennis	FALSE	[téibl tènis]	A	Noun	卓球	61	61
+tablet	FALSE	[tǽblət]	A	Noun	タブレット型コンピューター	66	66
+take	TRUE	[teik]	B	Verb	(写真・メモなど) をとる	1	1
+take	TRUE	[teik]	B	Verb	連れていく, 持っていく	1	1
+take	TRUE	[teik]	B	Verb	(乗り物) に乗る	1	1
+take	TRUE	[teik]	B	Verb	(時間) がかかる	1	1
+take a walk	FALSE	—	—	—	散歩する	71	71
+take a look	FALSE	—	—	—	見る	129	129
+take a nap	FALSE	—	—	—	昼寝をする	111	111
+take action	FALSE	—	—	—	行動を起こす	1	1
+take care	FALSE	—	—	—	気をつける	12	12
+take place	FALSE	—	—	—	行われる	23	23
+taken	FALSE	[téikən]	B	Verb	(take の過去分詞)	108	108
+talent	FALSE	[tǽlənt]	A	Noun	才能	1	1
+talk	TRUE	[tɔːk]	B	Verb	話す	1	1
+talkative	FALSE	[tɔ́ːkətiv]	K	Adjective	おしゃべりな	125	125
+tall	TRUE	[tɔːl]	K	Adjective	背が高い	1	1
+tambourine	FALSE	[tæ̀mbəríːn]	A	Noun	タンバリン	125	125
+Tanzania	FALSE	[tæ̀nzəníːə]	A	Noun	タンザニア (アフリカにある国)	21	21
+taste	TRUE	[teist]	A	Noun	味	31	31
+taste	TRUE	[teist]	B	Verb	〜の味がする	1	1
+taxi	TRUE	[tǽksi]	A	Noun	タクシー	1	1
+tea	TRUE	[tiː]	A	Noun	茶, 紅茶	1	1
+teach	TRUE	[tiːtʃ]	B	Verb	教える	24	24
+teacher	TRUE	[tíːtʃər]	A	Noun	先生, 教師	1	1
+team	TRUE	[tiːm]	A	Noun	チーム	1	1
+teamwork	FALSE	[tíːmwə̀ːrk]	A	Noun	チームワーク	127	127
+teeth	FALSE	[tiːθ]	A	Noun	(tooth の複数形)	1	1
+tell	TRUE	[tel]	B	Verb	話す, 言う	105	105
+temperature	FALSE	[témpərətʃər]	A	Noun	温度, 体温	1	1
+temple	TRUE	[témpl]	A	Noun	寺	29	29
+Tenryu River	FALSE	[ténrjuː rívər]	A	Noun	天竜川	1	1
+tennis	TRUE	[ténis]	A	Noun	テニス	1	1
+tense	FALSE	[tens]	K	Adjective	緊張した	129	129
+tent	FALSE	[tent]	A	Noun	テント	1	1
+tenth	FALSE	[tenθ]	K	Adjective	10番目の	1	1
+term-end exam	FALSE	[tə́ːrm ènd igzǽm]	A	Noun	期末試験	130	130
+terrible	FALSE	[térəbl]	K	Adjective	恐ろしい	1	1
+Texas	FALSE	[téksəs]	A	Noun	テキサス (米国南部の州)	130	130
+text	FALSE	[tekst]	A	Noun	本文	1	1
+text	FALSE	[tekst]	B	Verb	(携帯電話で) メールを送る	12	12
+than	TRUE	[ðæn]	D	Preposition	〜よりも	1	1
+thank	TRUE	[θæŋk]	B	Verb	感謝する	1	1
+Thank you.	FALSE	—	—	—	ありがとう。	1	1
+Thanks for ~.	FALSE	—	—	—	〜をありがとう。	13	13
+thank-you	FALSE	[θǽŋkjùː]	A	Noun	感謝	71	71
+that	TRUE	[ðæt]	K	Adjective	あの, その	1	1
+that	TRUE	[ðæt]	E	Pronoun	あれ, それ	1	1
+that	TRUE	[ðæt]	H	Conjunction	〜ということ	20	20
+that's	FALSE	[ðæts]	—	—	(that is の短縮形)	1	1
+that's	FALSE	[ðæts]	—	—	(接続詞 that が省略されている人の間で何を示唆するか知っているときに使う)	1	1
+the	TRUE	[ðiː, ðə]	K	Adjective	その	1	1
+the	TRUE	[ðiː, ðə]	K	Adjective	(特定のものをさして)	1	1
+the	TRUE	[ðiː, ðə]	K	Adjective	(固有名詞につける)	1	1
+the	TRUE	[ðiː, ðə]	K	Adjective	(同名の人物・物・時) 〜という	1	1
+the	TRUE	[ðiː, ðə]	G	Adverb	(比較級・最上級を強めて)	1	1
+theater	FALSE	[θíːətər]	A	Noun	劇場, 映画館	1	1
+their	TRUE	[ðɛər]	K	Adjective	彼ら[彼女ら, それら]の	1	1
+theirs	FALSE	[ðɛərz]	E	Pronoun	彼ら[彼女ら, それら]のもの	1	1
+them	TRUE	[ðem, ðəm]	E	Pronoun	彼ら[彼女ら, それら]を[に]	36	36
+themselves	FALSE	[ðəmsélvz]	E	Pronoun	彼ら[彼女ら, それら]自身	1	1
+then	TRUE	[ðen]	G	Adverb	それでは, それから	1	1
+then	TRUE	[ðen]	G	Adverb	そのとき	1	1
+there	TRUE	[ðɛər]	G	Adverb	そこに[で, へ]	1	1
+There is [are] ~.	FALSE	—	—	—	〜がある[いる]	38	38
+over there	FALSE	—	—	—	あそこに	1	1
+therefore	FALSE	[ðέərfɔ̀ːr]	G	Adverb	それゆえに	47	47
+these	TRUE	[ðiːz]	K	Adjective	これらの	1	1
+these	TRUE	[ðiːz]	E	Pronoun	これら(のもの)	43	43
+they	TRUE	[ðei]	E	Pronoun	彼ら[彼女ら, それら]は[が]	1	1
+they're	FALSE	[ðɛər]	—	—	(they are の短縮形)	57	57
+thick	FALSE	[θik]	K	Adjective	厚い	101	101
+thin	FALSE	[θin]	K	Adjective	薄い, (線が) 細い, やせた	32	32
+thing	TRUE	[θiŋ]	A	Noun	もの, こと	1	1
+think	TRUE	[θiŋk]	B	Verb	〜と思う, 考える	30	30
+third	FALSE	[θəːrd]	K	Adjective	3番目の	1	1
+thirteen	FALSE	[θə̀ːrtíːn]	K	Adjective	13の	1	1
+thirteenth	FALSE	[θə̀ːrtíːnθ]	K	Adjective	13番目の	1	1
+thirty	FALSE	[θə́ːrti]	K	Adjective	30の	1	1
+this	TRUE	[ðis]	K	Adjective	この	1	1
+this	TRUE	[ðis]	E	Pronoun	これ	1	1
+this	TRUE	[ðis]	G	Adverb	(時を表す語句の前で) 今〜, この〜	1	1
+Thomas Edison	FALSE	[tάməs édisn]	A	Noun	トーマス・エジソン (アメリカの発明家)	8	8
+those	TRUE	[ðouz]	K	Adjective	あれらの, それらの	1	1
+those	TRUE	[ðouz]	E	Pronoun	あれら[それら](のもの・人々)	25	25
+thought	FALSE	[θɔːt]	B	Verb	(think の過去形・過去分詞)	47	47
+thousand	FALSE	[θáuzənd]	K	Adjective	1,000の	1	1
+three	TRUE	[θriː]	K	Adjective	3の	1	1
+through	FALSE	[θruː]	D	Preposition	〜を通り抜けて, 貫いて	47	47
+Thursday	TRUE	[θə́ːrzdei]	A	Noun	木曜日	1	1
+ticket	TRUE	[tíkit]	A	Noun	切符, チケット	98	98
+tidy	FALSE	[táidi]	K	Adjective	きちんと片づいた, (人が) きれい好きな	73	73
+tie	FALSE	[tai]	A	Noun	ネクタイ	1	1
+tiger	FALSE	[táigər]	A	Noun	トラ	67	67
+Tiger	FALSE	[táigər]	A	Noun	タイガース (プロ野球チーム名)	67	67
+time	TRUE	[taim]	A	Noun	時, 時刻, 時間	1	1
+time	TRUE	[taim]	A	Noun	〜回, 〜倍	1	1
+at one time	FALSE	—	—	—	同時に	1	1
+have a good time	FALSE	—	—	—	楽しい時を過ごす	155	155
+on time	FALSE	—	—	—	時間どおりに	59	59
+~ times a day	FALSE	—	—	—	1日に〜回	101	101
+tiny	FALSE	[táini]	K	Adjective	ごく小さい, ちっちゃな	1	1
+tip	FALSE	[tip]	A	Noun	ヒント, コツ	115	115
+tired	FALSE	[táiərd]	K	Adjective	疲れた	1	1
+be tired of ~	FALSE	—	—	—	〜にうんざりしている	1	1
+to	TRUE	[tuː, tə]	D	Preposition	〜へ[に]	1	1
+to	TRUE	[tuː, tə]	D	Preposition	〜にとって	1	1
+today	TRUE	[tədéi]	G	Adverb	今日(は)	1	1
+together	TRUE	[təgéðər]	G	Adverb	いっしょに	1	1
+toilet	TRUE	[tɔ́ilit]	A	Noun	トイレ	70	70
+Tokyo International Airport	FALSE	[tóukjou ìnṭərnǽʃənl ɛ́ərpɔ̀ːrt]	A	Noun	東京国際空港	117	117
+told	FALSE	[tould]	B	Verb	(tell の過去形・過去分詞)	1	1
+tomato	TRUE	[təméitou]	A	Noun	トマト	106	106
+tomorrow	TRUE	[təmάrou]	G	Adverb	明日(は)	1	1
+ton	FALSE	[tʌn]	A	Noun	トン (重さの単位)	1	1
+tonight	TRUE	[tənáit]	G	Adverb	今夜(は)	1	1
+too	TRUE	[tuː]	G	Adverb	〜もまた	1	1
+too	TRUE	[tuː]	G	Adverb	〜すぎる	25	25
+tool	FALSE	[tuːl]	A	Noun	道具	1	1
+tooth	TRUE	[tuːθ]	A	Noun	歯	1	1
+top	TRUE	[tɑp]	A	Noun	頂上, てっぺん	37	37
+on top of ~	FALSE	—	—	—	〜に加えて	42	42
+topping	FALSE	[tάpiŋ]	A	Noun	トッピング	1	1
+torch	FALSE	[tɔərtʃ]	A	Noun	たいまつ	12	12
+touch	FALSE	[tʌtʃ]	B	Verb	さわる	1	1
+tough	FALSE	[tʌf]	K	Adjective	骨の折れる, 困難な	1	1
+tour	TRUE	[tuər]	A	Noun	旅行, 見学, 観覧	1	1
+tourist	TRUE	[túərist]	A	Noun	旅行者, 観光客	129	129
+toward	FALSE	[tɔərd]	D	Preposition	〜の方へ, 〜に向かって	108	108
+towel	TRUE	[táuəl]	A	Noun	タオル	1	1
+tower	TRUE	[táuər]	A	Noun	塔, タワー	1	1
+town	TRUE	[taun]	A	Noun	町	1	1
+toy	TRUE	[tɔi]	A	Noun	おもちゃ	132	132
+track	FALSE	[træk]	A	Noun	足跡	1	1
+track and field	FALSE	[trǽk ənd fíːld]	A	Noun	陸上競技	1	1
+tradition	FALSE	[trədíʃən]	A	Noun	伝統	1	1
+traditional	FALSE	[trədíʃənl]	K	Adjective	伝統的な	1	1
+traffic	TRUE	[trǽfik]	A	Noun	交通	1	1
+train	TRUE	[trein]	A	Noun	列車, 電車	1	1
+trampoline	FALSE	[træ̀mpəlíːn]	A	Noun	トランポリン	131	131
+travel	TRUE	[trǽvl]	B	Verb	旅行する	1	1
+treat	FALSE	[triːt]	B	Verb	扱う	56	56
+tree	TRUE	[triː]	A	Noun	木	1	1
+trip	TRUE	[trip]	A	Noun	旅行	1	1
+go on a trip	FALSE	—	—	—	旅行へ行く	1	1
+trombone	FALSE	[trɑmbóun]	A	Noun	トロンボーン	131	131
+trouble	FALSE	[trʌ́bl]	A	Noun	困ったこと	55	55
+trumpet	FALSE	[trʌ́mpit]	A	Noun	トランペット	1	1
+try	TRUE	[trai]	B	Verb	試す, やってみる	1	1
+try	TRUE	[trai]	B	Verb	〜しようと努力する	73	73
+Give it a try.	FALSE	—	—	—	やってみる	73	73
+T-shirt	FALSE	[tíːʃə̀ːrt]	A	Noun	Tシャツ	1	1
+Tuesday	TRUE	[tjúːzdei]	A	Noun	火曜日	1	1
+tulip	FALSE	[tjúːlip]	A	Noun	チューリップ	1	1
+Turkey	FALSE	[tə́ːrki]	A	Noun	トルコ	92	92
+turn	TRUE	[təːrn]	B	Verb	回る, 曲がる	1	1
+turn	TRUE	[təːrn]	B	Verb	(ページを) めくる, 裏返す	52	52
+turn down ~	FALSE	—	—	—	(ラジオなどの音量) を下げる	1	1
+turn off ~	FALSE	—	—	—	〜(スイッチ) を消す, 止める	83	83
+turtle	FALSE	[tə́ːrtl]	A	Noun	カメ	1	1
+tutor	FALSE	[tjúːtər]	B	Verb	個人指導をする	1	1
+TV	TRUE	[tìːvíː]	A	Noun	テレビ	1	1
+twelfth	FALSE	[twelfθ]	K	Adjective	12番目の	1	1
+twelve	TRUE	[twelv]	K	Adjective	12の	1	1
+twentieth	FALSE	[twéntiiθ]	K	Adjective	20番目の	1	1
+twenty	TRUE	[twénti]	K	Adjective	20の	1	1
+twenty-four seven	FALSE	[twéntifɔ́ːr sévn]	G	Adverb	年中無休で	64	64
+two	TRUE	[tuː]	K	Adjective	2の	1	1
+typhoon	FALSE	[taifúːn]	A	Noun	台風	93	93
+uh-huh	FALSE	[ʌ̀hʌ́]	C	Interjection	うん, はい	1	1
+uh-oh	FALSE	[ʌ́ou]	C	Interjection	おっと, うわっ (よくないことなどが起こったときに発する声)	52	52
+umbrella	TRUE	[ʌmbrélə]	A	Noun	傘	1	1
+uncle	TRUE	[ʌ́ŋkl]	A	Noun	おじ	1	1
+un-	FALSE	[ʌn]	—	—	(形容詞などにつけて) 〜でない	1	1
+under	TRUE	[ʌ́ndər]	D	Preposition	〜の下に[で]	1	1
+under water	FALSE	—	—	—	水中で	18	18
+understand	TRUE	[ʌ̀ndərstǽnd]	B	Verb	理解する, わかる	1	1
+uneasy	FALSE	[ʌníːzi]	K	Adjective	不安な	130	130
+uniform	TRUE	[júːnəfɔ̀ːrm]	A	Noun	制服, ユニフォーム	1	1
+unique	FALSE	[juːníːk]	K	Adjective	独特な, ユニークな	1	1
+university	TRUE	[jùːnəvə́ːrsəti]	A	Noun	大学	1	1
+unkind	FALSE	[ʌ̀nkáind]	K	Adjective	不親切な	24	24
+unknown	FALSE	[ʌ̀nnóun]	K	Adjective	未知の	1	1
+until	FALSE	[əntíl]	D	Preposition	〜まで(ずっと)	1	1
+up	TRUE	[ʌp]	G	Adverb	上へ[に]	1	1
+upstairs	FALSE	[ʌ̀pstέərz]	G	Adverb	階上へ	130	130
+U.S. [U.S.A.]	FALSE	[júːés(éi)]	A	Noun	アメリカ合衆国	1	1
+use	TRUE	[juːz]	B	Verb	使う	1	1
+use	TRUE	[juːz]	A	Noun	使うこと, 利用	71	71
+used	FALSE	[juːst]	K	Adjective	中古の	77	77
+useful	TRUE	[júːsfl]	K	Adjective	役に立つ	1	1
+usually	TRUE	[júːʒuəli]	G	Adverb	ふつうは	1	1
+vacation	TRUE	[veikéiʃən]	A	Noun	休暇	1	1
+Vancouver	FALSE	[vænkúːvər]	A	Noun	バンクーバー (カナダの都市)	29	29
+vegetable	TRUE	[védʒtəbl]	A	Noun	野菜	1	1
+vegetable shop	FALSE	[védʒtəbl ʃɑ̀p]	A	Noun	八百屋	132	132
+very	TRUE	[véri]	G	Adverb	とても, 非常に	1	1
+video	TRUE	[vídiòu]	A	Noun	ビデオ, 映像	112	112
+video game	FALSE	[vídiou gèim]	A	Noun	テレビゲーム	1	1
+view	FALSE	[vjuː]	A	Noun	眺め, 景色	1	1
+village	TRUE	[vílidʒ]	A	Noun	村	93	93
+violin	TRUE	[vàiəlín]	A	Noun	バイオリン	1	1
+visit	TRUE	[vízit]	B	Verb	訪問する, 訪れる	1	1
+visit	TRUE	[vízit]	A	Noun	訪問	127	127
+volleyball	TRUE	[vάlibɔ̀ːl]	A	Noun	バレーボール	1	1
+volume	FALSE	[vάljuːm]	A	Noun	音量	1	1
+volunteer	FALSE	[vὰlən tíər]	A	Noun	ボランティア	52	52
+volunteer work	FALSE	[vὰləntíər wə́ːrk]	A	Noun	ボランティア活動	1	1
+wait	TRUE	[weit]	B	Verb	待つ	32	32
+waiting room	FALSE	[wéitiŋ rùːm]	A	Noun	待合室	1	1
+walk	TRUE	[wɔːk]	B	Verb	歩く	1	1
+walk	TRUE	[wɔːk]	A	Noun	散歩	70	70
+go for a walk	FALSE	—	—	—	散歩する	1	1
+take a walk	FALSE	—	—	—	散歩する	1	1
+wall	TRUE	[wɔːl]	A	Noun	壁	1	1
+wallet	FALSE	[wɔ́lit]	A	Noun	財布	1	1
+want	TRUE	[wɑnt]	B	Verb	〜がほしい, 〜したい	1	1
+want to ~	FALSE	—	—	—	〜したい	1	1
+war	FALSE	[wɔər]	A	Noun	戦争	92	92
+warm	TRUE	[wɔərm]	K	Adjective	暖かい	1	1
+warm	TRUE	[wɔərm]	B	Verb	〜を温める	101	101
+warmhearted	FALSE	[wɔ́ːrmhὰːrtid]	K	Adjective	心の温かい	1	1
+was	FALSE	[wʌz, wəz]	B	Verb	(am, is の過去形)	1	1
+wasn't	FALSE	[wʌ́znt]	—	—	(was not の短縮形)	1	1
+wash	TRUE	[wɑʃ]	B	Verb	洗う	1	1
+watch	TRUE	[wɑtʃ]	B	Verb	(注意して) 見る	1	1
+watch	TRUE	[wɑtʃ]	A	Noun	腕時計	1	1
+water	TRUE	[wɔ́ːtər]	A	Noun	水	1	1
+water	TRUE	[wɔ́ːtər]	B	Verb	(植物などに) 水をやる	108	108
+water bottle	FALSE	[wɔ́ːtər bὰtl]	A	Noun	水筒	132	132
+waterfall	FALSE	[wɔ́ːtərfɔ̀ːl]	A	Noun	滝	1	1
+watermelon	FALSE	[wɔ́ːtərmèlən]	A	Noun	スイカ	50	50
+wave	TRUE	[weiv]	B	Verb	(手など) を振る	1	1
+way	TRUE	[wei]	A	Noun	道, 方法	1	1
+by the way	FALSE	—	—	—	ところで	11	11
+No way!	FALSE	—	—	—	まさか。とんでもない。	61	61
+on the way (back) to ~	FALSE	—	—	—	〜へ行く[帰る]途中で	1	1
+we	TRUE	[wiː]	E	Pronoun	私たちは[が]	1	1
+we'll	FALSE	[wiːl]	—	—	(we will の短縮形)	29	29
+wear	TRUE	[wɛər]	B	Verb	身につけている, 着る	1	1
+weather	TRUE	[wéðər]	A	Noun	天気	115	115
+website	FALSE	[wébsàit]	A	Noun	ウェブサイト	1	1
+Wednesday	TRUE	[wénzdei]	A	Noun	水曜日	1	1
+week	TRUE	[wiːk]	A	Noun	週, 1週間	1	1
+weekend	TRUE	[wíːkènd]	A	Noun	週末	1	1
+welcome	TRUE	[wélkəm]	C	Interjection	ようこそ, いらっしゃい	1	1
+Welcome to ~.	FALSE	—	—	—	〜へようこそ	1	1
+You're welcome.	FALSE	—	—	—	どういたしまして	1	1
+well	TRUE	[wel]	G	Adverb	上手に, うまく	1	1
+well	TRUE	[wel]	K	Adjective	健康で, 元気で	112	112
+get well	FALSE	—	—	—	健康になる, 体調がよくなる	112	112
+well	TRUE	[wel]	C	Interjection	ええと, まあ	1	1
+went	FALSE	[went]	B	Verb	(go の過去形)	61	61
+were	FALSE	[wəːr]	B	Verb	(are の過去形)	1	1
+weren't	FALSE	[wəːrnt]	—	—	(were not の短縮形)	1	1
+west	TRUE	[west]	A	Noun	西	79	79
+whale	FALSE	[hweil]	A	Noun	クジラ	1	1
+what	TRUE	[hwɑt, hwət]	E	Pronoun	何	1	1
+what	TRUE	[hwɑt, hwət]	K	Adjective	何の, どんな	1	1
+What's up?	FALSE	—	—	—	どうしたの。	56	56
+what's	FALSE	[hwɑts, hwəts]	—	—	(what is の短縮形)	1	1
+wheelchair	FALSE	[hwíːltʃέər]	A	Noun	車いす	1	1
+when	TRUE	[hwen]	G	Adverb	いつ	1	1
+when	TRUE	[hwen]	H	Conjunction	(〜する) とき	20	20
+where	TRUE	[hwɛər]	G	Adverb	どこに[で, へ]	1	1
+which	FALSE	[hwitʃ]	E	Pronoun	どちら, どれ	48	48
+which	FALSE	[hwitʃ]	K	Adjective	どちらの, どの	48	48
+while	FALSE	[hwail]	H	Conjunction	〜する間に, 〜しながら	47	47
+for a while	FALSE	—	—	—	しばらくの間	70	70
+white	TRUE	[hwait]	K	Adjective	白い	1	1
+who	TRUE	[huː]	E	Pronoun	だれ	33	33
+who's	FALSE	[huːz]	—	—	(who is の短縮形)	1	1
+whole	FALSE	[houl]	K	Adjective	全体の	1	1
+whose	FALSE	[huːz]	E	Pronoun	だれのもの	1	1
+why	TRUE	[hwai]	G	Adverb	なぜ, どうして	1	1
+Why don't we ~?	FALSE	—	—	—	〜しませんか。	1	1
+Why don't you ~?	FALSE	—	—	—	〜してはどうですか (提案して)	1	1
+will	TRUE	[wil]	M	Auxiliary verb	〜でしょう, 〜だろうと思う	15	15
+will	TRUE	[wil]	M	Auxiliary verb	〜するつもりだ	8	8
+win	TRUE	[win]	B	Verb	勝つ, 勝ち取る	1	1
+wind	TRUE	[wind]	A	Noun	風	1	1
+window	TRUE	[wíndou]	A	Noun	窓	1	1
+windy	FALSE	[wíndi]	K	Adjective	風のある, 風の強い	1	1
+Winnipeg	FALSE	[wínəpèg]	A	Noun	ウィニペグ (カナダの都市)	29	29
+winter	TRUE	[wíntər]	A	Noun	冬	116	116
+wire	FALSE	[wáiər]	A	Noun	針金	1	1
+wise	FALSE	[waiz]	K	Adjective	賢い, 知恵	47	47
+wish	TRUE	[wiʃ]	B	Verb	〜であればなあと思う, 願う	1	1
+wish	TRUE	[wiʃ]	A	Noun	願い, 望み	113	113
+Best wishes,	FALSE	—	—	—	(手紙などの結びの言葉) ご多幸を祈って	113	113
+with	TRUE	[wið]	D	Preposition	〜といっしょに	1	1
+with	TRUE	[wið]	D	Preposition	(手段・材料で) 〜で	36	36
+with	TRUE	[wið]	D	Preposition	(対象に対して) 〜に	79	79
+without	FALSE	[wiðáut]	D	Preposition	〜なしで, (〜しないで)	1	1
+wolf	FALSE	[wulf]	A	Noun	オオカミ	80	80
+woman	TRUE	[wúmən]	A	Noun	女性, 女の人	1	1
+women	FALSE	[wímin]	A	Noun	(woman の複数形)	1	1
+wonderful	TRUE	[wʌ́ndərfl]	K	Adjective	すばらしい	109	109
+wood	FALSE	[wud]	A	Noun	木材	1	1
+word	TRUE	[wəːrd]	A	Noun	語, ことば	1	1
+work	TRUE	[wəːrk]	B	Verb	働く	1	1
+work	TRUE	[wəːrk]	A	Noun	仕事, 職業, 職場	65	65
+worker	FALSE	[wə́ːrkər]	A	Noun	労働者, 働く人, 労働者	95	95
+world	TRUE	[wəːrld]	A	Noun	世界	1	1
+around the world	FALSE	—	—	—	世界中に[で]	1	1
+worried	FALSE	[wə́ːrid]	K	Adjective	心配した	12	12
+worry	FALSE	[wə́ːri]	B	Verb	心配する	1	1
+would	FALSE	[wud, wəd]	M	Auxiliary verb	(will の過去形)	1	1
+would like to ~	FALSE	—	—	—	〜したいのですが	1	1
+Would you like ~?	FALSE	—	—	—	〜はいかがですか。	1	1
+Wow!	FALSE	[wau]	C	Interjection	うわー, わあ	86	86
+wrap	FALSE	[ræp]	B	Verb	包む, くるむ	120	120
+write	TRUE	[rait]	B	Verb	書く, (手紙を) 作家	1	1
+written	FALSE	[rítn]	B	Verb	(write の過去分詞)	109	109
+wrote	FALSE	[rout]	B	Verb	(write の過去形)	50	50
+wrong	FALSE	[rɔːŋ]	K	Adjective	間違った	120	120
+xylophone	FALSE	[záiləfòun]	A	Noun	木琴	1	1
+yacht	FALSE	[jɑt]	A	Noun	ヨット	1	1
+yeah	FALSE	[jɛə]	C	Interjection	うん, はい (yes のくだけた表現)	1	1
+year	TRUE	[jiər]	A	Noun	年, 1年	1	1
+~ year(s) old	FALSE	—	—	—	〜歳[才]	1	1
+yellow	TRUE	[jélou]	K	Adjective	黄色(の)	1	1
+Yellowknife	FALSE	[jélounàif]	A	Noun	イエローナイフ (カナダの都市)	29	29
+yes	TRUE	[jes]	G	Adverb	はい	1	1
+yesterday	TRUE	[jéstərdèi]	G	Adverb	昨日(は)	1	1
+yet	TRUE	[jet]	G	Adverb	まだ	1	1
+yogurt	FALSE	[jóugərt]	A	Noun	ヨーグルト	79	79
+you	TRUE	[juː]	E	Pronoun	あなたは[が], あなたたち[は]	1	1
+you	TRUE	[juː]	E	Pronoun	あなたを[に], あなたたちを[に]	1	1
+You're kidding.	FALSE	—	—	—	まさか。冗談でしょう。	11	11
+young	TRUE	[jʌŋ]	K	Adjective	若い	1	1
+your	TRUE	[juər]	K	Adjective	あなたの[がたの]	1	1
+you'll	FALSE	[juːl]	—	—	(you will の短縮形)	12	12
+you're	FALSE	[juər]	—	—	(you are の短縮形)	1	1
+yours	FALSE	[juərz]	E	Pronoun	あなた[がた]のもの	1	1
+yourself	FALSE	[juərsélf]	E	Pronoun	あなた自身を[に]	1	1
+enjoy yourself	FALSE	—	—	—	楽しんでください	1	1
+zebra	FALSE	[zíːbrə]	A	Noun	シマウマ	1	1
+zero	FALSE	[zíərou]	K	Adjective	0の	1	1
+zoo	TRUE	[zuː]	A	Noun	動物園	1	1

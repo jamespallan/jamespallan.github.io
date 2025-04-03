@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dictionary Crossword Helper</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        header {
+            background-color: #f0f0f0;
+            padding: 10px 20px;
+            border-bottom: 1px solid #ccc;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        h1 { margin: 0; font-size: 1.5em; }
+
+        .grade-selector button {
+            padding: 5px 10px;
+            margin-left: 5px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            background-color: #eee;
+        }
+        .grade-selector button.active {
+            background-color: #4CAF50;
+            color: white;
+            border: 1px solid #367c39;
+            font-weight: bold;
+        }
+
+        main {
+            display: flex;
+            flex-grow: 1;
+            padding: 15px;
+            gap: 20px; /* Space between controls and table */
+        }
+
+        .controls-container {
+            display: flex;
+            flex-direction: column;
+            min-width: 280px; /* Slightly wider for more checkboxes */
+            max-width: 350px;
+            flex-shrink: 0;
+        }
+
+        .crossword-output-container {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 15px;
+            background-color: #f9f9f9;
+            min-height: 150px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        #crosswordOutput pre {
+            white-space: pre-wrap; /* Wrap long word lists */
+            word-wrap: break-word;
+            margin: 0;
+            font-size: 0.9em;
+        }
+         #generateCrosswordBtn {
+            display: block;
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+         #generateCrosswordBtn:hover {
+            background-color: #0056b3;
+         }
+
+         #copyCrosswordListBtn {
+            display: block;
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px; /* Keep consistent spacing */
+            background-color: #6c757d; /* Grey color */
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+         }
+         #copyCrosswordListBtn:hover {
+            background-color: #5a6268;
+         }
+         #copyCrosswordListBtn.copied { /* Style for feedback */
+            background-color: #28a745; /* Green */
+         }
+
+        .link-button {
+            display: block; /* Make it block level like buttons */
+            width: 100%; /* Account for padding */
+            padding: 8px;
+            margin-bottom: 15px; /* Consistent spacing */
+            background-color: #17a2b8; /* Teal/info color */
+            color: white !important; /* Ensure text is white, override default link color */
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            text-decoration: none; /* Remove underline */
+            text-align: center; /* Center text */
+            box-sizing: border-box; /* Include padding in width calculation */
+         }
+         .link-button:hover {
+            background-color: #138496; /* Darker teal on hover */
+            color: white !important;
+            text-decoration: none;
+         }
+
+                 /* ADD THIS CSS RULE */
+        #shuffleCrosswordListBtn {
+            /* Inherits some styles from general button rules if you have them */
+            padding: 8px; /* Match other buttons */
+            background-color: #ffc107; /* Amber/warning color */
+            color: #212529; /* Dark text for contrast */
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+         }
+         #shuffleCrosswordListBtn:hover {
+            background-color: #e0a800; /* Darker amber */
+         }
+        /* END OF ADDED CSS RULE */
+
+        /* Adjust existing button styles if needed */
+         .button-group button { /* Ensure buttons in group don't have extra bottom margin */
+             margin-bottom: 0;
+         }
+        /* ... rest of your CSS ... */
+
+        .filter-controls {
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        .filter-controls h3, .filter-controls h4 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+         .filter-controls h4 {
+             font-size: 0.95em;
+             margin-top: 15px;
+         }
+
+
+        .filter-group {
+            margin-bottom: 10px;
+        }
+         .filter-group-columns {
+             columns: 2; /* Display program checkboxes in columns */
+             -webkit-columns: 2;
+             -moz-columns: 2;
+             gap: 10px;
+             margin-top: 5px;
+         }
+
+
+        .filter-group label {
+            display: block;
+            margin-bottom: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+             break-inside: avoid-column; /* Prevent labels breaking across columns */
+        }
+        .filter-group input[type="checkbox"] {
+            margin-right: 5px;
+            vertical-align: middle;
+        }
+        .filter-group label.all-label { /* Style for "All ..." labels */
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .dictionary-table-container {
+            flex-grow: 1;
+            overflow: auto; /* Changed from overflow-x for general overflow */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 0;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 6px 8px;
+            text-align: left;
+            font-size: 0.9em;
+            white-space: nowrap; /* Prevent cell content wrapping initially */
+        }
+         td:nth-child(1), /* English Word */
+         td:nth-child(6) { /* Japanese Translation */
+             white-space: normal; /* Allow wrapping for specific columns */
+         }
+
+
+        th {
+            background-color: #f2f2f2;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        #status {
+            margin-top: 10px;
+            font-style: italic;
+            color: #555;
+            padding: 5px 10px;
+            border-top: 1px solid #eee;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Dictionary Crossword Helper</h1>
+        <div class="grade-selector">
+            <span>Grade:</span>
+            <button id="grade1Btn" class="active">1</button>
+            <button id="grade2Btn">2</button>
+            <button id="grade3Btn">3</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="controls-container">
+            <button id="generateCrosswordBtn">Generate Crossword Word List</button>
+            <!-- Group Copy and Shuffle Buttons -->
+            <div class="button-group" style="display: flex; gap: 5px; margin-top: 5px;">
+                <button id="copyCrosswordListBtn" style="flex-grow: 1;">Copy Word List</button>
+                <button id="shuffleCrosswordListBtn" style="flex-grow: 1;">Shuffle List</button> <!-- NEW SHUFFLE BUTTON -->
+           </div>
+           <!-- Link button remains below -->
+           <a href="https://crosswordlabs.com" target="_blank" rel="noopener noreferrer" id="generatorLinkBtn" class="link-button" style="margin-top: 5px;">
+               Go to Crossword Labs Generator
+           </a>
+            <div class="crossword-output-container">
+                 <pre id="crosswordOutput">Click button above to generate list...</pre>
+            </div>
+
+
+            <div class="filter-controls">
+                <h3>Filter Words</h3>
+
+                <div class="filter-group">
+                     <h4>General Filters:</h4>
+                     <label>
+                        <input type="checkbox" id="filterImportant"> Important Words Only (✔)
+                    </label>
+                </div>
+
+                <div class="filter-group" id="posFilterGroup">
+                    <h4>Parts of Speech:</h4>
+                    <label class="all-label">
+                        <input type="checkbox" id="filterAllPOS" checked> All Word Types
+                    </label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="A" checked> A: 名詞 (Noun)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="E" checked> E: 代名詞 (Pronoun)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="B" checked> B: 動詞 (Verb)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="M" checked> M: 助動詞 (Aux. Verb)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="K" checked> K: 形容詞 (Adjective)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="G" checked> G: 副詞 (Adverb)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="D" checked> D: 前置詞 (Preposition)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="H" checked> H: 接続詞 (Conjunction)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="C" checked> C: 感動詞 (Interjection)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="J" checked> J: 間投詞 (Interjection)</label>
+                    <label><input type="checkbox" class="pos-filter" data-pos="" checked> (No POS Listed)</label> <!-- Added for words potentially missing POS -->
+                </div>
+
+                 <div class="filter-group" id="programFilterGroup">
+                    <h4>Programs:</h4>
+                     <label class="all-label">
+                        <input type="checkbox" id="filterAllPrograms" checked> All Programs
+                    </label>
+                    <div id="programCheckboxesContainer" class="filter-group-columns">
+                        <!-- Program checkboxes will be inserted here -->
+                    </div>
+                 </div>
+            </div>
+             <div id="status">Loading Grade 1 data...</div>
+        </div>
+
+        <div class="dictionary-table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>English Word</th>
+                        <th>Imp.</th>
+                        <th>Pronunciation</th>
+                        <th>POS</th>
+                        <th>Part of Speech</th>
+                        <th>Japanese Translation</th>
+                        <th>Origin</th>
+                        <th>Page</th>
+                    </tr>
+                </thead>
+                <tbody id="dictionaryTableBody">
+                    <!-- Dictionary data will be loaded here -->
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <script>
+        const dictionaryTableBody = document.getElementById('dictionaryTableBody');
+        const statusDiv = document.getElementById('status');
+        const gradeButtons = {
+            1: document.getElementById('grade1Btn'),
+            2: document.getElementById('grade2Btn'),
+            3: document.getElementById('grade3Btn')
+        };
+        const filterImportantCheckbox = document.getElementById('filterImportant');
+        const filterAllPOSCheckbox = document.getElementById('filterAllPOS');
+        const posCheckboxes = document.querySelectorAll('.pos-filter');
+        const posFilterGroup = document.getElementById('posFilterGroup');
+
+        const filterAllProgramsCheckbox = document.getElementById('filterAllPrograms');
+        const programFilterGroup = document.getElementById('programFilterGroup');
+        const programCheckboxesContainer = document.getElementById('programCheckboxesContainer');
+
+        const generateCrosswordBtn = document.getElementById('generateCrosswordBtn');
+        const copyCrosswordListBtn = document.getElementById('copyCrosswordListBtn');
+        const shuffleCrosswordListBtn = document.getElementById('shuffleCrosswordListBtn');
+        const crosswordOutput = document.getElementById('crosswordOutput');
+
+
+        let fullDictionaryData = [];
+        let currentGrade = 1;
+        let currentlyDisplayedData = []; // Keep track of data shown in table
+        let lastGeneratedWordList = '';
+
+        // --- Define Program Page Ranges (UPDATED) ---
+        const programPageRanges = {
+            1: [ // Grade 1 (10 programs)
+                { start: 21, end: 28 }, { start: 29, end: 36 }, { start: 37, end: 50 },
+                { start: 51, end: 60 }, { start: 61, end: 70 }, { start: 71, end: 80 }, { start: 81, end: 98 },
+                { start: 99, end: 108 }, { start: 109, end: 122 }, { start: 123, end: 144 }
+            ],
+            2: [ // Grade 2 (8 programs)
+                { start: 7, end: 18 }, { start: 19, end: 30 }, { start: 31, end: 50 },
+                { start: 51, end: 64 }, { start: 65, end: 74 }, { start: 75, end: 96 }, { start: 97, end: 106 },
+                { start: 107, end: 144 }
+            ],
+            3: [ // Grade 3 (Assuming 7 programs - ADD RANGES WHEN KNOWN)
+                 { start: 1, end: 1 }, { start: 1, end: 1 }, { start: 1, end: 1 },
+                 { start: 1, end: 1 }, { start: 1, end: 1 }, { start: 1, end: 1 },
+                 { start: 1, end: 1 } // Placeholder ranges
+            ]
+        };
+         const programCounts = { 1: 10, 2: 8, 3: 7 }; // Number of programs per grade
+
+        // --- Helper Functions ---
+
+        function parseTSV(tsvString) {
+            const lines = tsvString.trim().split('\n');
+            if (lines.length <= 1) return []; // Handle empty or header-only file
+            const data = [];
+            const indices = { english: 0, important: 1, pronunciation: 2, posSymbol: 3, posJapanese: 4, japanese: 5, origin: 6, page: 7 };
+
+            for (let i = 1; i < lines.length; i++) {
+                const columns = lines[i].split('\t');
+                if (columns.length >= 8) {
+                    data.push({
+                        english: columns[indices.english]?.trim() || '',
+                        isImportant: columns[indices.important]?.trim().toLowerCase() === 'true',
+                        pronunciation: columns[indices.pronunciation]?.trim() || '',
+                        posSymbol: columns[indices.posSymbol]?.trim() || '', // Keep empty string if no POS
+                        posJapanese: columns[indices.posJapanese]?.trim() || '',
+                        japanese: columns[indices.japanese]?.trim() || '',
+                        origin: columns[indices.origin]?.trim() || '',
+                        referencePage: parseInt(columns[indices.page]?.trim(), 10) || null
+                    });
+                } else if (columns.length > 0 && columns[0].trim() !== '') {
+                     console.warn(`Skipping malformed line ${i + 1}: ${lines[i]}`);
+                }
+            }
+            return data;
+        }
+
+         function updateProgramCheckboxes(grade) {
+            programCheckboxesContainer.innerHTML = ''; // Clear old ones
+            const count = programCounts[grade] || 0;
+            const fragment = document.createDocumentFragment();
+
+            for (let i = 0; i < count; i++) {
+                const label = document.createElement('label');
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.className = 'program-filter';
+                checkbox.dataset.programindex = i; // Store 0-based index
+                checkbox.checked = filterAllProgramsCheckbox.checked; // Sync with "All"
+
+                label.appendChild(checkbox);
+                label.appendChild(document.createTextNode(` Program ${i + 1}`));
+                fragment.appendChild(label);
+            }
+            programCheckboxesContainer.appendChild(fragment);
+         }
+
+
+        function renderTable(data) {
+            dictionaryTableBody.innerHTML = ''; // Clear existing rows
+             currentlyDisplayedData = data; // Update the tracked displayed data
+            if (data.length === 0) {
+                 dictionaryTableBody.innerHTML = '<tr><td colspan="8">No matching words found.</td></tr>';
+                 return;
+            }
+
+            const fragment = document.createDocumentFragment();
+            data.forEach(word => {
+                const row = document.createElement('tr');
+                // Added checks for null/undefined where appropriate
+                row.innerHTML = `
+                    <td>${word.english || ''}</td>
+                    <td>${word.isImportant ? '✔' : ''}</td>
+                    <td>${word.pronunciation || ''}</td>
+                    <td>${word.posSymbol || ''}</td>
+                    <td>${word.posJapanese || ''}</td>
+                    <td>${word.japanese || ''}</td>
+                    <td>${word.origin || ''}</td>
+                    <td>${word.referencePage !== null ? word.referencePage : ''}</td>
+                `;
+                fragment.appendChild(row);
+            });
+            dictionaryTableBody.appendChild(fragment);
+        }
+
+        function filterAndDisplayData() {
+            let filteredData = [...fullDictionaryData];
+
+            // 1. Filter by Important Words
+            if (filterImportantCheckbox.checked) {
+                filteredData = filteredData.filter(word => word.isImportant);
+            }
+
+            // 2. Filter by Part of Speech
+            if (!filterAllPOSCheckbox.checked) {
+                const selectedPOS = new Set();
+                posCheckboxes.forEach(cb => {
+                    if (cb.checked) {
+                        selectedPOS.add(cb.dataset.pos); // data-pos includes "" for the 'No POS' checkbox
+                    }
+                });
+
+                if (selectedPOS.size > 0) {
+                    filteredData = filteredData.filter(word => selectedPOS.has(word.posSymbol));
+                } else {
+                    filteredData = []; // Show nothing if no POS selected
+                }
+            }
+
+            // 3. Filter by Programs
+            if (!filterAllProgramsCheckbox.checked) {
+                 const selectedProgramIndices = new Set();
+                 const currentProgramCheckboxes = programCheckboxesContainer.querySelectorAll('.program-filter');
+                 currentProgramCheckboxes.forEach(cb => {
+                     if (cb.checked) {
+                         selectedProgramIndices.add(parseInt(cb.dataset.programindex, 10));
+                     }
+                 });
+
+                 if (selectedProgramIndices.size > 0) {
+                     const allowedRanges = programPageRanges[currentGrade] || [];
+                     filteredData = filteredData.filter(word => {
+                         if (word.referencePage === null) return false; // Word needs page number for program filter
+                         for (const index of selectedProgramIndices) {
+                             const range = allowedRanges[index];
+                             if (range && word.referencePage >= range.start && word.referencePage <= range.end) {
+                                 return true; // Belongs to at least one selected program
+                             }
+                         }
+                         return false; // Doesn't belong to any selected program
+                     });
+                 } else {
+                     // If "All Programs" is off AND no individual programs selected, show only non-program words?
+                     // Or show nothing? Let's show nothing for consistency with POS filter.
+                     filteredData = [];
+                 }
+            }
+
+            // Render the filtered data
+            renderTable(filteredData);
+            statusDiv.textContent = `Displaying ${currentlyDisplayedData.length} of ${fullDictionaryData.length} words for Grade ${currentGrade}.`;
+        }
+
+        async function loadDictionary(grade) {
+            currentGrade = grade;
+            statusDiv.textContent = `Loading Grade ${grade} data...`;
+            dictionaryTableBody.innerHTML = `<tr><td colspan="8">Loading...</td></tr>`; // Show loading state
+            crosswordOutput.textContent = 'Load new grade data first...'; // Reset crossword output
+
+            // Update active button style
+            Object.values(gradeButtons).forEach(btn => btn.classList.remove('active'));
+            if (gradeButtons[grade]) {
+                gradeButtons[grade].classList.add('active');
+            }
+
+            // Update program checkboxes for the new grade
+            updateProgramCheckboxes(grade);
+
+            try {
+                const response = await fetch(`dictionary-grade-${grade}.txt`);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status} - Could not load dictionary-grade-${grade}.txt`);
+                }
+                const tsvData = await response.text();
+                fullDictionaryData = parseTSV(tsvData);
+                // Reset filters or apply default filters? Let's apply current filters.
+                filterAndDisplayData();
+            } catch (error) {
+                console.error('Error loading dictionary:', error);
+                statusDiv.textContent = `Error loading Grade ${grade} data: ${error.message}. Ensure dictionary-grade-${grade}.txt exists and server is running.`;
+                dictionaryTableBody.innerHTML = `<tr><td colspan="8">Error loading data. Check console.</td></tr>`;
+                fullDictionaryData = [];
+                 currentlyDisplayedData = [];
+                filterAndDisplayData(); // Render empty state
+            }
+        }
+
+         // --- Crossword "Generation" (Formatted List Output) ---
+              // --- Crossword "Generation" (Merge Duplicates, Format, Store for Copy) ---
+        function generateCrosswordWordList() {
+            lastGeneratedWordList = ''; // Reset copy buffer
+            if (currentlyDisplayedData.length === 0) {
+                crosswordOutput.textContent = 'No words currently filtered to generate a list.';
+                return;
+            }
+
+            const mergedEntries = new Map(); // Use Map: Key = modifiedEnglish, Value = Array of Japanese translations
+
+            // --- Step 1: Populate the Map with merged entries ---
+            currentlyDisplayedData.forEach(word => {
+                const originalEnglish = word.english?.trim(); // Use optional chaining and trim
+                const japaneseTranslation = word.japanese?.trim();
+
+                if (!originalEnglish || !japaneseTranslation) {
+                    return; // Skip if essential parts are missing
+                }
+
+                // Replace spaces -> underscores, convert to uppercase
+                const modifiedEnglish = originalEnglish.replace(/\s+/g, '_').toUpperCase();
+
+                if (modifiedEnglish.length <= 1) {
+                    return; // Skip very short words (adjust if needed)
+                }
+
+                // Get the array of Japanese translations for this English word (or create if new)
+                const existingTranslations = mergedEntries.get(modifiedEnglish) || [];
+                existingTranslations.push(japaneseTranslation); // Add the current translation
+                mergedEntries.set(modifiedEnglish, existingTranslations); // Update the Map
+            });
+
+
+            // --- Step 2: Format the output list from the Map ---
+            const potentialEntries = [];
+            mergedEntries.forEach((japaneseArray, modifiedEnglish) => {
+                // Add a period to each Japanese definition and join with a space
+                const combinedJapanese = japaneseArray
+                    .map(t => t.trim() + '.') // Add period to each translation
+                    .join(' '); // Join with a space
+
+                potentialEntries.push(`${modifiedEnglish} ${combinedJapanese}`);
+            });
+
+
+            if (potentialEntries.length === 0) {
+                crosswordOutput.textContent = 'No suitable word entries found in the current filter results after processing.';
+                lastGeneratedWordList = ''; // Ensure buffer is empty
+                return;
+            }
+
+            // --- Step 3: Prepare output and store for copying ---
+            // Sort alphabetically by the English word? Optional but nice.
+            potentialEntries.sort((a, b) => a.localeCompare(b));
+
+            const headerText = `Formatted word list for generator (${potentialEntries.length}):\n\n`;
+            const listContent = potentialEntries.join('\n');
+
+            // Store *only* the list content for copying
+            lastGeneratedWordList = listContent;
+
+            // Display the header + list content in the UI
+            crosswordOutput.textContent = headerText + listContent;
+        }
+
+        // --- Shuffle the currently generated word list ---
+        function shuffleWordList() {
+            if (!lastGeneratedWordList) {
+                alert("Please generate the word list first before shuffling!");
+                return;
+            }
+
+            // 1. Split the list into lines
+            let lines = lastGeneratedWordList.split('\n');
+
+            // 2. Shuffle the array of lines (Fisher-Yates Algorithm)
+            for (let i = lines.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [lines[i], lines[j]] = [lines[j], lines[i]]; // Swap elements
+            }
+
+            // 3. Join back into a string
+            const shuffledListString = lines.join('\n');
+
+            // 4. Update the variable used for copying
+            lastGeneratedWordList = shuffledListString;
+
+            // 5. Update the display area, preserving the header concept
+            const headerText = `Formatted word list for generator (${lines.length}):\n\n`;
+            crosswordOutput.textContent = headerText + shuffledListString;
+
+            // Optional: Give feedback on the shuffle button itself
+            const originalShuffleText = shuffleCrosswordListBtn.textContent;
+            shuffleCrosswordListBtn.textContent = 'Shuffled!';
+            setTimeout(() => {
+                shuffleCrosswordListBtn.textContent = originalShuffleText;
+            }, 1000); // Reset after 1 second
+        }
+
+        // --- Event Listeners ---
+
+        // Grade selection buttons
+        Object.entries(gradeButtons).forEach(([grade, button]) => {
+            button?.addEventListener('click', () => loadDictionary(parseInt(grade, 10)));
+        });
+
+        // General Filters
+         filterImportantCheckbox.addEventListener('change', filterAndDisplayData);
+
+        // POS Filters
+        filterAllPOSCheckbox.addEventListener('change', () => {
+            const isChecked = filterAllPOSCheckbox.checked;
+            posCheckboxes.forEach(cb => { cb.checked = isChecked; });
+            filterAndDisplayData(); // Explicitly trigger filter after changing all
+        });
+        posFilterGroup.addEventListener('change', (event) => { // Use delegation
+             if (event.target.classList.contains('pos-filter')) {
+                let allChecked = true;
+                posCheckboxes.forEach(cb => { if (!cb.checked) allChecked = false; });
+                filterAllPOSCheckbox.checked = allChecked;
+                filterAndDisplayData(); // Filter when individual POS changes
+             }
+        });
+            // Copy Button Listener
+        copyCrosswordListBtn.addEventListener('click', () => {
+            if (!lastGeneratedWordList) {
+                alert("Please generate the word list first!");
+                return;
+            }
+
+            navigator.clipboard.writeText(lastGeneratedWordList)
+                .then(() => {
+                    // Success feedback
+                    const originalText = copyCrosswordListBtn.textContent;
+                    copyCrosswordListBtn.textContent = 'Copied!';
+                    copyCrosswordListBtn.classList.add('copied'); // Optional style change
+                    setTimeout(() => {
+                        copyCrosswordListBtn.textContent = originalText;
+                        copyCrosswordListBtn.classList.remove('copied');
+                    }, 1500); // Reset after 1.5 seconds
+                })
+                .catch(err => {
+                    console.error('Failed to copy text: ', err);
+                    alert('Failed to copy text. See console for details.');
+                });
+        });
+
+        shuffleCrosswordListBtn.addEventListener('click', shuffleWordList);
+
+
+        // Program Filters
+        filterAllProgramsCheckbox.addEventListener('change', () => {
+            const isChecked = filterAllProgramsCheckbox.checked;
+            programCheckboxesContainer.querySelectorAll('.program-filter').forEach(cb => {
+                cb.checked = isChecked;
+            });
+             filterAndDisplayData(); // Explicitly trigger filter
+        });
+        programCheckboxesContainer.addEventListener('change', (event) => { // Use delegation
+            if (event.target.classList.contains('program-filter')) {
+                 let allChecked = true;
+                 programCheckboxesContainer.querySelectorAll('.program-filter').forEach(cb => {
+                     if (!cb.checked) allChecked = false;
+                 });
+                 filterAllProgramsCheckbox.checked = allChecked;
+                 filterAndDisplayData(); // Filter when individual program changes
+            }
+        });
+
+        // Crossword Button
+         generateCrosswordBtn.addEventListener('click', generateCrosswordWordList);
+
+
+        // --- Initial Load ---
+        loadDictionary(currentGrade); // Load Grade 1 data on page load
+
+    </script>
+
+</body>
+</html>
