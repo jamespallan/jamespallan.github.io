@@ -1,0 +1,160 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#quiz-container {
+    background-color: #ffffff; /* White background for quiz box */
+    padding: 25px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+}
+
+#quiz-title {
+    color: #0056b3; /* Darker blue for title */
+    margin-bottom: 20px;
+}
+
+#progress-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+#question-area {
+    margin-bottom: 20px;
+}
+
+#image-container {
+    margin-bottom: 20px;
+    min-height: 150px; /* Ensure space even if image is small/missing */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#question-image {
+    max-width: 100%;
+    max-height: 250px; /* Adjust as needed */
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: block; /* Default display */
+}
+
+#image-description-fallback {
+    font-style: italic;
+    color: #777;
+    display: none; /* Hidden by default */
+}
+
+#question-text {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+#options-container button {
+    display: block;
+    width: 100%;
+    padding: 12px 15px;
+    margin: 8px 0;
+    font-size: 1em;
+    background-color: #e7f1ff; /* Light blue background for buttons */
+    color: #0056b3;
+    border: 1px solid #b3d7ff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+    text-align: left;
+}
+
+#options-container button:hover:not(:disabled) {
+    background-color: #d0e5ff;
+    border-color: #99caff;
+}
+
+#options-container button:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+/* Feedback styles */
+.feedback {
+    margin-top: 15px;
+    font-weight: bold;
+    min-height: 1.5em; /* Reserve space */
+}
+.feedback.correct {
+    color: #28a745; /* Green */
+}
+.feedback.incorrect {
+    color: #dc3545; /* Red */
+}
+
+/* Button state styles */
+button.correct {
+    background-color: #d4edda !important;
+    border-color: #c3e6cb !important;
+    color: #155724 !important;
+}
+button.incorrect {
+    background-color: #f8d7da !important;
+    border-color: #f5c6cb !important;
+    color: #721c24 !important;
+}
+button.reveal-correct {
+     background-color: #d4edda !important; /* Highlight correct answer if user was wrong */
+     border-color: #c3e6cb !important;
+     color: #155724 !important;
+}
+
+
+#next-button, #restart-button {
+    display: block; /* Changed from inline-block */
+    width: auto; /* Let it size based on content */
+    min-width: 150px; /* Give it a minimum width */
+    margin: 20px auto 0; /* Center the button */
+    padding: 10px 25px;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #007bff; /* Primary blue */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#next-button:hover, #restart-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.hidden {
+    display: none;
+}
+
+#results-container h2 {
+    color: #28a745; /* Green for success */
+    margin-bottom: 15px;
+}
+
+#results-container p {
+    font-size: 1.1em;
+    margin-bottom: 25px;
+}
